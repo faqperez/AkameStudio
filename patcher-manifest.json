@@ -110,8 +110,8 @@
     },
     {
       "path": "System/CheckAttendance_EN.lub",
-      "sha256": "44ade5c0b9a38ca103e25a8eb9b3bc7440db58290e4bad1bd5044bacc0f535bc",
-      "size": 1230,
+      "size": 818,
+      "sha256": "fcf552b91fce9a8025c44baea6bff22fb784dbeedd5b811ac698b716f31cb040",
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/CheckAttendance_EN.lub"
     },
     {
@@ -119,6 +119,30 @@
       "sha256": "f6ef36be3a034e927b4fa203e004ba4d4a4fcf35e94813ac5c20d40537bd0ebf",
       "size": 3987,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/Sign_Data_EN.lub"
+    },
+    {
+      "path": "CDClient.dll",
+      "size": 12288,
+      "sha256": "2338131484b412de5738ae7c59b4d993a73676785552f6224fdaba594107671c",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/CDClient.dll"
+    },
+    {
+      "path": "aossdk.dll",
+      "size": 254083,
+      "sha256": "2a4aa5b75372c7f1aff830f5937b7953442dd3856e8d93e4349a3ef76d877d42",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/aossdk.dll"
+    },
+    {
+      "path": "v3hunt.dll",
+      "size": 131201,
+      "sha256": "f4afe407bea443adbb18387de30bf139e8ff8cd6028464f200efc55d1348cce9",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/v3hunt.dll"
+    },
+    {
+      "path": "System/CheckAttendance.lub",
+      "size": 818,
+      "sha256": "fcf552b91fce9a8025c44baea6bff22fb784dbeedd5b811ac698b716f31cb040",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/CheckAttendance.lub"
     }
   ]
 }
