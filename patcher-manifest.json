@@ -1,0 +1,124 @@
+{
+  "gameId": "ro",
+  "version": "1.2.6",
+  "serverHost": "172.30.0.10",
+  "serverPort": 6900,
+  "miniPatchChunks": [
+    {
+      "name": "AkameRO-Mini-Patch.zip.001",
+      "size": 26214400,
+      "sha256": "2c279a9fde70403def22c6f7cb9d778d81e76c11393b13a30bb3feca0e61872d",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/AkameRO-Mini-Patch.zip.001"
+    },
+    {
+      "name": "AkameRO-Mini-Patch.zip.002",
+      "size": 26214400,
+      "sha256": "d2899b6986d313e678b349f4c12452dfd0101a84736d316bec15d1f42183b3f9",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/AkameRO-Mini-Patch.zip.002"
+    },
+    {
+      "name": "AkameRO-Mini-Patch.zip.003",
+      "size": 1781486,
+      "sha256": "d07b0f0bb1251bbdc61645319c1fa7c80dc7e5b15d147d4fad6426e3a853ca26",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/AkameRO-Mini-Patch.zip.003"
+    }
+  ],
+  "files": [
+    {
+      "path": "AkameRO.exe",
+      "sha256": "74030f58fe161761638804b0a1f94fa60358b6933bb744ebec534c4dd52fbb06",
+      "size": 9143808,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/AkameRO.exe"
+    },
+    {
+      "path": "DATA.INI",
+      "sha256": "85500fb6775fa7fabd7587db2160d620aa41cb140a4b53e7c65607b977d8737a",
+      "size": 63,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/DATA.INI"
+    },
+    {
+      "path": "akame.grf",
+      "sha256": "ba0349e69a1b72ff52d1808828775742cf0c14392e4304b1ade5ea2339c760f0",
+      "size": 11320718,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/akame.grf"
+    },
+    {
+      "path": "data/clientinfo.xml",
+      "sha256": "dcc674d409bbefb16cf2d4a43b2a8e5e5a25c516e3361b5efec42846f2205585",
+      "size": 679,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/clientinfo.xml"
+    },
+    {
+      "path": "data/sclientinfo.xml",
+      "sha256": "dcc674d409bbefb16cf2d4a43b2a8e5e5a25c516e3361b5efec42846f2205585",
+      "size": 679,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/sclientinfo.xml"
+    },
+    {
+      "path": "data/msgstringtable.txt",
+      "sha256": "f31f9c4fc2567516bb8cda041812f6b216a7cb12051826edefc49a525fa8935f",
+      "size": 139249,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/msgstringtable.txt"
+    },
+    {
+      "path": "data/questid2display.txt",
+      "sha256": "5cf90b034d087aa4cf4fede51b8a0917f4f98837293e70a239e2390e684f119a",
+      "size": 1626026,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/questid2display.txt"
+    },
+    {
+      "path": "data/mapnametable.txt",
+      "sha256": "d91516ac1f4e1931d055ee7bd7475ee6515737f74ed0ca9edc582383b25e2eec",
+      "size": 44471,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/mapnametable.txt"
+    },
+    {
+      "path": "data/cardprefixnametable.txt",
+      "sha256": "31f2a83db3471afd32bbb69d33f7ab98d48d71500b5bfc74bb99b3675c8440f5",
+      "size": 29866,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/cardprefixnametable.txt"
+    },
+    {
+      "path": "System/itemInfo_EN.lua",
+      "sha256": "425b3cd9258984b20ff232f86850d32587827fd826f8199ef94d1f67999fe87e",
+      "size": 15207208,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/itemInfo_EN.lua"
+    },
+    {
+      "path": "System/OngoingQuestInfoList_True_EN.lub",
+      "sha256": "957144837ed987de1729e5747165f73485a676cfa5c07d3a4239e46d736269de",
+      "size": 1984393,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/OngoingQuestInfoList_True_EN.lub"
+    },
+    {
+      "path": "System/RecommendedQuestInfoList_True_EN.lub",
+      "sha256": "d984c7e3d90a45284d97f261645c942a3bf4255d9b0746d65d5dc0d73c39a9a7",
+      "size": 25655,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/RecommendedQuestInfoList_True_EN.lub"
+    },
+    {
+      "path": "System/Achievement_list_EN.lub",
+      "sha256": "608b8c5c864eec5aa9e5915870e3bf7ef4f0dced615599d06e3aeedbf084be1b",
+      "size": 153997,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/Achievement_list_EN.lub"
+    },
+    {
+      "path": "System/Towninfo_EN.lub",
+      "sha256": "0732feea1865ea08191706027434964b1d08f2ddfa168e7f32ae5afececaa68a",
+      "size": 23156,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/Towninfo_EN.lub"
+    },
+    {
+      "path": "System/CheckAttendance_EN.lub",
+      "sha256": "44ade5c0b9a38ca103e25a8eb9b3bc7440db58290e4bad1bd5044bacc0f535bc",
+      "size": 1230,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/CheckAttendance_EN.lub"
+    },
+    {
+      "path": "System/Sign_Data_EN.lub",
+      "sha256": "f6ef36be3a034e927b4fa203e004ba4d4a4fcf35e94813ac5c20d40537bd0ebf",
+      "size": 3987,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/Sign_Data_EN.lub"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+Config = {
+	EvendOnOff = 1,
+	StartDate = "20200101",
+	EndDate = "20351231"
+}
+
+Reward = {
+	{ day = 1, item_id = 22979, quantity = 1 },
+	{ day = 2, item_id = 6316, quantity = 1 },
+	{ day = 3, item_id = 12265, quantity = 5 },
+	{ day = 4, item_id = 23047, quantity = 5 },
+	{ day = 5, item_id = 23038, quantity = 1 },
+	{ day = 6, item_id = 23043, quantity = 1 },
+	{ day = 7, item_id = 23340, quantity = 3 },
+	{ day = 8, item_id = 12516, quantity = 5 },
+	{ day = 9, item_id = 23307, quantity = 5 },
+	{ day = 10, item_id = 12610, quantity = 1 },
+	{ day = 11, item_id = 14533, quantity = 2 },
+	{ day = 12, item_id = 23012, quantity = 3 },
+	{ day = 13, item_id = 23048, quantity = 5 },
+	{ day = 14, item_id = 12264, quantity = 5 },
+	{ day = 15, item_id = 23046, quantity = 5 },
+	{ day = 16, item_id = 12515, quantity = 5 },
+	{ day = 17, item_id = 12522, quantity = 5 },
+	{ day = 18, item_id = 12523, quantity = 5 },
+	{ day = 19, item_id = 6234, quantity = 1 },
+	{ day = 20, item_id = 22845, quantity = 1 }
+}
+
+function main()
+	InsertCheckAttendanceConfig(Config.EvendOnOff, Config.StartDate, Config.EndDate)
+	for day = 1, 20 do
+		local r = Reward[day]
+		if r then
+			InsertCheckAttendanceReward(r.day, r.item_id, r.quantity)
+		end
+	end
+end

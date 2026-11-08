@@ -1,0 +1,676 @@
+-- Original translation works of zackdreaver: https://github.com/zackdreaver/ROenglishRE
+-- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
+-- This file can be distributed, used and modified freely
+-- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
+-- Last updated: 20260322
+
+RecommendedQuestInfoList = {}
+RecommendedQuestInfoList = {
+	[1] = {
+		Title = "¡Bienvenido a Ragnarok en línea!",
+		IconName = "ico_gq.bmp",
+		Summary = "Brindamos ayuda para el aventurero novato.",
+		NpcSpr = "4_F_01",
+		NpcNavi = "iz_ac01",
+		NpcPosX = 102,
+		NpcPosY = 44,
+		BgName = "reco_01.bmp",
+		QuestInfo1 = {
+			"¡Bienvenido!",
+			"La academia Criatura ofrece una variedad de información para principiantes. Si no ha visitado la academia Criatura, visítenos para obtener información y artículos útiles."
+		},
+		QuestInfo2 = {
+			"$$novato$$ bienvenido!!",
+			"Principiante%%Apoyo%%¡¡Pan!! ¡¡Pan!!",
+			"&*Gratis*& consulta OK!!"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[3] = {
+		Title = "Festival de las flores de primavera de Prontera",
+		IconName = "ico_ev.bmp",
+		Summary = "Nos vemos en Prontera en primavera.",
+		BgName = "reco_03.bmp",
+		QuestInfo1 = {
+			"Te invitamos al recientemente renovado Festival de las Flores de Primavera de Frontera.",
+			"Encuentre <NAVI>[Seri]<INFO>prontera,137,327,0,101,0</INFO></NAVI> en la entrada del Castillo Real de Prontera."
+		},
+		QuestInfo2 = {
+			"",
+			"^945945¡Cualquiera que sea un aventurero con nivel base 20 o superior!^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[9] = {
+		Title = "Chuseok con la brillante luna llena",
+		IconName = "ico_ev.bmp",
+		Summary = "¡Disfruta de la comida navideña en Payon!",
+		BgName = "reco_09.bmp",
+		QuestInfo1 = {
+			"Este año, se llevará a cabo un festival de experiencias gastronómicas navideñas en Payon.",
+			"Aventureros que no regresaron a sus lugares de origen para Chuseok, ¿les gustaría intentar hacer songpyeon en <NAVI>[Payon]<INFO>payon,217,109,0,101,0</INFO></NAVI>?"
+		},
+		QuestInfo2 = {
+			"También hicimos songpyeon y comimos yakgwa.",
+			"¡Que tengas un feliz Chuseok!"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[10] = {
+		Title = "Festival Académico de Otoño de Yuno",
+		IconName = "ico_ev.bmp",
+		Summary = "¡También hay snacks crujientes y deliciosos!",
+		BgName = "reco_10.bmp",
+		QuestInfo1 = {
+			"En el Festival Académico de Otoño de Yuno, varias sociedades y grupos académicos presentan sus logros de investigación a través de diversos juegos y eventos.",
+			"<NAVI>[Lazy]<INFO>yuno.gat,164,169,0,101,0</INFO></NAVI> is finally waiting for everyone to come to Yuno!"
+		},
+		QuestInfo2 = {
+			"Disfrute de un otoño abundante",
+			"explorando los distintos stands en el",
+			"¡Festival Académico de Otoño de Yuno!"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[67] = {
+		Title = "Capítulo 2: Canción del Árbol del Mundo",
+		IconName = "ico_ep.bmp",
+		Summary = "~Fragmentos del Apocalipsis~",
+		NpcSpr = "4_CH1_DELEGACY01",
+		NpcNavi = "ygg_edge",
+		NpcPosX = 156,
+		NpcPosY = 179,
+		BgName = "reco_67.bmp",
+		QuestInfo1 = {
+			"Aventurero.",
+			"¿Cómo estás?",
+			"Antes de darme cuenta, mientras acariciaba las hojas jóvenes del Árbol del Mundo, un nuevo viaje estaba a punto de comenzar, siguiendo el viento.",
+			"Espero que tus pasos puedan acompañarnos en Ashwood Village, donde comienza el viento.",
+			"",
+			"Atentamente, Lapine Sasha, esperando ansiosamente."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^3275f0Nivel base 225 o superior^000000",
+			"^3275f0Capítulo 1: Canción del árbol del mundo^000000"
+		},
+		QuestInfo3 = {
+			"Punto de inicio",
+			"<NAVI>[Lapine Sasha]<INFO>ygg_edge,156,179,0,101,0</INFO></NAVI> is waiting for you.",
+			""
+		}
+	},
+	[68] = {
+		Title = "¡El árbol del mundo llama!",
+		IconName = "ico_jq.bmp",
+		Summary = "¡Nueva clase, druida!",
+		BgName = "reco_68.bmp",
+		QuestInfo1 = {
+			"¡Oh joven y prometedor aventurero!",
+			"¿No te transformarías heredando el poder del Árbol del Mundo?",
+			"<NAVI>[Small Ash Tree]<INFO>izlude,118,252,0,101,0</INFO></NAVI>"
+		},
+		QuestInfo2 = {
+			"novato",
+			"Nivel de trabajo 10"
+		},
+		QuestInfo3 = {
+			"^ff0000¤ Para obtener información detallada, reúnete con el NPC Druid Ascendancy.^000000"
+		}
+	},
+	[69] = {
+		Title = "Capítulo 1: Canción del Árbol del Mundo",
+		IconName = "ico_ep.bmp",
+		Summary = "~ Preludio ~",
+		BgName = "reco_69.bmp",
+		QuestInfo1 = {
+			"¿Hola? ¿Cómo estás? Te ves tan saludable.",
+			"¡Si me ves, eres el aventurero elegido!",
+			"¿Estás interesado en el fin del mundo?"
+		},
+		QuestInfo2 = {
+			"Requisitos",
+			"^3275f0Nivel base 200 o superior^000000"
+		},
+		QuestInfo3 = {
+			"Punto de inicio",
+			"<NAVI>[Prontera Field]<INFO>prt_fild05,353,252,0,101,0</INFO></NAVI>",
+			"<NAVI>[Payon Fild]<INFO>pay_fild01,308,341,0,101,0</INFO></NAVI>"
+		}
+	},
+	[70] = {
+		Title = "Episodio 21: La era de los héroes",
+		IconName = "ico_ep.bmp",
+		Summary = "Recuerda...",
+		BgName = "reco_70.bmp",
+		QuestInfo1 = {
+			"Una isla de pequeña escala cerca de Issgard,",
+			"donde aparece una pequeña grieta, transporta a los aventureros al pasado.",
+			"<NAVI>[Join]<INFO>jor_tail,233,41,0,101,0</INFO></NAVI> Nyar as he journeys to the past, a time of turbulent times, where heroes fought for a crucial mission to defeat Lasgand!"
+		},
+		QuestInfo2 = {
+			"Requisitos",
+			"^3275f0Episodio 20^000000 completado",
+			"^3275f0Nivel base 230 o superior^000000"
+		},
+		QuestInfo3 = {
+			"",
+			"                  casting",
+			"               casting",
+			"                casting"
+		}
+	},
+	[71] = {
+		Title = "Jardín del tiempo",
+		IconName = "ico_sc.bmp",
+		Summary = "El nuevo dueño del espacio olvidado",
+		BgName = "reco_71.bmp",
+		QuestInfo1 = {
+			"¡Óscar!",
+			"¡No puedo deshacerme de este <NAVI>[Portal]<INFO>xmas_fild01,155,245,0,101,0</INFO></NAVI>!",
+			"Ni siquiera puedo imaginar cuántos años lleva Oscar viviendo aquí, ¿verdad?",
+			"Pero todavía no puedo soportar verlo durmiendo en el suelo frío.",
+			"¡Tomemos este jardín abandonado para nosotros!",
+			"¿Ves las fotos de la mansión que te envié?",
+			"Son un poco oscuros, ¡pero me gustan!",
+			"¡Por favor responda rápidamente!",
+			"",
+			"   - Leticia"
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^3275f0Nivel base 250 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[72] = {
+		Title = "¡Un nuevo descubrimiento! ¡Tabletas rúnicas!",
+		IconName = "ico_sc.bmp",
+		Summary = "¿La nueva tecnología de Varmundt?",
+		BgName = "reco_72.bmp",
+		QuestInfo1 = {
+			"¡Las cartas amontonadas en el almacén se han transformado!",
+			"¡Dale nueva vida a la nueva Rune Tablet de tecnología intensiva de Varmundt...!",
+			"Encuentra <NAVI>[Rune Stone]<INFO>prontera,161,192,0,101,0</INFO></NAVI> ¡y compruébalo ahora mismo!"
+		},
+		QuestInfo2 = {
+			"tabletas de runas,",
+			"son realmente buenos..."
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[73] = {
+		Title = "Episodio 20: El inmortal",
+		IconName = "ico_ep.bmp",
+		Summary = "¡Vamos al Antiguo Cañón de Hielo!",
+		BgName = "reco_73.bmp",
+		QuestInfo1 = {
+			"Figuras clave del Culto Jormungand han abandonado el Nido de la Serpiente y se han retirado a las profundidades.",
+			"Para encontrar a Bagot y Lasgand y frustrar sus siniestras ambiciones,",
+			"El grupo de aventureros viaja a una nueva región que nunca antes habían explorado y se encuentra con criaturas desconocidas.",
+			"Maullido"
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^3275f0Episodio 19^000000 completado",
+			"^3275f0Nivel base 215 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ee1073Miau^000000",
+			"^ee1073Miau^000000",
+			"^ee1073Miau^000000"
+		}
+	},
+	[74] = {
+		Title = "Serie de fantasía",
+		IconName = "ico_vr.bmp",
+		Summary = "Encuéntrame en la biblioteca al este de Prontera.",
+		BgName = "reco_74.bmp",
+		QuestInfo1 = {
+			"¡Un nuevo concepto en los libros de cuentos, donde puedes interactuar con personajes en un espacio virtual y progresar en la historia!",
+			"¡Justo a tiempo, ^3169ceProntera East Library está experimentando una importante expansión!^000000",
+			"¡Visite <NAVI>[Biblioteca de Prontera East]<INFO>prt_elib,18,46,0,101,0</INFO></NAVI> ahora mismo!"
+		},
+		QuestInfo2 = {
+			"¡Chocante!",
+			"y un",
+			"^3275f0gran giro!!!!^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[75] = {
+		Title = "Episodio 19: Tierra de flores de nieve",
+		IconName = "ico_ep.bmp",
+		Summary = "La tierra helada más allá del mar del norte.",
+		BgName = "reco_75.bmp",
+		QuestInfo1 = {
+			"La tierra más allá del mar del norte donde se cuenta la leyenda de ^3169ceJormungand^000000.",
+			"¿Se detendrán las ambiciones de ^3169ceBagot^000000, que huyó con el pedazo del corazón de Ymir? ¿Qué secretos esconde el ^3169ceJormungand Cult^000000?",
+			"La aeronave, llena de ansiedad, parte ahora hacia ^3169ceIssgard^000000."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^3275f0Episodio 18^000000 completado",
+			"^3275f0Nivel base 200 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ee1073Bagot^000000",
+			"Bien. Bien. Bien.",
+			"   I'm going to meet you."
+		}
+	},
+	[76] = {
+		Title = "¡Tú también puedes hacerlo! ¡¡Cambia de trabajo ahora mismo!!",
+		IconName = "ico_jq.bmp",
+		Summary = "¡También puedes hacer trabajos extendidos!",
+		BgName = "reco_76.bmp",
+		QuestInfo1 = {
+			"<NAVI>[Rebellion to Nightwatch]<INFO>einbroch,313,324,0,101,0</INFO></NAVI>",
+			"<NAVI>[Star Emperor to Sky Emperor]<INFO>payon,213,202,0,101,0</INFO></NAVI>",
+			"<NAVI>[Soul Reaper to Soul Ascetic]<INFO>payon,197,119,0,101,0</INFO></NAVI>",
+			"<NAVI>[Kagerou, Oboro to Shinkiro, Shiranui]<INFO>amatsu,82,118,0,101,0</INFO></NAVI>",
+			"<NAVI>[Summoner to Spirit Handler]<INFO>payon,165,116,0,101,0</INFO></NAVI>",
+			"<NAVI>[Super Novice to Hyper Novice]<INFO>aldebaran,110,70,0,101,0</INFO></NAVI>"
+		},
+		QuestInfo2 = {
+			"Nivel básico 200",
+			"Nivel de trabajo 70",
+			"(Nivel de trabajo de invocador 60)"
+		},
+		QuestInfo3 = {
+			"^ff0000¤ Para obtener información más detallada, consulta con el NPC de cada trabajo.^000000"
+		}
+	},
+	[77] = {
+		Title = "La biosfera de Varmundt",
+		IconName = "ico_sc.bmp",
+		Summary = "Me gustaría pedir su ayuda.",
+		BgName = "reco_77.bmp",
+		NpcSpr = "4_EP17_BASIC_B",
+		QuestInfo1 = {
+			"¿No sientes curiosidad por el hábitat artificial que el Maestro Varmundt creó dentro de la <NAVI>[mansión]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>?",
+			"Necesitamos desesperadamente tu ayuda para derrotar a los monstruos que se han vuelto extrañamente fuertes después de estar aislados del mundo exterior durante tanto tiempo."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"Nivel básico 240 o superior"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[78] = {
+		Title = "Torre hundida",
+		IconName = "ico_sc.bmp",
+		Summary = "Invitados no invitados en zonas de erosión",
+		BgName = "reco_78.bmp",
+		NpcSpr = "4_4JOB_LETICIA",
+		NpcNavi = "Alberta",
+		NpcPosX = "213",
+		NpcPosY = "71",
+		QuestInfo1 = {
+			"^003355Alguien tiene que hacerlo^000000",
+			"°¡Seres no deseados están surgiendo de debajo de las ruinas erosionadas de la Endless Tower hundida!",
+			"Puede que no ganes mucha riqueza, pero será una buena experiencia... no, podría ser una buena experiencia. Tú, que pareces estar esforzándote, no eres una excepción, ¿verdad?"
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^990000Nivel base 40 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[79] = {
+		Title = "ilusión de gemelos",
+		IconName = "ico_sc.bmp",
+		Summary = "Cuatro aventureros con apariencias idénticas. ¿Es esto una ilusión creada por alguien?",
+		BgName = "reco_79.bmp",
+		QuestInfo1 = {
+			"En algún lugar del Ant Hell Dungeon, alguien dijo que vio a un aventurero que se parecía a ellos...",
+			"Me pregunto qué pasó, nadie más lo ha visto nunca.",
+			"Vaya a <NAVI>[Ant Hell]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> y descubra qué está pasando."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^990000Nivel base 160 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[80] = {
+		Title = "Episodio 18: Dirección de la oración",
+		IconName = "ico_ep.bmp",
+		Summary = "¿Qué está pasando en Raquel?",
+		BgName = "reco_80.bmp",
+		NpcSpr = "4_EP17_TABLET",
+		NpcNavi = "ba_in01",
+		NpcPosX = "26",
+		NpcPosY = "266",
+		QuestInfo1 = {
+			"¡El análisis de señales de la situación injusta que venía ocurriendo desde hace un tiempo finalmente ha terminado!",
+			"Parece que los restos de Illusion están tramando algo en Rachel, la capital de la nación religiosa de Arunafeltz.",
+			"Ellie decide ir ella misma con Rachel con los aventureros."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^990000Episodio 17.2^000000 completado",
+			"^990000Nivel base 170 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[81] = {
+		Title = "Torre de la Constelación",
+		IconName = "ico_sc.bmp",
+		Summary = "Enfréntate al nuevo dueño",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "torre_e",
+		NpcPosX = 71,
+		NpcPosY = 115,
+		BgName = "reco_81.bmp",
+		QuestInfo1 = {
+			"^003355¿El propietario ha cambiado?^000000",
+			"Parece que alguien ha derribado una torre, a la que llamaban Torre Infinita.",
+			"En una situación en la que es imposible saber qué tipo de peligro es, alguien tiene que identificar al nuevo propietario."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^990000Nivel base 240 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[82] = {
+		Title = "Trazas de héroes MD Tumba del arrepentimiento",
+		IconName = "ico_sc.bmp",
+		Summary = "Un espadachín demoníaco que se encontró en la Tumba del Arrepentimiento y una espada demoníaca que anhelaba sangre.",
+		BgName = "reco_82.bmp",
+		NpcSpr = "MD_TIARA",
+		NpcNavi = "dalí",
+		NpcPosX = 124,
+		NpcPosY = 88,
+		QuestInfo1 = {
+			"Recibimos una solicitud de la princesa de las ruinas, de que se había encontrado al contratista de la espada mágica que conoció en el lugar.",
+			"La espada rugió y el cadáver derramó lágrimas."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^990000Nivel base 220 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[83] = {
+		Title = "Sitio de accidente injusto",
+		IconName = "ico_sc.bmp",
+		Summary = "Una historia en un lugar donde cayó la injusticia.",
+		NpcSpr = "4_M_FAIRYANG",
+		BgName = "reco_83.bmp",
+		QuestInfo1 = {
+			"Un lapine ha descubierto algo en <NAVI>[Dimensional Rift]<INFO>dali02,137,86,0,101,0</INFO></NAVI>.",
+			"Los aventureros pudieron ir al lugar donde cayó la injusticia. Exploremos la cavidad ahora olvidada que encontramos allí."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^990000Nivel base 215 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[84] = {
+		Title = "Estadio nocturno Geffen",
+		IconName = "ico_sc.bmp",
+		Summary = "Partido oculto",
+		NpcSpr = "4_M_YURI",
+		NpcNavi = "geffen_in",
+		NpcPosX = 81,
+		NpcPosY = 60,
+		BgName = "reco_84.bmp",
+		QuestInfo1 = {
+			"^003355Partida oculta^000000",
+			"Cuando las luces del Torneo de Magia Geffen se apagan y llega la noche, los verdaderos poderes que ocultan su poder se despiertan.",
+			"Comencemos una verdadera lucha cruda que no está cubierta por el espectáculo y los guiones de transmisión."
+		},
+		QuestInfo2 = {
+			"Requisitos:",
+			"^990000Nivel base 210 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[85] = {
+		Title = "Ilusión submarina",
+		IconName = "ico_sc.bmp",
+		Summary = "¡Revela el secreto de la cueva submarina infinitamente profunda!",
+		BgName = "reco_85.bmp", 
+		QuestInfo1 = {
+			"Se produjo un incidente cuando Shirud, que estaba pescando en Izlude, desapareció.",
+			"Tres meses después, se descubrió un objeto que tenía.",
+			"¡Ve a <NAVI>Izlude<INFO>izlude,132,49,0,101,0</INFO></NAVI> y ayuda a encontrar a la persona desaparecida!"
+		},
+		QuestInfo2 = {
+			"Mar Desconocido",
+			"Cueva del Mar Profundo"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[86] = {
+		Title = "Episodio 17.2 El legado de Sage",
+		IconName = "ico_ep.bmp",
+		Summary = "No te quedes atrás de los principiantes...",
+		NpcSpr = "4_M_ROOKIE",
+		NpcNavi = "sp_cor",
+		NpcPosX = 255,
+		NpcPosY = 285,
+		BgName = "reco_86.bmp", 
+		QuestInfo1 = {
+			"Un lado de Cor en la zona fronteriza especial. Finalmente se abrió la tubería de alcantarillado, supuestamente el único paso.",
+			"La tripulación de Rebelion decidió ingresar a la línea de alcantarillado para rastrear a Illusion."
+		},
+		QuestInfo2 = {
+			"Requisitos",
+			"Episodio ^99000017.1^000000 completado",
+			"^990000Nivel base 130 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[87] = {
+		Title = "Modo Desafío Glastheim",
+		IconName = "ico_sc.bmp",
+		Summary = "Compruebe si hay errores dimensionales",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "glast_01",
+		NpcPosX = 143,
+		NpcPosY = 288,
+		BgName = "reco_87.bmp", 
+		QuestInfo1 = {
+			"Intente cerrar ^003355Dimensiones que no deberían existir^000000,",
+			"que se supone que ocurrieron durante el colapso de Glastheim.",
+			"Se considera que se producirá una gran causalidad cuando los guardianes dimensionales interfieran. Necesitamos ayuda humana."
+		},
+		QuestInfo2 = {
+			"Requisitos",
+			"^990000Nivel base 170 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[88] = {
+		Title = "¡Nivel máximo elevado para clases ampliadas!",
+		IconName = "ico_sc.bmp",
+		Summary = "¡Romper! ¡el! ¡Límite!",
+		BgName = "reco_88.bmp", 
+		QuestInfo1 = {
+			"Hola ~~",
+			"¡Qué bueno conocerte! ^950a0a ¡Soy una linda y linda chica mágica que vino de un país mágico para recuperar la época del nivel de expansión detenido! ^000000",
+			"¡A partir de ahora, es hora de que subas de nivel!"
+		},
+		QuestInfo2 = {
+			"^eb1842Bonita ~~ Subir de nivel^000000",
+			"Nivel base: ^950a0a185^000000",
+			"Nivel de trabajo: ^950a0a65^000000"
+		},
+		QuestInfo3 = {
+			"^3f3199Rebellion/Kagerou/Oborou/Star Emperor/Soul Reaper/Super Novice/Doram amigos se ven afectados ~^000000"
+		}
+	},
+	[89] = {
+		Title = "Mazmorra del Instituto de Investigación Biológica EDDA - La Expedición",
+		Summary = "La larga y desconocida expedición",
+		BgName = "reco_89.bmp",
+		IconName = "ico_sc.bmp",
+		NpcSpr = "4_F_SCIENCE",
+		NpcNavi = "yuno",
+		NpcPosX = 216,
+		NpcPosY = 345, 
+		QuestInfo1 = {
+			"^003355Visita a los del Instituto de Investigación Biomédica de Lighthazen, que se han obsesionado e incluso se han desmayado.^000000",
+			"Tienes que usar ^990000Registros virtuales^000000 para convertirte en miembro de los 6 ^990000Equipos de expedición no oficiales de Rune-Midgarts^000000 y descubrir por lo que han pasado."
+		},
+		QuestInfo2 = {
+			"Requisitos",
+			"^990000Nivel base 170 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[90] = {
+		Title = "EDDA - La caída de Glastheim",
+		IconName = "ico_sc.bmp",
+		Summary = "Sea testigo de la verdad de la historia",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "glast_01",
+		NpcPosX = 243,
+		NpcPosY = 290,
+		BgName = "reco_90.bmp", 
+		QuestInfo1 = {
+			"^003355La historia detrás del antiguo Glastheim Memorial.^000000",
+			"La aparición de Schmitts, conocido como un fugitivo/tirano en la historia.",
+			"^990000Oscar del Tiempo y el Espacio, que observa y registra múltiples dimensiones del tiempo, es testigo de los últimos momentos de Glastheim^000000 y decide contarle la verdad a alguien..."
+		},
+		QuestInfo2 = {
+			"Requisitos",
+			"^990000Nivel base 130 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[96] = {
+		Title = "¡El episodio 17.1 ya está aquí! Espejismo",
+		IconName = "ico_ep.bmp",
+		Summary = "Comienza la operación combinada a gran escala.",
+		NpcSpr = "4_M_PHILOFONTES",
+		NpcNavi = "pub_gato",
+		NpcPosX = 93,
+		NpcPosY = 105,
+		BgName = "reco_96.bmp",
+		QuestInfo1 = {
+			"¡El escenario del episodio se traslada a Schwarzwald!",
+			"Una operación combinada en toda regla comienza con Rebellions y Secret Wings.",
+			"Rebellions, que también ha establecido una base operativa en Einbroch, planea atacar una instalación de investigación secreta descubierta con información de Secret Wings..."
+		},
+		QuestInfo2 = {
+			"Requisitos previos", 
+			"Episodio 16.2 completo",
+			"Nivel requerido: 110 o superior"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[97] = {
+		Title = "Episodio 16.2 Tierra Gloria",
+		IconName = "ico_ep.bmp",
+		Summary = "Viaje para recuperar el símbolo real desaparecido.",
+		NpcSpr = "4_EP16_NIHIL",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 39,
+		BgName = "reco_97.bmp",
+		QuestInfo1 = {
+			"La sangre joven de la familia real, Nihil y Spica, quieren que te unas a la operación secreta.",
+			"¡Únete a nosotros en un viaje para recuperar el símbolo real perdido!"
+		},
+		QuestInfo2 = {
+			"Requisitos previos",
+			"Episodio 16.1 completo",
+			"Nivel requerido: 100 o superior"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[98] = {
+		Title = "Episodio 16.1 Banquete de héroes",
+		IconName = "ico_ep.bmp",
+		Summary = "¡Tú que lo has intentado! ¡¡¡Disfrutar!!!",
+		NpcSpr = "4_M_ZONDAOYAJI",
+		NpcNavi = "prontera",
+		NpcPosX = 121,
+		NpcPosY = 72,
+		BgName = "reco_98.bmp",
+		QuestInfo1 = {
+			"Se realiza un banquete para celebrar el sometimiento de Marruecos con los héroes que participaron en la expedición.",
+			"Si eres un aventurero que participó en la expedición, ¡recibe una carta de invitación al banquete!"
+		},
+		QuestInfo2 = {
+			"Requisitos previos",
+			"Visita el Campamento Expedicionario",
+			"Nivel requerido: 100 o superior"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	},
+	[99] = {
+		Title = "Episodio 15 Fantasmagorica",
+		IconName = "ico_ep.bmp",
+		Summary = "Ciencia más allá de Juperos",
+		NpcSpr = "4_F_EDEN_OFFICER",
+		NpcNavi = "moc_para01",
+		NpcPosX = 38,
+		NpcPosY = 175,
+		BgName = "reco_99.bmp",
+		QuestInfo1 = {
+			"Estamos reclutando excavadores para participar en la investigación Phantasmagorica recién descubierta.",
+			"¿Por qué no explorar la civilización científica que va más allá de Juperos?",
+			"Si desea unirse al equipo de excavación, ¡venga al Grupo Eden ahora mismo!"
+		},
+		QuestInfo2 = {
+			"Requisitos previos",
+			"Nivel requerido: 140 o superior",
+			"Titular de la marca del Grupo Eden"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una introducción a la actualización, no a la misión. Tenga en cuenta que no se eliminará incluso después de completar la misión.^000000"
+		}
+	}
+}

@@ -1,0 +1,5404 @@
+-- Original translation works of zackdreaver: https://github.com/zackdreaver/ROenglishRE
+-- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
+-- This file can be distributed, used and modified freely
+-- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
+-- Last updated: 20260322
+
+achievement_tbl = {
+	[110000] = {
+		UI_Type = 0,
+		group = "EAT",
+		major = 4,
+		minor = 0,
+		title = "Comer a esta hora no hará subir de peso",
+		content = {
+			summary = "1 a.m. - Hora de tomar un refrigerio a medianoche.",
+			details = "Llevar la comida que Bigfoot exige a una perspectiva ambiciosa"
+		},
+		resource = { [1] = { text = "Llevar la comida que Bigfoot exige a una perspectiva ambiciosa" } },
+		reward = {},
+		score = 10
+	},
+	[110001] = {
+		UI_Type = 0,
+		group = "SEE",
+		major = 4,
+		minor = 0,
+		title = "Este es un abanico polar.",
+		content = {
+			summary = "Un vistazo a la vida de los fanáticos polares",
+			details = "Conozcamos a todos los fanáticos polares que acuden en masa a la familia Wigner"
+		},
+		resource = {
+			[1] = { text = "Yanggatjip Kyusu" },
+			[2] = { text = "Anak fino" },
+			[3] = { text = "El muchacho atmosférico" },
+			[4] = { text = "una hermosa esposa" },
+			[5] = { text = "Licenciatura en Lower Village" },
+			[6] = { text = "Mejor Anak de Acción" },
+			[7] = { text = "El mejor licenciado en poder de combate." }
+		},
+		reward = {},
+		score = 10
+	},
+	[120001] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Prontera Norte(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120002] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Prontera Norte(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120003] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Prontera Norte(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120004] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo West Prontera (1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo oeste de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo oeste de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120005] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo West Prontera (2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo oeste de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo oeste de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120006] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo East Prontera",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo este de Prontera"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo este de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120007] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Prontera Sur(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120008] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Prontera Sur(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120009] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Prontera Sur(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120010] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Prontera Sur(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Prontera"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Prontera" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120011] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo East Geffen",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo este de Geffen"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo este de Geffen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120012] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo sureste de Geffen",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo sureste de Geffen"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo sureste de Geffen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120013] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Geffen del noroeste(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo noroeste de Geffen"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo noroeste de Geffen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120014] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Geffen del noroeste(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo noroeste de Geffen"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo noroeste de Geffen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120015] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Geffen del noroeste(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo noroeste de Geffen"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo noroeste de Geffen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120016] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo South Geffen(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo sur de Geffen"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo sur de Geffen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120017] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo South Geffen(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra un tesoro en el campo sur de Geffen"
+		},
+		resource = { [1] = { text = "Descubra un tesoro en el campo sur de Geffen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120018] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo del desierto de Sograt(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del desierto de Sograt"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del desierto de Sograt" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120019] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo del desierto de Sograt(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del desierto de Sograt"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del desierto de Sograt" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120020] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo del desierto de Sograt(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del desierto de Sograt"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del desierto de Sograt" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120021] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo del desierto de Sograt(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del desierto de Sograt"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del desierto de Sograt" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120022] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo del desierto de Sograt(5)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del desierto de Sograt"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del desierto de Sograt" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120023] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo del desierto de Sograt(6)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del desierto de Sograt"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del desierto de Sograt" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120024] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo suroeste de Payon(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubren un tesoro en el campo suroeste de Payon"
+		},
+		resource = { [1] = { text = "Descubren un tesoro en el campo suroeste de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120025] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo suroeste de Payon (2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubren un tesoro en el campo suroeste de Payon"
+		},
+		resource = { [1] = { text = "Descubren un tesoro en el campo suroeste de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120026] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo suroeste de Payon(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubren un tesoro en el campo suroeste de Payon"
+		},
+		resource = { [1] = { text = "Descubren un tesoro en el campo suroeste de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120027] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo suroeste de Payon(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubren un tesoro en el campo suroeste de Payon"
+		},
+		resource = { [1] = { text = "Descubren un tesoro en el campo suroeste de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120028] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo East Payon(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo este de Payon"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo este de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120029] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo East Payon (2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo este de Payon"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo este de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120030] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo East Payon(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo este de Payon"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo este de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120031] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo East Payon(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo este de Payon"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo este de Payon" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120032] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo North Mjolnir(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120033] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo North Mjolnir(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120034] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo North Mjolnir(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120035] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo North Mjolnir(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120036] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo North Mjolnir(5)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120037] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Mjolnir del Sur(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120038] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Mjolnir del Sur(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120039] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Mjolnir del Sur(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120040] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Mjolnir del Sur(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120041] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Mjolnir del Sur(5)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120042] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Mjolnir del Sur(6)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Mjolnir"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Mjolnir" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120043] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo South Aldebaran",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Aldebarán"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Aldebarán" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120044] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120045] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120046] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120047] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120048] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(5)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120049] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(6)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120050] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(7)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120051] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Exploración del campo Comodo(8)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo de Comodo"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo de Comodo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120052] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo del puesto de control fronterizo(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del puesto de control fronterizo"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del puesto de control fronterizo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120053] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo del puesto de control fronterizo(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo del puesto de control fronterizo"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo del puesto de control fronterizo" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120054] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo de la mansión Kiel Hyre",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra el tesoro en el campo Kiel Hyre Mansion"
+		},
+		resource = { [1] = { text = "Descubra el tesoro en el campo Kiel Hyre Mansion" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120055] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo El Mes Plateau(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de El Mes Plateau"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de El Mes Plateau" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120056] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo El Mes Plateau(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de El Mes Plateau"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de El Mes Plateau" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120057] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo El Mes Plateau(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de El Mes Plateau"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de El Mes Plateau" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120058] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo El Mes Gorge",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo El Mes Gorge"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo El Mes Gorge" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120059] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración de campo de la Academia Kiel Hyre",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de la Academia Kiel Hyre"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de la Academia Kiel Hyre" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120060] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo del campamento de guardia",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Guard Camp"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Guard Camp" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120061] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Yuno",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Yuno."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Yuno." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120062] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Frente a la exploración del campo de la Torre Thanatos",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro frente al campo de la Torre Thanatos"
+		},
+		resource = { [1] = { text = "Descubre el tesoro frente al campo de la Torre Thanatos" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120063] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Hugel(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Hugel"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Hugel" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120064] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Hugel(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Hugel"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Hugel" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120065] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Hugel(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Hugel"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Hugel" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120066] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo del lago Abyss(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Abyss Lake"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Abyss Lake" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120067] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120068] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120069] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120070] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120071] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(5)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120072] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(6)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120073] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(7)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120074] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Einbroch(8)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Einbroch" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120075] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Lighthalzen(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Lighthalzen"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Lighthalzen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120076] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Lighthalzen(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Lighthalzen"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Lighthalzen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120077] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Exploración del campo Lighthalzen(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Lighthalzen"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Lighthalzen" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120078] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración del campo de las llanuras de Rachel Audhumbla (1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo Rachel Audhumbla Plains"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo Rachel Audhumbla Plains" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120079] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración del campo Rachel Plains(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo Rachel Plains"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo Rachel Plains" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120080] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración del campo Rachel Plains(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo Rachel Plains"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo Rachel Plains" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120081] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración del campo Rachel Plains(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo Rachel Plains"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo Rachel Plains" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120082] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Rachel Audhumbla Exploración del campo de pastizales(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra el tesoro en el campo de pastizales Rachel Audhumbla"
+		},
+		resource = { [1] = { text = "Descubra el tesoro en el campo de pastizales Rachel Audhumbla" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120083] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Rachel Audhumbla Exploración del campo de pastizales(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubra el tesoro en el campo de pastizales Rachel Audhumbla"
+		},
+		resource = { [1] = { text = "Descubra el tesoro en el campo de pastizales Rachel Audhumbla" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120084] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración del campo Portus Luna",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo Portus Luna"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo Portus Luna" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120085] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración de campos de vetas(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Veins"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Veins" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120086] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración de campos de vetas(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Veins"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Veins" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120087] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración de campos de vetas(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Veins"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Veins" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120088] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración de campos de vetas(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Veins"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Veins" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120089] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Exploración de campos de vetas(5)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Veins"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Veins" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120090] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Exploración del campo Eclage",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo de Eclage"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo de Eclage" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120091] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Exploración del campo North Bitfrost(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo norte de Bifrost"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo norte de Bifrost" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120092] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Exploración del campo sur de Bitfrost (1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo sur de Bifrost"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo sur de Bifrost" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120093] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Espléndida exploración de campos(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Splendide"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Splendide" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120094] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Espléndida exploración de campos(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Splendide"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Splendide" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120095] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Espléndida exploración de campos(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Splendide"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Splendide" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120096] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Exploración del campo Manuk(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Manuk."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Manuk." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120097] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Exploración del campo Manuk(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Manuk."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Manuk." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120098] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Exploración del campo Manuk(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Manuk."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Manuk." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120099] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Afueras de la exploración del campo Kamidal(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en las afueras del campo Kamidal."
+		},
+		resource = { [1] = { text = "Descubre un tesoro en las afueras del campo Kamidal." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120100] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Afueras de la exploración del campo Kamidal(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en las afueras del campo Kamidal."
+		},
+		resource = { [1] = { text = "Descubre un tesoro en las afueras del campo Kamidal." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120101] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Amatsu",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Amatsu."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Amatsu." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120102] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Kunlun",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Kunlun."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Kunlun." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120103] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Gonryun",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo Gonryun"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo Gonryun" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120104] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Ayothaya",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo de Ayothaya."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo de Ayothaya." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120105] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo de Moscovia",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo de Moscovia"
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo de Moscovia" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120106] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Brasilis",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre tesoro en el campo Brasilis"
+		},
+		resource = { [1] = { text = "Descubre tesoro en el campo Brasilis" } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120107] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Dewata",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en el campo de Dewata."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en el campo de Dewata." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120108] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Malaya(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo malayo."
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo malayo." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120109] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Exploración del campo Malaya(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre un tesoro en el campo malayo."
+		},
+		resource = { [1] = { text = "Descubre un tesoro en el campo malayo." } },
+		reward = { item = 22876 },
+		score = 10
+	},
+	[120110] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras subterráneas de Abbey",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra subterránea de Abbey"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra subterránea de Abbey" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120111] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras del lago Abyss",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Abyss Lake"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Abyss Lake" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120112] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de la Torre del Reloj",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de la Torre del Reloj"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de la Torre del Reloj" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120113] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de las mazmorras de Amatsu",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Amatsu"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Amatsu" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120114] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras del infierno de hormigas",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra Ant Hell"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra Ant Hell" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120115] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de las mazmorras de Ayothaya",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Ayothaya"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Ayothaya" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120116] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Comodo",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Comodo."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Comodo." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120117] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Brasilis",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Brasilis."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Brasilis." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120118] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de la Torre del Reloj",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de la Torre del Reloj"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de la Torre del Reloj" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120119] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Istana",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Istana."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Istana." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120120] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Scaraba Hole",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra Scaraba Hole"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra Scaraba Hole" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120121] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Bitfrost",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Bifrost"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Bifrost" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120122] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de la mazmorra de Einbroch",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Einbroch"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Einbroch" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120123] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras subterráneas de Geffen",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra subterránea de Geffen"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra subterránea de Geffen" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120124] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Glastheim(1)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Glastheim"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Glastheim" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120125] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Glastheim(2)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Glastheim"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Glastheim" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120126] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Glastheim(3)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Glastheim"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Glastheim" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120127] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Glastheim(4)",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Glastheim"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Glastheim" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120128] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de la mazmorra de Kunlun",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Kunlun."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Kunlun." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120129] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Rachel",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Rachel"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Rachel" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120130] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de la mazmorra de la esfinge",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de la Esfinge"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de la Esfinge" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120131] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Izlude",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Izlude."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Izlude." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120132] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de fábrica de robots",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Robot Factory"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Robot Factory" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120133] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras del laboratorio biológico",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Bio Lab"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Bio Lab" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120134] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Gonryun",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Gonryun"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Gonryun" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120135] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Nogg Road",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Nogg Road"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Nogg Road" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120136] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de minas de carbón",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de la mina de carbón."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de la mina de carbón." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120137] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras piramidales",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de la pirámide."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de la pirámide." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120138] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras orcas",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de los orcos."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de los orcos." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120139] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de Payon",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Payon."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Payon." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120140] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras laberínticas",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra del Laberinto"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra del Laberinto" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120141] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de túneles submarinos",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra del túnel submarino"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra del túnel submarino" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120142] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de la Torre Thanatos",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de la Torre Thanatos"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de la Torre Thanatos" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120143] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de la mazmorra del volcán Thor",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra del Volcán Thor"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra del Volcán Thor" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120144] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de barcos hundidos",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra del barco hundido"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra del barco hundido" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120145] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de la mazmorra de tortugas",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de tortugas."
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de tortugas." } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[120146] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Exploración de mazmorras de la fábrica de juguetes",
+		content = {
+			summary = "Descubre el tesoro escondido",
+			details = "Descubre el tesoro en la mazmorra de Toy Factory"
+		},
+		resource = { [1] = { text = "Descubre el tesoro en la mazmorra de Toy Factory" } },
+		reward = { item = 22876 },
+		score = 20
+	},
+	[127001] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de Prontera",
+		content = {
+			summary = "Runa Midgard reputación metropolitana",
+			details = "Evaluación de Prontera sobre ti."
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127002] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de Geffen",
+		content = {
+			summary = "Runa Midgard reputación metropolitana",
+			details = "Evaluación Geffen sobre usted"
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127003] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de Marruecos",
+		content = {
+			summary = "Runa Midgard reputación metropolitana",
+			details = "Evaluación de Marruecos sobre ti."
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127004] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de pago",
+		content = {
+			summary = "Runa Midgard reputación metropolitana",
+			details = "Evaluación de Payon sobre ti"
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127005] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de Yuno",
+		content = {
+			summary = "Reputación metropolitana de Schwartzvald",
+			details = "Evaluación de Yuno sobre ti."
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127006] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de Lighthalzen",
+		content = {
+			summary = "Reputación metropolitana de Schwartzvald",
+			details = "Evaluación de Lighthalzen sobre usted"
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127007] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de Einbroch",
+		content = {
+			summary = "Reputación metropolitana de Schwartzvald",
+			details = "Evaluación de Einbroch sobre usted"
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127008] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de Raquel",
+		content = {
+			summary = "Reputación metropolitana de Arunafeltz",
+			details = "Evaluación de Rachel sobre ti."
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[127009] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Contribución de las venas",
+		content = {
+			summary = "Reputación metropolitana de Arunafeltz",
+			details = "Evaluación de venas sobre ti."
+		},
+		resource = {
+			[1] = { text = "Extraño", count = 3000 },
+			[2] = { text = "Novato del pueblo", count = 6000 },
+			[3] = { text = "Vecino", count = 12000 },
+			[4] = { text = "Celebridad", count = 20000 },
+			[5] = { text = "Ciudadano supremo", count = 1000 }
+		},
+		score = 10
+	},
+	[128000] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Invitado no invitado",
+		content = {
+			summary = "Eliminar a Celine Kimi",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Celine Kimi", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128001] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Invitado extraño",
+		content = {
+			summary = "Eliminar a Celine Kimi",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 10 Celine Kimi", count = 10 } },
+		reward = {},
+		score = 10
+	},
+	[128002] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Tal vez podamos hacernos amigos...",
+		content = {
+			summary = "Eliminar a Celine Kimi",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 25 Celine Kimi", count = 25 } },
+		reward = {},
+		score = 20
+	},
+	[128003] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Buen extraño",
+		content = {
+			summary = "Eliminar a Celine Kimi",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 50 Celine Kimi", count = 50 } },
+		reward = {},
+		score = 30
+	},
+	[128004] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "el mejor amigo de kimi",
+		content = {
+			summary = "Eliminar a Celine Kimi",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 100 Celine Kimi", count = 100 } },
+		reward = {},
+		score = 50
+	},
+	[128005] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Pescador novato",
+		content = {
+			summary = "Eliminar a Bakonawa",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Bakonawa", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128006] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Cazador jugoso",
+		content = {
+			summary = "Eliminar a Bakonawa",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 Bakonawa", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128007] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Maestro del ritmo",
+		content = {
+			summary = "Eliminar a Bakonawa",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Bakonawa", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128008] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "aventurero audaz",
+		content = {
+			summary = "Eliminar a Baphomet",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Baphomet", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128009] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Odio a Baphomet",
+		content = {
+			summary = "Eliminar a Baphomet",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 Baphomet", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128010] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "La némesis de la cabra",
+		content = {
+			summary = "Eliminar a Baphomet",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Baphomet", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128011] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Turista ordinario",
+		content = {
+			summary = "Elimina a la Parca Ankou",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Grim Reaper Ankou", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128012] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Experto en travesía",
+		content = {
+			summary = "Elimina a la Parca Ankou",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 10 Ankou de la Parca", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128013] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Creo que puedo comerme a este tipo.",
+		content = {
+			summary = "Elimina a la Parca Ankou",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 50 Ankou de la Parca", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128014] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Carne difícil de digerir",
+		content = {
+			summary = "Eliminar Buwaya",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Buwaya", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128015] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Maestro de la evasión",
+		content = {
+			summary = "Eliminar Buwaya",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 Buwaya", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128016] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 2,
+		title = "Cazador inmortal",
+		content = {
+			summary = "Eliminar Buwaya",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Buwaya", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128017] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Levántate y vence la desesperación",
+		content = {
+			summary = "Eliminar al dios de la desesperación Marruecos",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 dios de la desesperación Marruecos", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128018] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Llama de esperanza",
+		content = {
+			summary = "Eliminar al dios de la desesperación Marruecos",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 10 dioses de la desesperación Marruecos", count = 10 } },
+		reward = {},
+		score = 10
+	},
+	[128019] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Aurora vertiendo",
+		content = {
+			summary = "Eliminar al dios de la desesperación Marruecos",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 25 Dios de la desesperación Marruecos", count = 25 } },
+		reward = {},
+		score = 20
+	},
+	[128020] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "¿Quién está desesperado? ¡Estoy desesperado!",
+		content = {
+			summary = "Eliminar al dios de la desesperación Marruecos",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Dios de la desesperación Marruecos", count = 50 } },
+		reward = {},
+		score = 30
+	},
+	[128021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Me convierto en un Dios para salvar este mundo.",
+		content = {
+			summary = "Eliminar al dios de la desesperación Marruecos",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 100 Dios de la desesperación Marruecos", count = 100 } },
+		reward = {},
+		score = 50
+	},
+	[128022] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "La Legión no tiene piedad de Marruecos",
+		content = {
+			summary = "Elimina al nigromante marroquí.",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 nigromante marroquí.", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128023] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "La Legión no teme a Marruecos",
+		content = {
+			summary = "Elimina al nigromante marroquí.",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina al nigromante Morocc 10", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128024] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 1,
+		title = "Guardia de la débil legión del cráneo",
+		content = {
+			summary = "Elimina al nigromante marroquí.",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina al nigromante Morocc 50.", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128025] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Audiencia con la reina",
+		content = {
+			summary = "Elimina a la reina Faceworm",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 reina del gusano facial", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128026] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Tierra cálida",
+		content = {
+			summary = "Elimina a la reina del gusano terrestre",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 reina del gusano terrestre", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128027] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Agua perfecta",
+		content = {
+			summary = "Elimina a la reina del gusano facial de agua",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 reina del gusano facial de agua", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128028] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "brisa agradable",
+		content = {
+			summary = "Elimina a la reina del gusano facial del viento",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 reina del gusano del viento", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128029] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Visitante del antiguo castillo",
+		content = {
+			summary = "Eliminar a Amdarais",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Amdarais", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128030] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Señor del antiguo castillo",
+		content = {
+			summary = "Eliminar a Amdarais",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 amdarais", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128031] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Conquistador del antiguo castillo",
+		content = {
+			summary = "Eliminar a Amdarais",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 amdarais", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128032] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Novato furioso",
+		content = {
+			summary = "Elimina a Amdarais (Superior)",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Amdarais (Superior)", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128033] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Orden de la esperanza",
+		content = {
+			summary = "Elimina a Amdarais (Superior)",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 Amdarais (Superiores)", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128034] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "guardián de la gente",
+		content = {
+			summary = "Elimina a Amdarais (Superior)",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Amdarais (Superiores)", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128035] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Viajero del tiempo",
+		content = {
+			summary = "Eliminar a Sara Irene",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Sara Irene", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128036] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Restaurador de reliquias antiguas",
+		content = {
+			summary = "Eliminar a Sara Irene",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 10 Sara Irene", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128037] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Maestro del transporte de reliquias.",
+		content = {
+			summary = "Eliminar a Sara Irene",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Sara Irene", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128038] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Mostrar Jailbreak al capitán",
+		content = {
+			summary = "Eliminar a Ferlock",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Ferlock", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128039] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Muéstrale Jailbreak al capitán débil.",
+		content = {
+			summary = "Eliminar a Ferlock",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Ferlock", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128040] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "disturbios a bordo",
+		content = {
+			summary = "Eliminar a Ferlock",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 Ferlock", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128041] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Agitación a bordo",
+		content = {
+			summary = "Eliminar a Ferlock",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 Ferlock", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128042] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Rebelión a bordo",
+		content = {
+			summary = "Eliminar a Ferlock",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Ferlock", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128043] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Revuelta de disturbios",
+		content = {
+			summary = "Eliminar a Ferlock",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Ferlock", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128044] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Campeón del torneo de magia.",
+		content = {
+			summary = "Eliminar a Fenrir",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 Fenrir", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128045] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Gladiador del coliseo",
+		content = {
+			summary = "Eliminar a Fenrir",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 Fenrir", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128046] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Asesino del Coliseo",
+		content = {
+			summary = "Eliminar a Fenrir",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 Fenrir", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128047] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Retador de la Torre Sin Fin",
+		content = {
+			summary = "Elimina a Naght Sieger",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 asedio nocturno", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128048] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Asesino de torres sin fin",
+		content = {
+			summary = "Elimina a Naght Sieger",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 10 asaltantes nocturnos", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128049] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "señor de la torre",
+		content = {
+			summary = "Elimina a Naght Sieger",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina a 50 asaltantes nocturnos", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[128050] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Exorcista novato",
+		content = {
+			summary = "Elimina el pilar del alma de Bangungot",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 1 pilar del alma Bangungot.", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128051] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Exorcista experimentado",
+		content = {
+			summary = "Elimina el pilar del alma de Bangungot",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 10 pilares del alma Bangungot.", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128052] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Exorcista legendario",
+		content = {
+			summary = "Elimina el pilar del alma de Bangungot",
+			details = "Continúa hasta el final de la mazmorra."
+		},
+		resource = { [1] = { text = "Elimina 50 pilares de alma Bangungot.", count = 50 } },
+		reward = {},
+		score = 50
+	},
+	[129001] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador de Prontera",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Prontera"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo North Prontera (1) completada", shortcut = 120001 },
+			[2] = { text = "Exploración del campo North Prontera (2) completada", shortcut = 120002 },
+			[3] = { text = "Exploración del campo North Prontera (3) completada", shortcut = 120003 },
+			[4] = { text = "Exploración del campo West Prontera (1) completada", shortcut = 120004 },
+			[5] = { text = "Exploración del campo West Prontera (2) completada", shortcut = 120005 },
+			[6] = { text = "Exploración del campo East Prontera (1) completada", shortcut = 120006 },
+			[7] = { text = "Exploración del campo Prontera Sur (1) completada", shortcut = 120007 },
+			[8] = { text = "Exploración del campo Prontera Sur (2) completada", shortcut = 120008 },
+			[9] = { text = "Exploración del campo Prontera Sur (3) completada", shortcut = 120009 },
+			[10] = { text = "Exploración del campo Prontera Sur (4) completada", shortcut = 120010 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129002] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador Geffen",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Geffen"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo East Geffen (1) completada", shortcut = 120011 },
+			[2] = { text = "Exploración del campo sureste de Geffen (1) completada", shortcut = 120012 },
+			[3] = { text = "Exploración del campo Geffen del noroeste(1) completada", shortcut = 120013 },
+			[4] = { text = "Exploración del campo Geffen del noroeste(2) completada", shortcut = 120014 },
+			[5] = { text = "Exploración del campo Geffen del noroeste (3) completada", shortcut = 120015 },
+			[6] = { text = "Exploración del campo South Geffen (1) completada", shortcut = 120016 },
+			[7] = { text = "Exploración del campo South Geffen (2) completada", shortcut = 120017 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129003] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador del desierto de Sograt",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores del desierto de Sograt."
+		},
+		resource = {
+			[1] = { text = "Exploración del campo del desierto de Sograt (1) completada", shortcut = 120018 },
+			[2] = { text = "Exploración del campo del desierto de Sograt (2) completada", shortcut = 120019 },
+			[3] = { text = "Exploración del campo del desierto de Sograt (3) completada", shortcut = 120020 },
+			[4] = { text = "Exploración del campo del desierto de Sograt (4) completada", shortcut = 120021 },
+			[5] = { text = "Exploración del campo del desierto de Sograt (5) completada", shortcut = 120022 },
+			[6] = { text = "Exploración del campo del desierto de Sograt (6) completada", shortcut = 120023 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129004] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador de Payón",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Payon."
+		},
+		resource = {
+			[1] = { text = "Exploración del campo suroeste de Payon (1) completada", shortcut = 120024 },
+			[2] = { text = "Exploración del campo suroeste de Payon (2) completada", shortcut = 120025 },
+			[3] = { text = "Exploración del campo suroeste de Payon (3) completada", shortcut = 120026 },
+			[4] = { text = "Exploración del campo suroeste de Payon (4) completada", shortcut = 120027 },
+			[5] = { text = "Exploración del campo East Payon (1) completada", shortcut = 120028 },
+			[6] = { text = "Exploración del campo East Payon (2) completada", shortcut = 120029 },
+			[7] = { text = "Exploración del campo East Payon (3) completada", shortcut = 120030 },
+			[8] = { text = "Exploración del campo East Payon (4) completada", shortcut = 120031 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129005] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador del Mjolnir del Norte",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores del norte de Mjolnir."
+		},
+		resource = {
+			[1] = { text = "Exploración del campo North Mjolnir(1) completada", shortcut = 120032 },
+			[2] = { text = "Exploración del campo North Mjolnir (2) completada", shortcut = 120033 },
+			[3] = { text = "Exploración del campo North Mjolnir (3) completada", shortcut = 120034 },
+			[4] = { text = "Exploración del campo North Mjolnir (4) completada", shortcut = 120035 },
+			[5] = { text = "Exploración del campo North Mjolnir (5) completada", shortcut = 120036 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129006] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador del Mjolnir del Sur",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa que rodea el sur de Mjolnir."
+		},
+		resource = {
+			[1] = { text = "Exploración del campo South Mjolnir (1) completada", shortcut = 120037 },
+			[2] = { text = "Exploración del campo South Mjolnir (2) completada", shortcut = 120038 },
+			[3] = { text = "Exploración del campo South Mjolnir (3) completada", shortcut = 120039 },
+			[4] = { text = "Exploración del campo South Mjolnir (4) completada", shortcut = 120040 },
+			[5] = { text = "Exploración del campo South Mjolnir (5) completada", shortcut = 120041 },
+			[6] = { text = "Exploración del campo South Mjolnir (6) completada", shortcut = 120042 },
+			[7] = { text = "Exploración del campo South Aldebaran(1) completada", shortcut = 120043 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129007] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador de Comodo",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Comodo"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo Comodo (1) completada", shortcut = 120044 },
+			[2] = { text = "Exploración del campo Comodo (2) completada", shortcut = 120045 },
+			[3] = { text = "Exploración del campo Comodo (3) completada", shortcut = 120046 },
+			[4] = { text = "Exploración del campo Comodo (4) completada", shortcut = 120047 },
+			[5] = { text = "Exploración del campo Comodo (5) completada", shortcut = 120048 },
+			[6] = { text = "Exploración del campo Comodo (6) completada", shortcut = 120049 },
+			[7] = { text = "Exploración del campo Comodo (7) completada", shortcut = 120050 },
+			[8] = { text = "Exploración del campo Comodo (8) completada", shortcut = 120051 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129008] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Explorador de Runa Midgard",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Rune Midgard"
+		},
+		resource = {
+			[1] = { text = "Explorador de Prontera", shortcut = 129001 },
+			[2] = { text = "Explorador Geffen", shortcut = 129002 },
+			[3] = { text = "Explorador del desierto de Sograt", shortcut = 129003 },
+			[4] = { text = "Explorador de Payón", shortcut = 129004 },
+			[5] = { text = "Explorador del Mjolnir del Norte", shortcut = 129005 },
+			[6] = { text = "Explorador del Mjolnir del Sur", shortcut = 129006 },
+			[7] = { text = "Explorador de Comodo", shortcut = 129007 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129009] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Explorador Yuno",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Yuno"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo del puesto de control fronterizo (1) completada", shortcut = 120052 },
+			[2] = { text = "Exploración del campo del puesto de control fronterizo (2) completada", shortcut = 120053 },
+			[3] = { text = "Exploración del campo de la mansión Kiel Hyre (1) completada", shortcut = 120054 },
+			[4] = { text = "Exploración del campo El Mes Plateau(1) completada", shortcut = 120055 },
+			[5] = { text = "Exploración del campo El Mes Plateau(2) completada", shortcut = 120056 },
+			[6] = { text = "Exploración del campo El Mes Plateau(3) completada", shortcut = 120057 },
+			[7] = { text = "Exploración del campo El Mes Gorge(1) completada", shortcut = 120058 },
+			[8] = { text = "Exploración de campo de la Academia Kiel Hyre (1) completada", shortcut = 120059 },
+			[9] = { text = "Exploración del campo del campamento de guardia (1) completada", shortcut = 120060 },
+			[10] = { text = "Exploración del campo Yuno (1) completada", shortcut = 120061 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129010] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Explorador enorme",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Hugel."
+		},
+		resource = {
+			[1] = { text = "Se completó la exploración del campo del frente de la Torre Thanatos (1)", shortcut = 120062 },
+			[2] = { text = "Exploración del campo Hugel(1) completada", shortcut = 120063 },
+			[3] = { text = "Exploración del campo Hugel(2) completada", shortcut = 120064 },
+			[4] = { text = "Exploración del campo Hugel (3) completada", shortcut = 120065 },
+			[5] = { text = "Exploración del campo Abyss Lake (1) completada", shortcut = 120066 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129011] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Explorador de Einbroch",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Einbroch"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo Einbroch(1) completada", shortcut = 120067 },
+			[2] = { text = "Exploración del campo Einbroch(2) completada", shortcut = 120068 },
+			[3] = { text = "Exploración del campo Einbroch(3) completada", shortcut = 120069 },
+			[4] = { text = "Exploración del campo Einbroch(4) completada", shortcut = 120070 },
+			[5] = { text = "Exploración del campo Einbroch(5) completada", shortcut = 120071 },
+			[6] = { text = "Exploración del campo Einbroch(6) completada", shortcut = 120072 },
+			[7] = { text = "Exploración del campo Einbroch(7) completada", shortcut = 120073 },
+			[8] = { text = "Exploración del campo Einbroch(8) completada", shortcut = 120074 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129012] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Explorador Lighthalzen",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Lighthalzen"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo Lighthalzen(1) completada", shortcut = 120075 },
+			[2] = { text = "Exploración del campo Lighthalzen(2) completada", shortcut = 120076 },
+			[3] = { text = "Exploración del campo Lighthalzen(3) completada", shortcut = 120077 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129013] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Explorador de la Selva Negra",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Schwarzwald"
+		},
+		resource = {
+			[1] = { text = "Explorador Yuno", shortcut = 129009 },
+			[2] = { text = "Explorador enorme", shortcut = 129010 },
+			[3] = { text = "Explorador de Einbroch", shortcut = 129011 },
+			[4] = { text = "Explorador Lighthalzen", shortcut = 129012 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129014] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Raquel Exploradora",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Rachel"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo Rachel Audhumbla Plains (1) completada", shortcut = 120078 },
+			[2] = { text = "Exploración del campo Rachel Plains (1) completada", shortcut = 120079 },
+			[3] = { text = "Exploración del campo Rachel Plains (2) completada", shortcut = 120080 },
+			[4] = { text = "Exploración del campo Rachel Plains (3) completada", shortcut = 120081 },
+			[5] = { text = "Exploración del campo de pastizales Rachel Audhumbla (1) completada", shortcut = 120082 },
+			[6] = { text = "Exploración del campo de pastizales Rachel Audhumbla (2) completada", shortcut = 120083 },
+			[7] = { text = "Exploración del campo Portus Luna(1) completada", shortcut = 120084 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129015] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Explorador de venas",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Completa la exploración de las venas circundantes."
+		},
+		resource = {
+			[1] = { text = "Exploración del campo de vetas (1) completada", shortcut = 120085 },
+			[2] = { text = "Exploración del campo de vetas (2) completada", shortcut = 120086 },
+			[3] = { text = "Exploración del campo de vetas (3) completada", shortcut = 120087 },
+			[4] = { text = "Exploración del campo de vetas (4) completada", shortcut = 120088 },
+			[5] = { text = "Exploración del campo de vetas (5) completada", shortcut = 120089 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129016] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Explorador de Arunafeltz",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Arunafeltz"
+		},
+		resource = {
+			[1] = { text = "Raquel Exploradora", shortcut = 129014 },
+			[2] = { text = "Explorador de venas", shortcut = 129015 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129017] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Explorador de Laphine",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Laphine"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo Eclage(1) completada", shortcut = 120090 },
+			[2] = { text = "Exploración del campo North Bitfrost (1) completada", shortcut = 120091 },
+			[3] = { text = "Exploración del campo South Bitfrost (1) completada", shortcut = 120092 },
+			[4] = { text = "Exploración del campo espléndido(1) completada", shortcut = 120093 },
+			[5] = { text = "Exploración del campo espléndido(2) completada", shortcut = 120094 },
+			[6] = { text = "Exploración del campo espléndido (3) completada", shortcut = 120095 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129018] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Explorador Manuk",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Manuk."
+		},
+		resource = {
+			[1] = { text = "Exploración del campo Manuk (1) completada", shortcut = 120096 },
+			[2] = { text = "Exploración del campo Manuk (2) completada", shortcut = 120097 },
+			[3] = { text = "Exploración del campo Manuk (3) completada", shortcut = 120098 },
+			[4] = { text = "Se completó la exploración de las afueras del campo Kamidal (1)", shortcut = 120099 },
+			[5] = { text = "Se completó la exploración de las afueras del campo Kamidal (2)", shortcut = 120100 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129019] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Explorador de Eclage",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los alrededores de Eclage"
+		},
+		resource = {
+			[1] = { text = "Explorador de Laphine", shortcut = 129017 },
+			[2] = { text = "Explorador Manuk", shortcut = 120918 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129020] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Explorador de campos de localización",
+		content = {
+			summary = "Completar objetivos de exploración de campo.",
+			details = "Exploración completa de los campos de localización circundantes"
+		},
+		resource = {
+			[1] = { text = "Exploración del campo Amatsu (1) completada", shortcut = 120101 },
+			[2] = { text = "Exploración del campo Kunlun (1) completada", shortcut = 120102 },
+			[3] = { text = "Exploración del campo Gonryun (1) completada", shortcut = 120103 },
+			[4] = { text = "Exploración del campo Ayothaya(1) completada", shortcut = 120104 },
+			[5] = { text = "Exploración del campo Moscovia(1) completada", shortcut = 120105 },
+			[6] = { text = "Exploración del campo Brasilis(1) completada", shortcut = 120106 },
+			[7] = { text = "Exploración del campo Dewata (1) completada", shortcut = 120107 },
+			[8] = { text = "Exploración del campo Malaya (1) completada", shortcut = 120108 },
+			[9] = { text = "Exploración del campo Malaya (2) completada", shortcut = 120109 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Modo Desafío Glast Heim",
+		content = {
+			summary = "Has completado el modo Desafío Glast Heim.",
+			details = "Completa el Memorial Dungeon hasta el final."
+		},
+		resource = {
+			[1] = { text = "Cantidad de desafíos exitosos", count = 100 }
+		},
+		reward = { title = 1045 },
+		score = 10
+	},
+	[130000] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 4,
+		minor = 0,
+		title = "Debut en la alta sociedad",
+		content = {
+			summary = "Visita a la Siete Familia Real",
+			details = "Visite a las siete Familias Reales en el palacio independiente este y oeste."
+		},
+		resource = {
+			[1] = { text = "Visita la Familia Real de Heine y comienza una conversación." },
+			[2] = { text = "Visita la Familia Real Nerius y comienza una conversación." },
+			[3] = { text = "Visita la Familia Real Walter y comienza una conversación." },
+			[4] = { text = "Visita la Familia Real Wigner y comienza una conversación" },
+			[5] = { text = "Visita la familia real de Richard y comienza una conversación." },
+			[6] = { text = "Visita la Familia Real Gaebolg y comienza una conversación." },
+			[7] = { text = "Visita la Familia Real de Lugenburg y comienza una conversación." }
+		},
+		reward = { title = 1034 },
+		score = 10
+	},
+	[130005] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 4,
+		minor = 0,
+		title = "El que hizo reyes",
+		content = {
+			summary = "El rey que creé",
+			details = "Restaura la gloria de Terra Gloria y corona a sus protagonistas."
+		},
+		resource = {
+			[1] = { text = "Asiste a la ceremonia de coronación del nuevo rey de Rune-Midgards." }
+		},
+		reward = { title = 1046 },
+		score = 10
+	},
+	[170000] = {
+		UI_Type = 0,
+		group = "HEAR",
+		major = 4,
+		minor = 0,
+		title = "La cámara de canciones no es un accidente.",
+		content = {
+			summary = "Escuchando la canción secreta del músico de la corte.",
+			details = "Escucha la canción secreta de cinco músicos de la corte recomendados."
+		},
+		resource = { [1] = { text = "Escucha la canción secreta de cinco músicos de la corte recomendados." } },
+		reward = {},
+		score = 10
+	},
+	[190000] = {
+		UI_Type = 1,
+		group = "CHATTING",
+		major = 4,
+		minor = 1,
+		title = "Trabajadores de la alianza de la ciudad mercantil.",
+		content = {
+			summary = "Trabajadores de la Alianza en la gran ciudad de los comerciantes.",
+			details = "¿Quieres desafiar todas las solicitudes de la alianza Merchant City? ¡Entonces trabaja más duro! La ciudad mercantil no es lugar para agresivos."
+		},
+		resource = {
+			[1] = { text = "Clase de amatista para principiantes", count = 1 },
+			[2] = { text = "Clase Experto Sardonyx", count = 10 },
+			[3] = { text = "Persona competente Clase aguamarina", count = 30 },
+			[4] = { text = "Clase de diamante brillante", count = 100 }
+		},
+		reward = {},
+		score = 50
+	},
+	[200000] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Adquiere la primera aura!",
+		content = {
+			summary = "¡Alcanza el nivel básico 99!",
+			details = "Alcanza el nivel básico 99."
+		},
+		resource = { [1] = { text = "Nivel básico 99" } },
+		reward = { title = 1000, buff = 10, item = 12549 },
+		score = 50
+	},
+	[200001] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Adquiere la segunda aura!",
+		content = {
+			summary = "¡Alcanza el nivel básico 150!",
+			details = "Alcanza el nivel básico 150."
+		},
+		resource = { [1] = { text = "Nivel básico 150" } },
+		reward = { title = 1001, buff = 10, item = 5364 },
+		score = 60
+	},
+	[200002] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Adquiere la tercera aura!",
+		content = {
+			summary = "¡Alcanza el nivel básico 175!",
+			details = "Alcanza el nivel básico 175."
+		},
+		resource = { [1] = { text = "Nivel básico 175" } },
+		reward = { title = 1002, buff = 10, item = 18880 },
+		score = 70
+	},
+	[200003] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Nivel de trabajo maestro!",
+		content = {
+			summary = "¡Alcanza el nivel de trabajo 50!",
+			details = "Alcanza el nivel de trabajo 50."
+		},
+		resource = { [1] = { text = "Nivel de trabajo 50" } },
+		reward = { title = 1003, buff = 10, item = 617 },
+		score = 30
+	},
+	[200004] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Nivel de trabajo de gran maestro!",
+		content = {
+			summary = "¡Alcanza el nivel de trabajo 70!",
+			details = "Alcanza el nivel de trabajo 70."
+		},
+		resource = { [1] = { text = "Nivel de trabajo 70" } },
+		reward = { title = 1004, buff = 10, item = 12817 },
+		score = 50
+	},
+	[200005] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Aventurero oficial",
+		content = {
+			summary = "Cambio de trabajo a primera clase.",
+			details = "Acólito, Mercader, Espadachín, Mago, Ladrón o Arquero."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a primera clase." } },
+		reward = { buff = 12 },
+		score = 10
+	},
+	[200006] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Primer paso del cambio de trabajo!",
+		content = {
+			summary = "Primer paso del cambio de trabajo",
+			details = "Acólito, Mercader, Espadachín, Mago, Ladrón o Arquero."
+		},
+		resource = { [1] = { text = "Primer paso del cambio de trabajo" } },
+		reward = { buff = 12 },
+		score = 20
+	},
+	[200007] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Aventurero veterano! (1)",
+		content = {
+			summary = "Cambio de trabajo a clases 2-1",
+			details = "Caballero, Herrero, Asesino, Mago, Sacerdote o Cazador."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a clases 2-1" } },
+		reward = { buff = 12 },
+		score = 25
+	},
+	[200008] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Aventurero veterano! (2)",
+		content = {
+			summary = "Cambio de trabajo a 2-2 clases.",
+			details = "Cruzado, Alquimista, Pícaro, Sabio, Monje, Bardo o Bailarín."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a 2-2 clases." } },
+		reward = { buff = 12 },
+		score = 25
+	},
+	[200009] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Guerrero (1)",
+		content = {
+			summary = "Cambio de trabajo a clases trascendentes 2-1",
+			details = "Lord Knight, White Smith, Assassin Cross, High Wizard, High Priest o Sniper."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a clases trascendentes 2-1" } },
+		reward = { buff = 12 },
+		score = 30
+	},
+	[200010] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "guerrero (2)",
+		content = {
+			summary = "Cambio de trabajo a trascendentes 2-2 clases.",
+			details = "Paladín, Creador, Acosador, Profesor, Campeón, Payaso o Gitano."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a trascendentes 2-2 clases." } },
+		reward = { buff = 12 },
+		score = 30
+	},
+	[200011] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Aventurero de élite! (1)",
+		content = {
+			summary = "Cambio de trabajo a clases 3-1",
+			details = "Caballero Rúnico, Mecánico, Cruz de Guillotina, Brujo, Archiobispo o Guardabosques."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a clases 3-1" } },
+		reward = { buff = 12, item = 16483 },
+		score = 50
+	},
+	[200012] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Trascendentaler! (1)",
+		content = {
+			summary = "Cambio de trabajo a clases 3-1 después de trascendente",
+			details = "Caballero Rúnico, Mecánico, Cruz de Guillotina, Brujo, Archiobispo o Guardabosques después de trascendente."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a clases 3-1 después de trascendente" } },
+		reward = { buff = 12, item = 16483 },
+		score = 60
+	},
+	[200013] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Aventurero de élite! (2)",
+		content = {
+			summary = "Cambio de trabajo a 3-2 clases.",
+			details = "Guardia Real, Genetista, Cazador de Sombras, Hechicero, Sura, Juglar o Vagabundo."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a 3-2 clases." } },
+		reward = { buff = 12, item = 16483 },
+		score = 50
+	},
+	[200014] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Trascendentaler! (2)",
+		content = {
+			summary = "Cambio de trabajo a 3-2 clases después de trascendente.",
+			details = "Guardia Real, Genetista, Cazador de Sombras, Hechicero, Sura, Juglar o Vagabundo tras trascendente."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a 3-2 clases después de trascendente." } },
+		reward = { buff = 12, item = 16483 },
+		score = 60
+	},
+	[200015] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "El camino del carácter excepcional.",
+		content = {
+			summary = "Cambio de trabajo a clases ampliadas.",
+			details = "Taekwon, Pistolero, Súper Novato, Ninja o Druida."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a clases ampliadas." } },
+		reward = { buff = 12 },
+		score = 10
+	},
+	[200016] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Este es Mi camino!",
+		content = {
+			summary = "Cambio de trabajo a segunda clase ampliada",
+			details = "Soul Linker, Star Gladiator, Rebellion, Oboro/Kagerou o Karnos."
+		},
+		resource = { [1] = { text = "Segundas clases ampliadas" } },
+		reward = { buff = 12, item = 16483 },
+		score = 20
+	},
+	[200017] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "¡Poder bajista!",
+		content = {
+			summary = "Lograr STR base 90",
+			details = "Consigue 90 de STR base o más."
+		},
+		resource = { [1] = { text = "Lograr STR base 90" } },
+		reward = {},
+		score = 10
+	},
+	[200018] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "¡Magia desbordante!",
+		content = {
+			summary = "Lograr la base INT 90",
+			details = "Consigue 90 INT base o más."
+		},
+		resource = { [1] = { text = "Lograr la base INT 90" } },
+		reward = {},
+		score = 10
+	},
+	[200019] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "¡Cuerpo sano y salud mental!",
+		content = {
+			summary = "Alcanzar VIT base 90",
+			details = "Alcanzar un VIT básico de 90 o superior."
+		},
+		resource = { [1] = { text = "Alcanzar VIT base 90" } },
+		reward = {},
+		score = 10
+	},
+	[200020] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Velocidad de la luz",
+		content = {
+			summary = "Lograr un AGI básico de 90",
+			details = "Lograr un AGI base de 90 o más."
+		},
+		resource = { [1] = { text = "Lograr un AGI básico de 90" } },
+		reward = {},
+		score = 10
+	},
+	[200021] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "ojos de halcón",
+		content = {
+			summary = "Consigue una base DEX 90",
+			details = "Consigue 90 DEX base o más."
+		},
+		resource = { [1] = { text = "Consigue una base DEX 90" } },
+		reward = {},
+		score = 10
+	},
+	[200022] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Máxima suerte",
+		content = {
+			summary = "Alcanzar la base LUK 90",
+			details = "Consigue 90 LUK base o más."
+		},
+		resource = { [1] = { text = "Alcanzar la base LUK 90" } },
+		reward = {},
+		score = 10
+	},
+	[200023] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "¡Poder de dragón!",
+		content = {
+			summary = "Consigue la base STR 125",
+			details = "Consigue 125 de STR base o más."
+		},
+		resource = { [1] = { text = "Consigue la base STR 125" } },
+		reward = { buff = 319 },
+		score = 20
+	},
+	[200024] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Locura mágica",
+		content = {
+			summary = "Consigue la base INT 125.",
+			details = "Consigue 125 INT base o más."
+		},
+		resource = { [1] = { text = "Consigue la base INT 125." } },
+		reward = { buff = 611 },
+		score = 20
+	},
+	[200025] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Aleación de roca",
+		content = {
+			summary = "Alcanzar VIT base 125",
+			details = "Lograr 125 VIT base o superior."
+		},
+		resource = { [1] = { text = "Alcanzar VIT base 125" } },
+		reward = { buff = 293 },
+		score = 20
+	},
+	[200026] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Velocidad de la luz",
+		content = {
+			summary = "Lograr un AGI básico de 125",
+			details = "Logre un AGI base de 125 o más."
+		},
+		resource = { [1] = { text = "Lograr un AGI básico de 125" } },
+		reward = { buff = 296 },
+		score = 20
+	},
+	[200027] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "ojos de halcón",
+		content = {
+			summary = "Consigue la base DEX 125",
+			details = "Consigue 125 DEX base o más."
+		},
+		resource = { [1] = { text = "Consigue la base DEX 125" } },
+		reward = { buff = 295 },
+		score = 20
+	},
+	[200028] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Fiebre de la suerte",
+		content = {
+			summary = "Consigue la base LUK 125",
+			details = "Consigue 125 LUK base o más."
+		},
+		resource = { [1] = { text = "Consigue la base LUK 125" } },
+		reward = { buff = 21 },
+		score = 20
+	},
+	[200029] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Encarnación del amor y el odio",
+		content = {
+			summary = "Alcanza el nivel base 99 como principiante",
+			details = "Alcanza el nivel base 99 como clase principiante."
+		},
+		resource = { [1] = { text = "Alcanza el nivel base 99 como principiante" } },
+		reward = { buff = 10, item = 16483 },
+		score = 30
+	},
+	[200030] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "¡Realmente me encanta!",
+		content = {
+			summary = "Alcanza el nivel base 99 como primera clase.",
+			details = "Alcanza el nivel base 99 como primera clase."
+		},
+		resource = { [1] = { text = "Alcanza el nivel base 99 como primera clase." } },
+		reward = { buff = 10, item = 101948 },
+		score = 30
+	},
+	[200031] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "¡Renacido en Valhalla!",
+		content = {
+			summary = "Cambio de trabajo a novato trascendente",
+			details = "Habla con Valkyrie para cambiar de trabajo a novato trascendente."
+		},
+		resource = { [1] = { text = "Cambio de trabajo a novato trascendente" } },
+		reward = { buff = 12, item = 22808 },
+		score = 10
+	},
+	[200032] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡El comienzo de otra aventura!",
+		content = {
+			summary = "¡Consigue el nivel base 100!",
+			details = "Alcanza el nivel base 100." 
+		},
+		resource = { [1] = { text = "Nivel básico 100" } },
+		reward = { item = 23585 },
+		score = 10
+	},
+	[200033] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Nueva determinación!(1)",
+		content = {
+			summary = "¡Consigue el nivel base 170 como clases 3-1!",
+			details = "Alcanza el nivel base 170 como clases 3-1."
+		},
+		resource = { [1] = { text = "Nivel básico 170" } },
+		reward = { item = 6959 },
+		score = 50
+	},
+	[200034] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Nueva determinación!(2)",
+		content = {
+			summary = "¡Consigue el nivel base 170 con 3 o 2 clases!",
+			details = "Alcanza el nivel base 170 con 3 o 2 clases."
+		},
+		resource = { [1] = { text = "Nivel básico 170" } },
+		reward = { item = 6959 },
+		score = 50
+	},
+	[200035] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "¡Alcanzaste el nivel 200!",
+		content = {
+			summary = "¡Consigue el nivel base 200!",
+			details = "Alcanza el nivel base 200."
+		},
+		resource = {[1] = { text = "Nivel básico 200" } },
+		reward = { buff = 10, item = 400124 },
+		score = 100
+	},
+	[230100] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Estudiar es amor",
+		content = {
+			summary = "Completa todas las tareas objetivas.",
+			details = "¡Eres el verdadero entusiasta de estudiar detalladamente las cosas!"
+		},
+		resource = {
+			[1] = { text = "Completa el desafío 'Estudiar - domesticar'", shortcut = 230101 },
+			[2] = { text = "Completa el desafío 'Gotas - domesticación'", shortcut = 230102 },
+			[3] = { text = "Completa el desafío 'Poporing - domesticación'", shortcut = 230103 },
+			[4] = { text = "Completa el desafío 'Estudiar principiantes: domesticar'", shortcut = 230104 }
+		},
+		reward = { title = 1025, buff = 12 },
+		score = 50
+	},
+	[230110] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Entomólogo",
+		content = {
+			summary = "Completa todas las tareas objetivas.",
+			details = "¡Te despierta la idea de recolectar insectos para convertirte en un verdadero entomólogo!"
+		},
+		resource = {
+			[1] = { text = "Completa el desafío 'Chonchon - domesticación'", shortcut = 230111 },
+			[2] = { text = "Completa el desafío 'Steel Chonchon - domesticación'", shortcut = 230112 },
+			[3] = { text = "Completa el desafío 'Hunter Fly - domesticación'", shortcut = 230113 },
+			[4] = { text = "Completa el desafío 'Rocker - domesticación'", shortcut = 230114 },
+			[5] = { text = "Completa el desafío 'Spore - domesticación'", shortcut = 230115 },
+			[6] = { text = "Completa el desafío 'Esporas venenosas: domesticación'", shortcut = 230116 }
+		},
+		reward = { title = 1026, buff = 12 },
+		score = 50
+	},
+	[230120] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Los animales son nuestros amigos.",
+		content = {
+			summary = "Completa todas las tareas objetivas.",
+			details = "¡Te despierta la idea de convertirte en un verdadero amante de los animales!"
+		},
+		resource = {
+			[1] = { text = "Completa el desafío 'Lunático - domesticación'", shortcut = 230121 },
+			[2] = { text = "Completa el desafío 'Picky - domesticación'", shortcut = 230122 },
+			[3] = { text = "Completa el desafío 'Savage Bebe - domesticación'", shortcut = 230123 },
+			[4] = { text = "Completa el desafío 'Baby Desert Wolf - domesticación'", shortcut = 230124 },
+			[5] = { text = "Completa el desafío 'Smokie - domesticación'", shortcut = 230125 },
+			[6] = { text = "Completa el desafío 'Yoyo - domesticación'", shortcut = 230126 },
+			[7] = { text = "Completa el desafío 'Peco Peco - domesticación'", shortcut = 230127 },
+			[8] = { text = "Completa el desafío 'Petite - domesticación'", shortcut = 230128 }
+		},
+		reward = { title = 1027, buff = 12 },
+		score = 50
+	},
+	[230140] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "¡¡Las chicas monstruosas se unen!!",
+		content = {
+			summary = "Completa todas las tareas objetivas.",
+			details = "¡Te despierta la idea de convertirte en el productor de chicas monstruosas!"
+		},
+		resource = {
+			[1] = { text = "Completa el desafío 'Munak - domesticación'", shortcut = 230141 },
+			[2] = { text = "Completa el desafío 'Isis - domesticación'", shortcut = 230142 },
+			[3] = { text = "Completa el desafío 'Sohee - domesticación'", shortcut = 230143 },
+			[4] = { text = "Completa el desafío 'Zherlthsh - domesticación'", shortcut = 230144 },
+			[5] = { text = "Completa el desafío 'Alice - domesticación'", shortcut = 230145 },
+			[6] = { text = "Completa el desafío 'Súcubo - domesticación'", shortcut = 230146 },
+			[7] = { text = "Completa el desafío 'Loli Ruri - domesticación'", shortcut = 230147 }
+		},
+		reward = { title = 1029, buff = 12 },
+		score = 50
+	},
+	[230101] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Estudiar - domesticar",
+		content = {
+			summary = "Domar con éxito un Poring",
+			details = "Consigamos una mascota Poring. Puedes utilizar 'Manzana verde'."
+		},
+		resource = { [1] = { text = "Domar con éxito un Poring" } },
+		reward = {},
+		score = 10
+	},
+	[230102] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Gotas - domesticación",
+		content = {
+			summary = "Domar con éxito un Drops",
+			details = "Consigamos una mascota de Drops. Puedes utilizar 'jugo de naranja'."
+		},
+		resource = { [1] = { text = "Domar con éxito un Drops" } },
+		reward = {},
+		score = 10
+	},
+	[230103] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Poporing - domesticación",
+		content = {
+			summary = "Domar con éxito un Poporing",
+			details = "Consigamos una mascota poporing. Puedes utilizar 'hierba amarga'."
+		},
+		resource = { [1] = { text = "Domar con éxito un Poporing" } },
+		reward = {},
+		score = 10
+	},
+	[230104] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Estudiantes novatos - domesticación",
+		content = {
+			summary = "Successfully tame a Novice Poring",
+			details = "Let's get a Novice Poring pet. You can use 'Little Unripe Apple'."
+		},
+		resource = { [1] = { text = "Successfully tame a Novice Poring" } },
+		reward = {},
+		score = 10
+	},
+	[230111] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Chonchón - domesticación",
+		content = {
+			summary = "Domar con éxito un Chonchon",
+			details = "Consigamos una mascota Chonchon. Puedes utilizar 'Pescado podrido'."
+		},
+		resource = { [1] = { text = "Domar con éxito un Chonchon" } },
+		reward = {},
+		score = 10
+	},
+	[230112] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Chonchon de acero - domesticación",
+		content = {
+			summary = "Domina con éxito un Chonchon de acero.",
+			details = "Consigamos una mascota Steel Chonchon. Puedes usar 'Hierro oxidado'."
+		},
+		resource = { [1] = { text = "Domina con éxito un Chonchon de acero." } },
+		reward = {},
+		score = 10
+	},
+	[230113] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Mosca cazadora - domesticación",
+		content = {
+			summary = "Domar con éxito una mosca cazadora",
+			details = "Consigamos una mascota Hunter Fly. Puedes usar 'Jugo de Monstruo'."
+		},
+		resource = { [1] = { text = "Domar con éxito una mosca cazadora" } },
+		reward = {},
+		score = 10
+	},
+	[230114] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Rockero - domesticación",
+		content = {
+			summary = "Domar con éxito a un Rockero",
+			details = "Consigamos una mascota Rocker. Puedes utilizar 'Flor cantante'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un Rockero" } },
+		reward = {},
+		score = 10
+	},
+	[230115] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Espora - domesticación",
+		content = {
+			summary = "Domar con éxito una espora",
+			details = "Consigamos una mascota Spore. Puedes utilizar 'Dew Laden Moss'."
+		},
+		resource = { [1] = { text = "Domar con éxito una espora" } },
+		reward = {},
+		score = 10
+	},
+	[230116] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Espora venenosa - domesticación",
+		content = {
+			summary = "Domina con éxito una espora venenosa",
+			details = "Consigamos una mascota de espora venenosa. Puedes usar 'Hierba nociva mortal'."
+		},
+		resource = { [1] = { text = "Domina con éxito una espora venenosa" } },
+		reward = {},
+		score = 10
+	},
+	[230121] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Lunático - domesticación",
+		content = {
+			summary = "Domar con éxito a un lunático",
+			details = "Consigamos una mascota lunática. Puedes utilizar 'Zanahoria arcoíris'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un lunático" } },
+		reward = {},
+		score = 10
+	},
+	[230122] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Quisquilloso - domesticar",
+		content = {
+			summary = "Domar con éxito a un Picky",
+			details = "Consigamos una mascota exigente. Puedes usar 'Earthworm the Dude'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un Picky" } },
+		reward = {},
+		score = 10
+	},
+	[230123] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Bebe salvaje - domesticación",
+		content = {
+			summary = "Domar con éxito a un bebé salvaje",
+			details = "Consigamos una mascota Savage Bebe. Puedes utilizar 'Leche Dulce'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un bebé salvaje" } },
+		reward = {},
+		score = 10
+	},
+	[230124] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Bebé lobo del desierto - domesticación",
+		content = {
+			summary = "Domina con éxito a un bebé lobo del desierto",
+			details = "Consigamos una mascota Baby Desert Wolf. Puedes utilizar 'hueso bien seco'."
+		},
+		resource = { [1] = { text = "Domina con éxito a un bebé lobo del desierto" } },
+		reward = {},
+		score = 10
+	},
+	[230125] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Smokie - domesticación",
+		content = {
+			summary = "Domar con éxito a un Smokie",
+			details = "Consigamos una mascota Smokie. Puedes utilizar 'ñame al horno'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un Smokie" } },
+		reward = {},
+		score = 10
+	},
+	[230126] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Yoyo - domesticación",
+		content = {
+			summary = "Domar con éxito un Yoyo",
+			details = "Consigamos una mascota Yoyo. Puedes utilizar 'plátano tropical'."
+		},
+		resource = { [1] = { text = "Domar con éxito un Yoyo" } },
+		reward = {},
+		score = 10
+	},
+	[230127] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Peco Peco - domesticación",
+		content = {
+			summary = "Domar con éxito un Peco Peco",
+			details = "Consigamos una mascota Peco Peco. Puedes utilizar 'Lombriz de tierra gordita y gorda'."
+		},
+		resource = { [1] = { text = "Domar con éxito un Peco Peco" } },
+		reward = {},
+		score = 10
+	},
+	[230128] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Pequeña - domesticación",
+		content = {
+			summary = "Domar con éxito a una Petite",
+			details = "Consigamos una mascota pequeña. Puedes utilizar 'Piedra brillante'."
+		},
+		resource = { [1] = { text = "Domar con éxito a una Petite" } },
+		reward = {},
+		score = 10
+	},
+	[230141] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Munak - domesticación",
+		content = {
+			summary = "Domar con éxito a un Munak",
+			details = "Consigamos una mascota Munak. Puede utilizar 'Sin destinatario'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un Munak" } },
+		reward = {},
+		score = 10
+	},
+	[230142] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Isis - domesticando",
+		content = {
+			summary = "Domar con éxito a una Isis",
+			details = "Consigamos una mascota Isis. Puedes usar el 'Brazalete de Obediencia'."
+		},
+		resource = { [1] = { text = "Domar con éxito a una Isis" } },
+		reward = {},
+		score = 10
+	},
+	[230143] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Sohee - domesticación",
+		content = {
+			summary = "Domar con éxito a un Sohee",
+			details = "Consigamos una mascota Sohee. Puedes usar el 'Cuchillo de Castidad de Plata'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un Sohee" } },
+		reward = {},
+		score = 10
+	},
+	[230144] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Zherlthsh - domesticación",
+		content = {
+			summary = "Domar con éxito un Zherlthsh",
+			details = "Consigamos una mascota Zherlthsh. Puedes usar 'Vela Roja Prohibida'."
+		},
+		resource = { [1] = { text = "Domar con éxito un Zherlthsh" } },
+		reward = {},
+		score = 10
+	},
+	[230145] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Alicia - domesticando",
+		content = {
+			summary = "Domar con éxito a una Alicia",
+			details = "Consigamos una mascota Alice. Puedes utilizar 'Delantal suave'."
+		},
+		resource = { [1] = { text = "Domar con éxito a una Alicia" } },
+		reward = {},
+		score = 10
+	},
+	[230146] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Súcubo - domesticación",
+		content = {
+			summary = "Domar con éxito a un súcubo",
+			details = "Consigamos una mascota Súcubo. Puedes utilizar 'Boy's Pure Heart'."
+		},
+		resource = { [1] = { text = "Domar con éxito a un súcubo" } },
+		reward = {},
+		score = 10
+	},
+	[230147] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Loli Ruri - domesticación",
+		content = {
+			summary = "Domar con éxito a una Loli Ruri",
+			details = "Consigamos una mascota Loli Ruri. Puedes utilizar 'Jugo Muy Rojo'."
+		},
+		resource = { [1] = { text = "Domar con éxito a una Loli Ruri" } },
+		reward = {},
+		score = 10
+	},
+	[220000] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 1,
+		minor = 2,
+		title = "Iniciar comunidad",
+		content = {
+			summary = "Crear una sala de chat",
+			details = "Creemos una sala de chat. Presione el método abreviado de teclado Alt+C."
+		},
+		resource = { [1] = { text = "Crear una sala de chat" } },
+		reward = {},
+		score = 10
+	},
+	[220001] = {
+		UI_Type = 0,
+		group = "CHATTING_DYING",
+		major = 1,
+		minor = 2,
+		title = "Chatterbox sombrío",
+		content = {
+			summary = "Crea una sala de chat cuando te KO",
+			details = "Crea una sala de chat cuando estés KO. Presione el método abreviado de teclado Alt+C."
+		},
+		resource = { [1] = { text = "Crea una sala de chat cuando te KO" } },
+		reward = {},
+		score = 10
+	},
+	[220002] = {
+		UI_Type = 0,
+		group = "CHATTING20",
+		major = 1,
+		minor = 2,
+		title = "charlando lejos",
+		content = {
+			summary = "Llena la sala de chat con 20 personas",
+			details = "Reúne gente y empieza a charlar. Llena la sala de chat con 20 personas."
+		},
+		resource = { [1] = { text = "Llena la sala de chat con 20 personas" } },
+		reward = {},
+		score = 10
+	},
+	[220003] = {
+		UI_Type = 0,
+		group = "ADD_FRIEND",
+		major = 1,
+		minor = 2,
+		title = "Amigo~ Amigo~",
+		content = {
+			summary = "Añadir 1 persona como amigo",
+			details = "Reclutemos a un amigo y comencemos un viaje juntos. Añade a 1 persona como amigo."
+		},
+		resource = { [1] = { text = "Añadir 1 persona como amigo" } },
+		reward = {},
+		score = 10
+	},
+	[220004] = {
+		UI_Type = 0,
+		group = "ADD_FRIEND",
+		major = 1,
+		minor = 2,
+		title = "persona popular",
+		content = {
+			summary = "Añade 10 personas como amigo",
+			details = "Reclutemos a un amigo y comencemos un viaje juntos. Agrega 10 personas como amigos."
+		},
+		resource = { [1] = { text = "Añade 10 personas como amigo" } },
+		reward = {},
+		score = 10
+	},
+	[220005] = {
+		UI_Type = 0,
+		group = "PARTY",
+		major = 1,
+		minor = 2,
+		title = "Vamos de fiesta~",
+		content = {
+			summary = "crear una fiesta",
+			details = "¡Aventurarse solo es difícil! Creemos una fiesta."
+		},
+		resource = { [1] = { text = "crear una fiesta" } },
+		reward = {},
+		score = 10
+	},
+	[220006] = {
+		UI_Type = 0,
+		group = "MARRY",
+		major = 1,
+		minor = 2,
+		title = "¿Te casaste...?",
+		content = {
+			summary = "Triunfar en el matrimonio",
+			details = "Vivir en este mundo es duro, llenémoslo de amor. Casémonos con alguien que amas."
+		},
+		resource = { [1] = { text = "Triunfar en el matrimonio" } },
+		reward = { title = 1022 },
+		score = 20
+	},
+	[220007] = {
+		UI_Type = 0,
+		group = "BABY",
+		major = 1,
+		minor = 2,
+		title = "¿Puedes criarme?",
+		content = {
+			summary = "Adoptado por los padres",
+			details = "Supere el mundo difícil con la ayuda de los padres."
+		},
+		resource = { [1] = { text = "Adoptado por los padres" } },
+		reward = { title = 1032 },
+		score = 20
+	},
+	[220008] = {
+		UI_Type = 0,
+		group = "BABY",
+		major = 1,
+		minor = 2,
+		title = "ser padre",
+		content = {
+			summary = "adoptar un niño",
+			details = "Consiga un niño feliz y cree una hermosa historia familiar a través de la adopción."
+		},
+		resource = { [1] = { text = "adoptar un niño" } },
+		reward = { title = 1033 },
+		score = 20
+	},
+	[220009] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Activar la economía de mercado (1)",
+		content = {
+			summary = "Gasta 10.000 zenys en un comerciante expendedor.",
+			details = "Ésta es una forma de proceso de hacer girar el dinero. Gasta 10.000 zenys en un comerciante expendedor."
+		},
+		resource = { [1] = { text = "Gasta 10.000 zenys en un comerciante expendedor.", count = 10000 } },
+		reward = {},
+		score = 10
+	},
+	[220010] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Activar la economía de mercado (2)",
+		content = {
+			summary = "Gasta 100.000 zenys en un comerciante expendedor.",
+			details = "Ésta es una forma de proceso de hacer girar el dinero. Gasta 100.000 zenys en un comerciante expendedor."
+		},
+		resource = { [1] = { text = "Gasta 100.000 zenys en un comerciante expendedor.", count = 100000 } },
+		reward = {},
+		score = 15
+	},
+	[220011] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Activar la economía de mercado (3)",
+		content = {
+			summary = "Gasta 500.000 zenys en un comerciante expendedor.",
+			details = "Ésta es una forma de proceso de hacer girar el dinero. Gasta 500.000 zenys en un comerciante expendedor."
+		},
+		resource = { [1] = { text = "Gasta 500.000 zenys en un comerciante expendedor.", count = 500000 } },
+		reward = {},
+		score = 20
+	},
+	[220012] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Activar la economía de mercado (4)",
+		content = {
+			summary = "Gasta 1.000.000 de zenys en un comerciante expendedor.",
+			details = "Ésta es una forma de proceso de hacer girar el dinero. Gasta 1.000.000 de zeny en un comerciante expendedor."
+		},
+		resource = { [1] = { text = "Gasta 1.000.000 de zenys en un comerciante expendedor.", count = 1000000 } },
+		reward = {},
+		score = 30
+	},
+	[220013] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Activar la economía de mercado (5)",
+		content = {
+			summary = "Gasta 5.000.000 de zenys en un comerciante expendedor.",
+			details = "Ésta es una forma de proceso de hacer girar el dinero. Gasta 5.000.000 de zeny en un comerciante expendedor."
+		},
+		resource = { [1] = { text = "Gasta 5.000.000 de zenys en un comerciante expendedor.", count = 5000000 } },
+		reward = {},
+		score = 50
+	},
+	[220014] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (1)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 1 a +7.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 1 a +7."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 1 a +7." } },
+		reward = {},
+		score = 10
+	},
+	[220015] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (2)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 1 a +12.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 1 a +12."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 1 a +12." } },
+		reward = {},
+		score = 15
+	},
+	[220016] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (3)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 2 a +7.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 2 a +7."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 2 a +7." } },
+		reward = {},
+		score = 10
+	},
+	[220017] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (4)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 2 a +12.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 2 a +12."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 2 a +12." } },
+		reward = {},
+		score = 15
+	},
+	[220018] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (5)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 3 a +7.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 3 a +7."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 3 a +7." } },
+		reward = {},
+		score = 15
+	},
+	[220019] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (6)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 3 a +12.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 3 a +12."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 3 a +12." } },
+		reward = {},
+		score = 20
+	},
+	[220020] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (7)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 4 a +7.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 4 a +7."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 4 a +7." } },
+		reward = {},
+		score = 20
+	},
+	[220021] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "¡No puedo dejar de refinar! (8)",
+		content = {
+			summary = "Refina con éxito un arma de nivel 4 a +12.",
+			details = "¿Dónde está mi suerte? Refina con éxito un arma de nivel 4 a +12."
+		},
+		resource = { [1] = { text = "Refina con éxito un arma de nivel 4 a +12." } },
+		reward = {},
+		score = 30
+	},
+	[220022] = {
+		UI_Type = 0,
+		group = "ENCHANT_FAIL",
+		major = 1,
+		minor = 1,
+		title = "La codicia del ser humano no tiene fin...",
+		content = {
+			summary = "Experimente el fracaso de refinar",
+			details = "La codicia humana no tiene fin y siempre se repite. Pero extraigamos una lección del error. Experimente el fracaso del refinamiento."
+		},
+		resource = { [1] = { text = "Experimente el fracaso de refinar" } },
+		reward = {},
+		score = 10
+	},
+	[220023] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "¡Lo encontré! (1)",
+		content = {
+			summary = "Obtén un artículo que vale más de 100 zenys.",
+			details = "¡Tengo suerte! Obtén un artículo que vale más de 100 zenys cuando lo vendes a un NPC."
+		},
+		resource = { [1] = { text = "Obtén un artículo que vale más de 100 zenys." } },
+		reward = {},
+		score = 10
+	},
+	[220024] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "¡Lo encontré! (2)",
+		content = {
+			summary = "Obtén un artículo que valga más de 1000 zenys.",
+			details = "¡Tengo suerte! Obtén un artículo que vale más de 1000 zeny cuando lo vendes a un NPC."
+		},
+		resource = { [1] = { text = "Obtén un artículo que valga más de 1000 zenys." } },
+		reward = {},
+		score = 10
+	},
+	[220025] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "¡Lo encontré! (3)",
+		content = {
+			summary = "Obtén un artículo que valga más de 5000 zenys.",
+			details = "¡Tengo suerte! Obtén un artículo que vale más de 5000 zeny cuando lo vendes a un NPC."
+		},
+		resource = { [1] = { text = "Obtén un artículo que valga más de 5000 zenys." } },
+		reward = {},
+		score = 15
+	},
+	[220026] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "¡Lo encontré! (4)",
+		content = {
+			summary = "Obtén un artículo que valga más de 10.000 zenys.",
+			details = "¡Tengo suerte! Obtén un artículo que vale más de 10 000 zeny cuando lo vendes a un NPC."
+		},
+		resource = { [1] = { text = "Obtén un artículo que valga más de 10.000 zenys." } },
+		reward = {},
+		score = 15
+	},
+	[220027] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "¡Lo encontré! (5)",
+		content = {
+			summary = "Obtén un artículo que valga más de 50.000 zenys.",
+			details = "¡Tengo suerte! Obtén un artículo que vale más de 50.000 zenys cuando lo vendes a un NPC."
+		},
+		resource = { [1] = { text = "Obtén un artículo que valga más de 50.000 zenys." } },
+		reward = {},
+		score = 20
+	},
+	[220028] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "¡Lo encontré! (6)",
+		content = {
+			summary = "Obtén un artículo que valga más de 100.000 zenys.",
+			details = "¡Tengo suerte! Obtén un artículo que vale más de 100.000 zenys cuando lo vendes a un NPC."
+		},
+		resource = { [1] = { text = "Obtén un artículo que valga más de 100.000 zenys." } },
+		reward = {},
+		score = 20
+	},
+	[220029] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "¡Lo encontré! (7)",
+		content = {
+			summary = "Obtén un artículo que valga más de 150.000 zenys.",
+			details = "¡Tengo suerte! Obtén un artículo que vale más de 150.000 zenys cuando lo vendes a un NPC."
+		},
+		resource = { [1] = { text = "Obtén un artículo que valga más de 150.000 zenys." } },
+		reward = {},
+		score = 30
+	},
+	[220030] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Rey Rico (1)",
+		content = {
+			summary = "Mantenga más de 10,000 zeny en su bolsillo",
+			details = "¿El dinero no lo es todo? Eso es porque eres pobre. Mantenga más de 10,000 zeny en su bolsillo."
+		},
+		resource = { [1] = { text = "Mantenga más de 10,000 zeny en su bolsillo" } },
+		reward = {},
+		score = 10
+	},
+	[220031] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Rey rico (2)",
+		content = {
+			summary = "Mantenga más de 100.000 zeny en su bolsillo",
+			details = "¿El dinero no lo es todo? Eso es porque eres pobre. Mantenga más de 100.000 zeny en su bolsillo."
+		},
+		resource = { [1] = { text = "Mantenga más de 100.000 zeny en su bolsillo" } },
+		reward = {},
+		score = 15
+	},
+	[220032] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Rey rico (3)",
+		content = {
+			summary = "Mantenga más de 1.000.000 de zeny en su bolsillo",
+			details = "¿El dinero no lo es todo? Eso es porque eres pobre. Mantenga más de 1.000.000 de zeny en su bolsillo."
+		},
+		resource = { [1] = { text = "Mantenga más de 1.000.000 de zeny en su bolsillo" } },
+		reward = {},
+		score = 20
+	},
+	[220033] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Rey rico (4)",
+		content = {
+			summary = "Mantenga más de 10.000.000 zeny en su bolsillo",
+			details = "¿El dinero no lo es todo? Eso es porque eres pobre. Mantenga más de 10.000.000 de zeny en su bolsillo."
+		},
+		resource = { [1] = { text = "Mantenga más de 10.000.000 zeny en su bolsillo" } },
+		reward = {},
+		score = 25
+	},
+	[220034] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Rey rico (5)",
+		content = {
+			summary = "Mantenga más de 100.000.000 zeny en su bolsillo",
+			details = "¿El dinero no lo es todo? Eso es porque eres pobre. Mantenga más de 100.000.000 zeny en su bolsillo."
+		},
+		resource = { [1] = { text = "Mantenga más de 100.000.000 zeny en su bolsillo" } },
+		reward = {},
+		score = 30
+	},
+	[220035] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Rey rico (6)",
+		content = {
+			summary = "Mantenga más de 1.000.000.000 de zeny en su bolsillo",
+			details = "¿El dinero no lo es todo? Eso es porque eres pobre. Mantenga más de 1.000.000.000 de zeny en su bolsillo."
+		},
+		resource = { [1] = { text = "Mantenga más de 1.000.000.000 de zeny en su bolsillo" } },
+		reward = {},
+		score = 40
+	},
+	[230200] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Buscador minucioso",
+		content = {
+			summary = "Completa todas las tareas objetivas.",
+			details = "Poring es una criatura extraña, ni vegetal ni animal. Para aprender más sobre Poring, la mejor manera es experimentar la interacción cara a cara."
+		},
+		resource = {
+			[1] = { text = "Completa el desafío 'Explorando la vida de Poring (1)'", shortcut = 230201 },
+			[2] = { text = "Completa el desafío 'Explorando la vida de Poring (2)'", shortcut = 230202 },
+			[3] = { text = "Completa el desafío 'Explorando la vida de Poring (3)'", shortcut = 230203 }
+		},
+		reward = {},
+		score = 10
+	},
+	[230201] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Explorando la vida de Poring (1)",
+		content = {
+			summary = "Cazando el objeto objetivo",
+			details = "La aparición de poros afectados por su hábitat. Enfrentémonos a un oponente fácil."
+		},
+		resource = {
+			[1] = { text = "Caza 10 estudiando", count = 10 },
+			[2] = { text = "Caza 10 estudiosos novatos", count = 10 },
+			[3] = { text = "Caza 10 gotas", count = 10 },
+			[4] = { text = "Caza 10 popings", count = 10 },
+			[5] = { text = "Caza 10 marinos", count = 10 }
+		},
+		reward = {},
+		score = 10
+	},
+	[230202] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Explorando la vida de Poring (2)",
+		content = {
+			summary = "Cazando el objeto objetivo",
+			details = "También hay uno fuerte en el mundo de Poring. No nos enfrentemos directamente al fuerte."
+		},
+		resource = {
+			[1] = { text = "Caza 1 Masterización", count = 1 },
+			[2] = { text = "Caza 1 anillo diabólico", count = 1 },
+			[3] = { text = "Caza 1 anillo de ángeles", count = 1 },
+			[4] = { text = "Cazar 1 Arco Angelring", count = 1 },
+			[5] = { text = "Caza 1 anillo fantasma", count = 1 }
+		},
+		reward = {},
+		score = 20
+	},
+	[230203] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Explorando la vida de Poring (3)",
+		content = {
+			summary = "Cazando el objeto objetivo",
+			details = "En la familia Poring, hay poros que tienen una apariencia brillante. Se requiere una investigación adicional."
+		},
+		resource = {
+			[1] = { text = "Caza 5 anillos de metal", count = 5 },
+			[2] = { text = "Caza 5 anillos de metales pesados", count = 5 },
+			[3] = { text = "Caza 5 Magmaring", count = 5 } },
+		reward = {},
+		score = 20
+	},
+	[240000] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 6,
+		minor = 0,
+		title = "Completa el primer desafío de introducción.",
+		content = {
+			summary = "Completa el primer desafío de introducción.",
+			details = "Completa el primer desafío de introducción."
+		},
+		resource = { [1] = { text = "Completa el primer desafío de introducción." } },
+		reward = {},
+		score = 10
+	},
+	[240001] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 1",
+		content = {
+			summary = "Alcanza el nivel básico 1",
+			details = "Alcanza el nivel básico 1."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 1" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240002] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 2",
+		content = {
+			summary = "Alcanza el nivel básico 2",
+			details = "Alcanza el nivel básico 2."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 2" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240003] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 3",
+		content = {
+			summary = "Alcanza el nivel básico 3",
+			details = "Alcanza el nivel básico 3."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 3" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240004] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 4",
+		content = {
+			summary = "Alcanza el nivel básico 4",
+			details = "Alcanza el nivel básico 4."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 4" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240005] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 5",
+		content = {
+			summary = "Alcanza el nivel básico 5",
+			details = "Alcanza el nivel básico 5."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 5" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240006] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 6",
+		content = {
+			summary = "Alcanza el nivel básico 6",
+			details = "Alcanza el nivel básico 6."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 6" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240007] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 7",
+		content = {
+			summary = "Alcanza el nivel básico 7",
+			details = "Alcanza el nivel básico 7."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 7" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240008] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 8",
+		content = {
+			summary = "Alcanza el nivel básico 8",
+			details = "Alcanza el nivel básico 8."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 8" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240009] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 9",
+		content = {
+			summary = "Alcanza el nivel básico 9",
+			details = "Alcanza el nivel básico 9."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 9" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240010] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 10",
+		content = {
+			summary = "Alcanza el nivel básico 10",
+			details = "Alcanza el logro del nivel base 10. Serás recompensado con un título."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 10" } },
+		reward = { title = 1023, buff = 12, item = 644 },
+		score = 10
+	},
+	[240011] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 11",
+		content = {
+			summary = "Alcanza el nivel básico 11",
+			details = "Alcanza el nivel básico 11."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 11" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240012] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 12",
+		content = {
+			summary = "Alcanza el nivel básico 12",
+			details = "Alcanza el nivel básico 12."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 12" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240013] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 13",
+		content = {
+			summary = "Alcanza el nivel básico 13",
+			details = "Alcanza el nivel básico 13."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 13" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240014] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 14",
+		content = {
+			summary = "Alcanza el nivel básico 14",
+			details = "Alcanza el nivel básico 14."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 14" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240015] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 15",
+		content = {
+			summary = "Alcanza el nivel básico 15",
+			details = "Alcanza el nivel básico 15."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 15" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240016] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 16",
+		content = {
+			summary = "Alcanza el nivel básico 16",
+			details = "Alcanza el nivel básico 16."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 16" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240017] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 17",
+		content = {
+			summary = "Alcanza el nivel básico 17",
+			details = "Alcanza el nivel básico 17."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 17" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240018] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 18",
+		content = {
+			summary = "Alcanza el nivel básico 18",
+			details = "Alcanza el nivel básico 18."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 18" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240019] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 19",
+		content = {
+			summary = "Alcanza el nivel básico 19",
+			details = "Alcanza el nivel básico 19."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 19" } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240020] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Alcanza el nivel básico 20",
+		content = {
+			summary = "Alcanza el nivel básico 20",
+			details = "Alcanza el nivel base 20. Serás recompensado con un título."
+		},
+		resource = { [1] = { text = "Alcanza el nivel básico 20" } },
+		reward = { title = 1024, buff = 12, item = 644 },
+		score = 10
+	},
+	[220036] = {
+		UI_Type = 0,
+		group = "EAT",
+		major = 1,
+		minor = 2,
+		title = "El comienzo del exterior.",
+		content = {
+			summary = "Obtenga el kit de cocina al aire libre",
+			details = "Obtenga el kit de cocina al aire libre"
+		},
+		resource = { [1] = { text = "Obtenga el kit de cocina al aire libre" } },
+		reward = {},
+		score = 20
+	},
+	[220037] = {
+		UI_Type = 0,
+		group = "EAT",
+		major = 1,
+		minor = 2,
+		title = "El primer paso para convertirte en chef",
+		content = {
+			summary = "Obtén el nivel 1 de cocina",
+			details = "Obtén el nivel 1 de cocina"
+		},
+		resource = { [1] = { text = "Obtén el nivel 1 de cocina" } },
+		reward = {},
+		score = 20
+	}
+}
+
+function main()
+	for achieveID, achieveInfo in pairs(achievement_tbl) do
+		result, msg = InsertAchieveInfo(achieveID, achieveInfo.title, achieveInfo.content.summary, achieveInfo.content.details, achieveInfo.score)
+		if not result then
+			return false, msg
+		end
+		if nil ~= achieveInfo.resource then
+			for index, resource in ipairs(achieveInfo.resource) do
+				if nil ~= resource.shortcut then
+					shortcut = resource.shortcut
+				else
+					shortcut = -1
+				end
+				if 0 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, 0, shortcut)
+				elseif 1 == achieveInfo.UI_Type then
+					result, msg = InsertAchieveResource(achieveID, resource.text, resource.count, shortcut)
+				end
+				if not result then
+					return false, msg
+				end
+			end
+		end
+		if nil ~= achieveInfo.reward then
+			if nil ~= achieveInfo.reward.item then
+				result, msg = InsertAchieveRewardItem(achieveID, achieveInfo.reward.item)
+			end
+			if nil ~= achieveInfo.reward.title then
+				result, msg = InsertAchieveRewardTitle(achieveID, achieveInfo.reward.title)
+				if not result then
+					return false, msg
+				end
+			end
+			if nil ~= achieveInfo.reward.buff then
+				result, msg = InsertAchieveRewardBuff(achieveID, achieveInfo.reward.buff)
+				if not result then
+					return false, msg
+				end
+			end
+		end
+		result, msg = InsertAchieveUIType(achieveID, achieveInfo.UI_Type, achieveInfo.group)
+		if not result then
+			return false, msg
+		end
+		result, msg = SetAchieveIDByTab(achieveID, achieveInfo.major, achieveInfo.minor)
+		if not result then
+			return false, msg
+		end
+	end
+	return true, "good"
+end

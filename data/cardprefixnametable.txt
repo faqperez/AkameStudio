@@ -1,0 +1,1619 @@
+4001#Afortunado#
+4002#Vital#
+4003#Duro#
+4004#Diestro#
+4005#Santificado#
+4006#Afortunado#
+4007#Vigía#
+4008#Extra#
+4009#Ligero#
+4010#Sabio#
+4011#Dinámico#
+4012#Rígido#
+4013#Excelente#
+4014#del Campeón#
+4015#Rápido#
+4016#Veloz#
+4017#Aturdidor#
+4018#Astuto#
+4019#Mártir#
+4020#Destellante#
+4021#Hábil#
+4022#de Espora#
+4023#del Desierto#
+4024#Somnoliento#
+4025#Afilado#
+4026#Sagaz#
+4027#Atlético#
+4028#Doble Fuerza#
+4029#Glotón#
+4030#Ventoso#
+4031#de Marte#
+4032#de Atenea#
+4033#Desintoxicante#
+4034#Ingenioso#
+4035#Sangriento#
+4036#Robusto#
+4037#Intocable#
+4038#Saludable#
+4039#de Aristóteles#
+4040#de Teletransporte#
+4041#del Arenero#
+4042#de Hércules#
+4043#Huracanado#
+4044#Oculto#
+4045#Pesado#
+4046#del Clérigo#
+4047#Fantasmal#
+4048#Venenoso#
+4049#Inflamable#
+4050#de Hermes#
+4051#de Flash#
+4052#Erudite#
+4053#Healing#
+4054#Holy#
+4055#Ice#
+4056#de la Calidez#
+4057#Silence#
+4058#Craneal#
+4059#de Cadi#
+4060#Clamorous#
+4061#Inmortal#
+4062#Envenom#
+4063#Insecticide#
+4064#Nimble#
+4065#Underneath#
+4066#Brutal#
+4067#Atomic#
+4068#Chemical#
+4069#Saharic#
+4070#de la Bruja#
+4071#Angelic#
+4072#Solid#
+4073#Discount#
+4074#de Gargantua#
+4075#Hypnotic#
+4076#Cursing#
+4077#Under a Cast#
+4078#de Recuperación#
+4079#de Muscle#
+4080#Fisher#
+4081#Glorious#
+4082#Gigantesco#
+4083#de Homer#
+4084#Blast#
+4085#Damned#
+4086#Critical#
+4087#Order#
+4088#Guard#
+4089#Aqua#
+4090#Amulet#
+4091#de Contraataque#
+4092#Óseo#
+4093#Cure#
+4094#Kingbird#
+4095#de Genie#
+4096#Venomous#
+4097#Green#
+4098#de Zephyrus#
+4099#de Ifrit#
+4100#Encantado#
+4101#de Gnome#
+4102#Mocking#
+4103#Clairvoyant#
+4104#Chaos#
+4105#Unfrozen#
+4106#Antiguo#
+4107#Fledged#
+4108#Innoxious#
+4109#Flameguard#
+4110#de Viper#
+4111#Decussate#
+4112#Incomparable#
+4113#del Fantasma#
+4114#Poisoning#
+4115#Malicious#
+4116#Divino#
+4117#Hybrid#
+4118#Dragoon#
+4119#Maligno#
+4120#de Dragoon#
+4121#Perfect#
+4122#Adurate#
+4123#de Bearer#
+4124#Pétreo#
+4125#Aqua#
+4126#Titan#
+4127#Insomne#
+4128#de Deaf#
+4129#del Pícaro#
+4130#Divino#
+4131#Hasty#
+4132#de Gemstone#
+4133#Immune#
+4134#Spiritual#
+4135#Mirror#
+4136#from Hell#
+4137#del Infinito#
+4138#Satanic#
+4139#de Moonlight#
+4140#Liberation#
+4141#Mortal#
+4142#del Frenesí#
+4143#Neutral#
+4144#de la Eternidad#
+4145#del Parlanchín#
+4146#Reflect#
+4147#Scythelike#
+4148#de Kirin#
+4149#de Clear Sky#
+4150#de Resist Spell Power#
+4151#de Nature Destroyer#
+4152#Juicy#
+4153#Cancer#
+4154#de Candy Smell#
+4155#Fatal Goblin#
+4156#Fatal Frame#
+4157#Hard Hit#
+4158#de Slaughter#
+4159#High Level#
+4160#High Level#
+4161#Anti-Magic#
+4162#de Blind#
+4163#Wild#
+4164#de Fisherman#
+4165#Insect Soul Gain#
+4166#de Jinx#
+4167#Beast Soul Gain#
+4168#de Doom#
+4169#de Spell Master#
+4170#de Hardening#
+4171#Soul Drain#
+4172#Slash#
+4173#de Hypnotism#
+4174#Deviant#
+4175#Pushing#
+4176#Fatal Serpent#
+4177#de Green Stone#
+4178#de Bow Master#
+4179#de Highlight#
+4180#Dragonic Soul Gain#
+4181#del Silencio#
+4182#Demonic Soul Gain#
+4183#Werewolf#
+4184#Break#
+4185#de la Sabiduría#
+4186#Strenuous#
+4187#de Gloomy Night#
+4188#de Red Stone#
+4189#de Misfortune#
+4190#de Laugh Maker#
+4191#de Life Stream#
+4192#Fatal Pisces#
+4193#de Patience#
+4194#de Stun#
+4195#de Blue Stone#
+4196#de Jellopy#
+4197#High Luck#
+4198#de Visión Verdadera#
+4199#de Dash#
+4200#de Resist Spell Power#
+4201#Binding Stun#
+4202#Exorcism#
+4203#Burning#
+4204#de Poacher#
+4205#de Blue Cubic#
+4206#Cubic#
+4207#Anti-Small#
+4208#de Full-energy#
+4209#de Crack#
+4210#Pressure#
+4211#Expert#
+4212#Knock-Back#
+4213#del Silencio#
+4214#Man Eater#
+4215#de Food#
+4216#de Freeze#
+4217#Auto Healing#
+4218#Nightmare#
+4219#de Magic Stone#
+4220#Faithful#
+4221#de Insect Collector#
+4222#de Sleep#
+4223#Resist Stun#
+4224#de Rainy Day#
+4225#Shooting#
+4226#High Level#
+4227#de Meat Smell#
+4228#de Siesta#
+4229#Faster#
+4230#de Coward#
+4231#Charging#
+4232#Refresh#
+4233#Petit Luck#
+4234#de Stainless Mirror#
+4235#de Fallen Angel#
+4236#de Protección#
+4237#de God's Wrath#
+4238#de Double Power#
+4239#de Veteran Hunter#
+4240#de Resist Spell Power#
+4241#Two Lucky Seven#
+4242#High Level#
+4243#de Escape#
+4244#de Seeker#
+4245#de Assassin#
+4246#Kill#
+4247#Starfish#
+4248#Shining Cross#
+4249#de Exorcist#
+4250#Anti-Large#
+4251#Invade#
+4252#de Four Leaf Clover#
+4253#de Royal Guard#
+4254#Anti-Medium#
+4255#Smash#
+4256#Desired#
+4257#Wing#
+4258#Prodigy#
+4259#de la Naturaleza#
+4260#Confusion Guard#
+4261#Bleeding Guard#
+4262#de Cloudy Day#
+4263#Bloodlust#
+4264#Thunderbolt#
+4265#de Dawn#
+4266#Resist Magic#
+4267#de Dragon Slayer#
+4268#Extending#
+4269#de Nightmare#
+4270#de Venom#
+4271#de Yellow Stone#
+4272#Swift#
+4273#Shell#
+4274#Undead Soul Gain#
+4275#de Undead Slayer#
+4276#Crisis#
+4277#de Shooting Master#
+4278#de Resist Spell Power#
+4279#de Soul Collector#
+4280#de Great Blessing#
+4281#Hard Working#
+4282#de Potion#
+4283#Mana Sphere#
+4284#Gentle Touch#
+4285#Casted by Elf#
+4286#de Panic#
+4287#de Resist Spell Power#
+4288#High Level#
+4289#Plant Soul Gain#
+4290#Reflect#
+4291#Fatal Kobold#
+4292#Fatal Plant#
+4293#Chance#
+4294#Sneaky#
+4295#de Blackout#
+4296#Greed#
+4297#Poaching#
+4298#del Caos#
+4299#Guardian#
+4300#de Poison Charge#
+4301#de Bleeding#
+4302#de High Risk#
+4303#Místico#
+4304#de Shield Master#
+4305#Explosive#
+4306#de King#
+4307#Seaforce Soul Gain#
+4308#Force Drain#
+4309#Hard Covering#
+4310#Fatal Evil#
+4311#Anti Evil Power#
+4312#Spirit#
+4313#de Bog#
+4314#Frame Guard#
+4315#de Stone Curse#
+4316#Angelic Soul Gain#
+4317#Aural#
+4318#Storm-Bringer#
+4319#de Sword Master#
+4320#Meteoric#
+4321#de Polymorph#
+4322#de Retaliation#
+4323#Frost#
+4324#Arctic#
+4325#Vicious#
+4326#de Fish Smell#
+4327#Spell Flow#
+4328#Hyper#
+4329#Soul Gain#
+4330#Curse Lift#
+4331#de Evade#
+4332#de Talent#
+4333#de Chaotic Venom#
+4334#Anti-Sniping#
+4335#Gnome#
+4336#de la Vitalidad#
+4337#de Wild Cat#
+4338#de Vital Switching#
+4339#de Stone Wall#
+4340#de Requiem#
+4341#Disarm#
+4342#Mammoth#
+4343#de Creator#
+4344#de Value#
+4345#Sylph#
+4346#de Power Switching#
+4347#Stamina#
+4348#Gangster#
+4349#Anti Arrow#
+4350#Undine#
+4351#Low Level#
+4352#de Regeneration#
+4353#de Rejuvenation#
+4354#de Stability#
+4355#Saludable#
+4356#Magic Cancel#
+4357#de la Furia#
+4358#Lost-Power#
+4359#de las Sombras#
+4360#Assassin#
+4361#de Holgren#
+4362#Hit#
+4363#Protection#
+4364#de Magic Sealing#
+4365#de Tempest#
+4366#de Caster#
+4367#de Squeezing#
+4368#Rapid#
+4369#de Luck Switching#
+4370#Weaken#
+4371#de Paladin#
+4372#Life Stream#
+4373#Maldito#
+4374#de Vision#
+4375#Extra High Level#
+4376#Mana Pool#
+4377#de Sweety#
+4378#Low Level#
+4379#Low Level#
+4380#Salamander#
+4381#de Wanderer#
+4382#de Scholar#
+4383#Chaotic#
+4384#Magic Eater#
+4385#Drink#
+4386#de Magic Shelter#
+4387#de Agility Switching#
+4388#Soul#
+4389#Elemental#
+4390#Bleeding#
+4391#Snack#
+4392#de Dexterity Switching#
+4393#de Intelligence Switching#
+4394#Divine Cross#
+4395#Slug#
+4396#Dull#
+4397#Thickheaded#
+4398#Darkness#
+4399#Penetration#
+4400#de Temptation#
+4401#Swift#
+4402#Strange#
+4403#de Reload#
+4404#de Chaotic Bleeding#
+4405#de Magic Mirror#
+4406#Twinkle#
+4407#de Elimination#
+
+4408#Abyss#
+4409#Panic#
+4410#Madness#
+4411#de Arta#
+4412#Aria#
+4413#Resistance#
+4414#de Gorgon#
+4415#Sweet#
+4416#de Yana#
+4417#de Flow#
+4418#de Hail#
+4419#de Jack Frost#
+4420#de Comfort#
+4421#Chain Hook#
+4422#Breeze#
+4423#de Sharkia#
+4424#Stony#
+4425#Beast#
+4426#Exceeding#
+4427#Force#
+4428#Shaft#
+4429#Nessus#
+4430#de Inferno#
+4431#Stygian#
+4432#Scorching#
+4433#de Ignis#
+4434#de Miner#
+4435#Outrageous#
+4436#Lunatic#
+4437#Rabid#
+4438#Mental#
+4439#de Anathema#
+4440#Ignore#
+4441#Arrogant#
+
+4442#de Basis#
+4443#de Saharic#
+4444#de Underneath#
+4445#de Windy#
+4447#de Envenom#
+4448#de Damned#
+4449#de Hallowed#
+4450#Surplus#
+4451#de Excess#
+4452#Mágico#
+4453#Violent#
+
+4454#Sorry#
+4455#Love#
+4478#Tell me#
+4479#Why did you#
+
+4456#Spell Master#
+4457#Psychic#
+4458#de Illusion#
+4459#de Fast#
+4460#de Curación#
+4461#de Sharp#
+4462#Prime Defense#
+4463#Prime Attack#
+4464#Fatal#
+4465#Sweep#
+4466#Straight Shooting#
+4467#Pesado#
+4468#Pollution#
+4469#Marine#
+4470#Botany#
+4471#Draco#
+4472#Carnivore#
+4473#Undead#
+4474#Mortal#
+4475#Intangible#
+4476#Entomic#
+4477#Demonic#
+
+//--- 2011 / 11 / 18 Ä«µå 30Á¾ Ãß°¡
+4505#de Mad Witch#
+4506#de Archer#
+4507#Scaraba#
+4508#de Mad Berserker#
+4509#Insectproof#
+4510#Black-out#
+4511#Silentium#
+4512#de Acolyte#
+4513#del Ladrón#
+4514#Exorcism#
+4515#Flora#
+4516#de Stone Wall#
+4517#de Magician#
+4518#Burning#
+4519#Seraphim#
+4520#Screaming#
+4521#Mortal Blow#
+4522#Cold#
+4523#Aquarius#
+4524#de Swordman#
+4525#Sweeping#
+4526#de Magic Defense#
+4527#de Defensa#
+4528#Mental Power#
+4529#Strength#
+4530#de Merchant#
+4531#Under Curse#
+4532#Sprinting#
+4533#Blinding#
+4534#Water Bomb#
+
+4545#Novice#
+
+4546#Screwed#
+
+//--- 2012³â10¿ù_¿µ¿õÀÇÈçÀû
+4556#Power Ward#
+4557#de Spell Power#
+
+//--- 2013 / 02 / 15 ºÀÀÎµÈ´ÙÅ©·Îµå Ãß°¡
+4488#de Half Doom#
+
+// 2013³â 2¿ù_¸¶½ÅÀü¸Þ¸ð¸®¾ó
+4559#Blitz#
+
+// 2013³â_4¿ù_È®·üÇüÄ³½¬
+4497#Half Storm-Bringer#
+
+//--- 2013 / 05 / 22 ºÀÀÎµÈº£¸£Á¦ºêºê Ãß°¡
+4486#de Half Bigmouth#
+
+//--- 2013³â6¿ù_½Å±ÔÄ«µå
+4560#de Bragi#
+4561#de Magic Protection#
+4562#de Infiltration#
+4563#de Hydrochloric Acid#
+4564#de Gentleman#
+4565#de Grand Cross#
+4566#de Fortune#
+4567#de Bard#
+4568#de Gnosis#
+4569#de Origin#
+4570#de Fast Recovery#
+4571#de Bind#
+4572#de Solidity#
+4573#de Dancer#
+4574#Sword Master#
+4575#Shortcut#
+4576#Educe#
+4577#Psychic#
+4578#Fear#
+4579#Morning Star#
+4580#de Devilish#
+4581#Toilet#
+4582#Stamina#
+4583#de Poison Grass#
+4584#Vampiric#
+4585#Maldito#
+4586#del Viento#
+4587#Slasher#
+4588#del Poder#
+4589#de Richness#
+4590#de Helpless#
+4591#de Bloody#
+4592#de Stone Curse#
+4593#de Shooter#
+4594#de Death Blow#
+4595#de Acid#
+4596#de Intellectual#
+4597#del Agua#
+4598#de Telekinesis#
+4599#del Fuego#
+4600#de la Tierra#
+4601#de Explosion#
+4602#de la Furia#
+4603#Evil Spirit#
+4604#Evil God#
+4605#de Hunger#
+4606#de Revenge#
+4607#Librarian#
+
+//--- 2013³â6¿ù_ºÀÀÎµÈÅ°¿¤-D-01
+4480#de Half Reload#
+
+//--- 2013³â7¿ù_ºÀÀÎµÈ±Û·ë¾ð´õ³ªÀÌÆ®
+4485#Half Abyss#
+
+4610#de Bless#
+
+//--- 2013³â9¿ù_ºÀÀÎµÈÅ¸¶ôÇÑ´ë½Å°ü
+4539#Half Arrogant#
+
+//--- 2013³â10¿ù_ºÀÀÎµÈÀÌÇÁ¸®Æ®
+4487#Half Inferno#
+
+4608#de Knight#
+4609#de Knight#
+
+//--- 2013³â12¿ù_ºÀÀÎµÈÅÍÆ²Á¦³×·²
+4494#Half Explosive#
+
+//--- 2014³â1¿ù_ºÀÀÎµÈ¹é¼ÒÁø
+4538#Half Life Stream#
+
+//--- 2014³â2¿ù_ºÀÀÎµÈÆÄ¶ó¿À
+4489#de Half Kirin#
+
+//--- 2014³â3¿ù_ºÀÀÎµÈ¿ù¾ßÈ­
+4490#Half Hasty#
+
+//--- 2014³â4¿ù_ºÀÀÎµÈº¸½ºÀÌ±×´ÏÁª
+4482#de Half Regeneration#
+
+//--- 2014³â5¿ù_ºÀÀÎµÈº£½ºÆÛ
+4503#de Half Vision#
+
+//--- 2014³â6¿ù_ºÀÀÎµÈµå¶óÅ¥¶ó
+4483#Half Spiritual#
+
+//--- 2014³â7¿ù_ºÀÀÎµÈ½º³ªÀÌÆÛ
+4491#de Half Squeezing#
+
+//--- 2014³â8¿ù_½Ã°èÅ¾³ªÀÌÆ®¸Þ¾î´øÀü
+4625#Sage#
+4626#Echo#
+4627#Vibration#
+4628#de Invisible Horror#
+4629#Sterile#
+4630#de Time Keeper#
+4631#Volant#
+4632#Current#
+
+// 2015³â 1¿ù 16ÀÏ ¿¡ÇÇ¼Òµå 16.1
+4446#Sharpen#
+4633#Queen Bird#
+4634#Fatal#
+4635#Solid#
+4636#de Legion#
+4637#de Drain#
+4638#Plaid#
+4639#de Force#
+4640#de la Inteligencia#
+4641#de Soul Gathering#
+
+// 2015 06 ¹«ÇÑÀÇ´øÀü
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Inmortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stun#
+4651#Monarch#
+
+// 2015 08  ÇÇ¶ó³ª¸Þ
+4652#Punishment#
+4653#Immortal Beast#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotist#
+4657#Flaming#
+4658#de Magic#
+
+
+//2015 ½ÅÁ¾Á·
+4659#Adventurer#
+4660#de Will#
+4661#de la Fuerza#
+4662#Trinity#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Gust#
+4670#Blaze#
+
+// 2015³â È£·¯ Àå³­°¨ ´øÀü Ä«µå
+31016#de Sorrow#
+31017#de Hatred#
+31018#Frustration#
+31019#de Chill#
+31020#de Wrath#
+31021#Madness#
+31022#de Despair#
+31023#Maniac#
+
+// 2015³â 12¿ù Àü»çÀÚÀÇ ¹«´ý Ä«µå Ãß°¡
+4671#de Sorcerer#
+4672#de Sura#
+4673#de Minstrel#
+4674#de Guillotine Cross#
+4675#de Archbishop#
+4676#de Ranger#
+4677#de Mechanic#
+4678#de Warlock#
+4679#de Rune Knight#
+4680#de Royal Guard#
+4681#de Geneticist#
+4682#de Shadow Chaser#
+4683#de Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Rampage Blaster#
+4694#Decoy#
+4695#Rainstorm#
+4696#Sound Shock#
+
+31024#Volcanic Ball#
+31025#Mortal#
+31026#Auto Magic#
+
+// EP 15 Ä«µå
+27012#Active Protection#
+27013#Vulcan#
+27014#Mirage#
+27015#Restore#
+27016#All Scan#
+27017#Temporary#
+27018#Overclock#
+27019#Debug#
+27020#System Error#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+
+// 2016±Ý¿äÀÏ´øÀü
+27025#Noble#
+
+// ¿¡ÇÇ¼Òµå14.3 ÇÊµå¸ó½ºÅÍ Ä«µå
+27026#Blazing#
+27027#Flaming#
+27028#Searing#
+27029#Flame Eater#
+27030#Firebug#
+
+// 2016³â 12¿ù ÀÏ·çÀü ¿Àºê ¹®¶óÀÌÆ®
+27080#Vibration#
+27081#Moonlight#
+27082#Foxtail#
+27083#de Growth#
+27084#Creepy#
+27085#Delicate#
+27086#Shooter#
+27087#Truth#
+27088#de Agitation#
+
+// 2017³â 1¿ù ÀÏ·çÀü ¿Àºê ¹ìÆÄÀÌ¾î
+27101#Sorcery#
+27102#Fire Immune#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+
+// 2017³â 2¿ù ÀÏ·çÀü ¿Àºê ÇÁ·ÎÁð
+27110#Rápido#
+27111#Refreshing#
+27112#Sturdy#
+27113#Frozen#
+
+// 2017³â 4¿ù ºê¶óÁú¸®½º Ä«µå
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal wave#
+27123#de Insect Collector#
+27124#de Hunter#
+27125#Aqua Benedict#
+27126#Python#
+
+//2017³â 4¿ù ÀÏ·çÀü ¿Àºê ÅÍÆ²¾ÆÀÏ·£µå
+27114#Solid#
+27115#Sabio#
+27116#Dual Critical#
+27117#Reduce#
+27118#de Pierce#
+27119#de Turtle Shell#
+
+//Episode 16.2 ½Å±Ô Ä«µå Ãß°¡
+27147#Intensive#
+27148#Deft#
+27149#Sniper#
+27150#de High Level#
+27151#de Freezing#
+27152#Prompt#
+
+//2017³â 7¿ù ¾Ç¸ùÀÇ ÁöÅÍ¹÷
+27106#de Musician#
+27107#Dancing#
+27108#Singing#
+27109#de Jitterbug#
+
+//2017 9¿ù ¸ð½ºÄÚºñ¾Æ Ä«µå
+27157#de Aqua Wood#
+27158#de Windiness#
+27159#de Demon Hunter#
+27160#Dodge#
+27161#Land Blast#
+27162#Soul Steal#
+
+//2017³â 9¿ù ¿µ¿õÀÇÈçÀûp1Ä«µå
+27163#de Abranchia#
+27164#Koya#
+27165#de Albion#
+27166#Prio#
+27167#Glacial#
+27168#de Padre#
+27169#Infantry#
+
+//11¿ù »ç³É´ëÈ¸
+27196#Heine#
+27197#Lugenburg#
+27198#Wigner#
+27199#Nerius#
+27200#Nihil#
+27201#Agnes#
+27202#Jurgen#
+27203#Spica#
+27330#de Kronecker#
+27331#de Granz Heine#
+27332#de Skia#
+27333#de Shiny Nerius#
+300127#de Wolf#
+300128#de Wolf Lugenburg#
+300129#de Poe#
+300130#de Richard#
+
+//2018³â 1¿ù ¿µ¿õÀÇÈçÀûp2,3Ä«µå
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+
+//½Å±ÔÄ«µå28Á¾
+27170#de Dust#
+27171#de Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#de Dirty#
+27177#de Marsh#
+27178#de Zero Guard#
+27249#Airi#
+27179#de Wild Fang#
+27250#Anemos#
+27180#Power Brake#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Haase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odoric#
+27261#Ju#
+27262#Dwigh#
+27263#Kanavian#
+27264#de Evil Shadow#
+27265#Evil Fanatic#
+
+//ÀÏ·çÀü ¿Àºê Å×µðº£¾î
+27286#Romping#
+27287#de Liniment#
+27288#de Worker#
+27289#Proper#
+27290#de Obsidian#
+
+//´ë¸¸ ºÀÀÎµÈ º¸½ºÄ«µå
+27209#Half Scaraba#
+27210#Half Penetration#
+27211#Half Scythelike#
+27212#Half Reflect#
+27213#de Half Bragi#
+27214#de Half Magic Protection#
+27215#de Half Infiltration#
+27216#de Half Hydrochloric Acid#
+27217#de Half Gentleman#
+27218#de Half Grand Cross#
+27219#de Half Fortune#
+27220#Half Sword Master#
+27221#Half Educe#
+27222#Half Fear#
+27223#de Adventurer#
+27224#de Half Devilish#
+27225#Half Sage#
+
+4492#Half Neutral#
+4498#Half Mana Pool#
+4484#de Half Gemstone#
+4499#Half Bloodlust#
+4500#Half Mirror#
+4501#Half Protection#
+4502#Half Holgren#
+4504#de Half Bearer#
+4481#Half Jack Frost#
+
+//ÀÏ·çÀü ¿Àºê ·ç¾È´Ù
+27291#Full Charging#
+27292#de Stalagtic#
+27293#Circular#
+27294#de Big Stone#
+27295#de Stone Shooter#
+27296#de Wootan Shooter#
+27297#Wootan Fist#
+27298#de Big Shield#
+
+//2018 ¿¡ÇÇ 17.1 Ä«µå
+27304#Saludable#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sagrado#
+27309#de Holy Power#
+27310#de Immortal#
+27311#Heavy Knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#de Tiger Power#
+27319#Poison Break#
+27320#Enhanced Fire#
+
+//¿¡ÇÇ¼Òµå14.3 ¸ð·ÎÅ©Ä«µå
+27321#de Demon#
+27322#de Dominator#
+27323#de Coordinator#
+27324#Brinarnea#
+27325#Muspelheim#
+27326#Destructive#
+27327#Reaper Ankou#
+27328#de Corrupted Life#
+
+//¿¡´Ù ±Û·¡½ºÆ®
+27329#de Schmidt#
+
+//ÀÏ·çÀü¿Àºê¶óºñ¸°½º Ä«µå
+27338#de Double Power#
+27339#Fantasmal#
+27340#de Angry Killer#
+27334#de Chaotic#
+27341#de Water Shell#
+27335#de Black Guard#
+27342#Metal Ground#
+27336#de Viper#
+27343#Holy Spell#
+27337#Hunting Breeze#
+
+//¾îºñ½º ¹× ³ë±× 3Ãþ
+27346#de Howling#
+27347#Crack#
+27348#No wear#
+27349#de Flame Barrier#
+27350#de Dragon Spirit#
+27351#de Dragon Heart#
+27352#Slumber#
+27353#de Demonic Barrier#
+27354#de Deprave#
+27355#Depraved#
+27356#de Frozen Guard#
+27357#de Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#de Queen Spider#
+27363#Doom#
+//°í¼º µµÀü¸ðµå
+27381#de Fallen Angel#
+27382#de Creep#
+27383#de Relax#
+27384#Magical Knightage#
+27385#Magical Knightage#
+27386#de Exorcist#
+27387#de Undead Slayer#
+27388#Strong Recovery#
+// 200 Level Expansion Cards
+300001#High Invenom#
+300002#Body Armor#
+300003#de Wild Dogs#
+300004#de Iron Walls#
+300005#de High Walkers#
+300006#de Psychic#
+300007#Solid Brake#
+300008#Holly Twinkle#
+300009#Ghost Magical#
+300010#Wind Magical#
+300011#St Magical#
+300012#ObScreed#
+300013#Regin Lake#
+300014#Ingrid#
+300015#Remedy Low Level#
+300016#de Treasure#
+300017#High Halloween#
+300018#High Dam#
+300019#Dragon Slayer#
+300020#de the Poacher#
+300021#Dragon Killer#
+
+// Episode 17.2
+300076#de Royal Guard#
+300077#de Mechanic#
+300078#Mad Dance#
+300079#Middle Dry#
+300080#Dry#
+300081#de Magician#
+300082#Piercing#
+300083#de Ninja#
+300084#de Holy#
+300085#de Taekwon#
+300086#Heavy Attack#
+300087#de Shadow Cat#
+300088#Crossflower#
+300089#de Assault#
+300090#de Land Power#
+300091#de Gunman#
+300092#de Merchant#
+300093#de Acolite#
+300094#Mad Lethal#
+300095#de Keen#
+300096#Harmony#
+300097#del Ladrón#
+300098#Ninja#
+300099#de Minor Guard#
+300100#de Major Guard#
+300101#de Rune Knight#
+300102#de Genetic#
+300103#Mermaid#
+300104#de Sorcerer#
+300105#de Warlock#
+300106#Fire Magical#
+300107#Fruit#
+300108#de Shadow Chaser#
+300109#de Guillotine Cross#
+300110#de Kagerou#
+300111#de Oboro#
+300112#de Soul Reaper#
+300113#de Talent#
+300114#Immortal Magical#
+300115#de Arcbishop#
+300116#de Sura#
+300117#de Ranger#
+300118#de Star Master#
+300119#de Rebellion#
+300120#de Shoal#
+300121#de Purified Water#
+300122#Saint#
+300123#Formless'#
+300124#Water Magical#
+300125#de Summoner#
+
+//Illusion of Under Water
+300140#Enhanced Thunder#
+300141#Mermaid#
+300142#Submarine#
+300143#de Anti-Insect#
+300144#Stabbing#
+300145#de Abyss Witch#
+300146#Fatal Fish#
+300147#Seabed#
+300148#Deep-Sea#
+300149#de Fish Killer#
+300150#de Sword Expert#
+300151#Sea Nightmare#
+
+// Geffen Night Arena
+300177#Arhi#
+300178#Anemos#
+300180#Gangster#
+300181#Bully#
+300179#Shoplifter#
+300182#Faymont#
+300183#Ordre#
+300184#Hase#
+300185#Akuma#
+300186#Ifodes#
+300188#Lycheniyes#
+300187#Odoric#
+300189#Ju#
+300191#Dwigh#
+300190#Kanavian#
+
+//2020 Royal Hunting Competition
+27393#de Kathryn#
+27394#de Vituos Wigner#
+27395#de Isaac#
+27396#de Bright Wigner#
+
+//Unfair Crash New Card
+300170#Rotten#
+300171#Digger#
+300172#Melting#
+300173#Annoying#
+300174#Denied#
+300175#Unknown#
+300176#de Undefine#
+
+//New Cards of Regret
+300192#Pisar#
+300193#Bobeta#
+
+//Episode 18
+300211#Magic Ground#
+300212#Anti Darkness#
+300213#Devil Catch#
+300214#Power Quarter#
+300215#Geothermal#
+300216#High Blast#
+300217#de Burning Fang#
+300218#High Immortal#
+300219#Dark Magical#
+300220#Wolf Scratch#
+300221#Intangible Exorcist#
+300222#High Wind#
+300223#Wolf Tackle#
+300227#Angel Killer#
+300228#Devil Killer#
+
+//41 New Cards
+300240#Fatal Heavy#
+300241#Fatal Boned#
+300242#Sagaz#
+300243#Strong Patient#
+300244#de Spiral#
+300245#de Fast Heal#
+300246#de Gigantic Magic Immune#
+300247#de Ghost Killer#
+300248#de Death Witch#
+300249#de Formless Destroyer#
+300250#de Demon Slayer#
+300251#de High Immortal#
+300252#de High Holy Power#
+300253#Venomous#
+300254#de High Mars#
+300255#Gale#
+300256#Hellfire#
+300257#Torrent#
+300258#Deep Darkness#
+300259#Earthquake#
+300260#de High Intelligence#
+300261#de High Lucky#
+300262#de Undead Dragon Hunter#
+300263#Guardman#
+300264#High Guardman#
+300265#Magic Guardman#
+300266#de Unknown Swordsman#
+300267#de Speed Bolt#
+300268#de Power Bolt#
+300269#Eldest#
+300270#Emphatic#
+300271#Happy#
+300272#Pray#
+300273#Smile#
+300274#de Real Rage#
+300275#de Real Horror#
+300276#Wing Breaker#
+300277#de Real Resent#
+300278#de Void#
+300279#Dead Pension#
+300280#de Corrupted Magic Swordsman#
+300281#de Water Bug#
+300230#Yellow Spawn#
+300231#Royal Spawn#
+300232#Spawn#
+300233#Red Spawn#
+300234#Green Spawn#
+300235#Fray#
+300236#Stubborn#
+300237#Pierce#
+300238#Double Heal#
+300239#Distortion#
+4493#Half High Risk#
+
+// Clock Tower Abyss
+300292#Devil Joker#
+300293#de Poison#
+300294#Poison Dead#
+300295#Animal Killer#
+300296#Mad Bug#
+300297#de Senior Hunter#
+//Royal Hunting Competition 2021
+300307#de Meyer#
+300308#de Meyer#
+300309#de Helmut#
+300310#de Lugenburg#
+
+//Episode 19
+300359#de Snowflake#
+300360#de Seaweed#
+300361#de Straw#
+300362#de Ice-free#
+300363#de Limacina#
+300364#Sea Water#
+300365#Primitive#
+300366#Lowest#
+300367#de Primitive#
+300368#de Lowest#
+300369#de Dark Spell#
+300370#de Telekinetic Spell#
+300371#de Poison Spell#
+300372#de Telekinetic Power#
+300373#Insect-proof#
+300374#de Pesticide#
+300375#Higher Level#
+300376#Higher Level#
+300377#de Ultra Power#
+300378#de Sim#
+300379#Higher Level#
+300380#Higher Level#
+300381#de Heart Hunting#
+300382#Aquila#
+
+// Royal Hunting 2022
+300421#de Catherine#
+300422#de Gaebolg#
+300423#de Friedrich#
+300424#de Stolz Heine#
+300425#de Crux#
+300426#de Findel#
+
+// Level 260 Dungeons
+300441#Hell Burning#
+300442#Dead Plant#
+300443#de Titan#
+300444#Living Dead#
+300445#Mother Earth#
+300446#Punching#
+300447#Magic Bug#
+300448#de Saint#
+300449#Magic Tree#
+300450#Thunder#
+// Sealed Boss Card Update
+300195#Half Pie#
+300201#de Wicked Queen Spider#
+300203#de Low Howling#
+300209#Mild Punishment#
+
+// Episode 20
+300455#Copo#
+300456#de Cool Egg#
+300457#de Gray Wind#
+300458#de White Wind#
+300459#de Rgan#
+300460#Spell Force#
+300461#Faker#
+300462#Sorceric#
+300463#Impure#
+300464#de Impure#
+300465#de Guardian#
+300466#Cleaning#
+300467#de Slug#
+300468#Snowing#
+300469#Melibe#
+300470#Ice Bear#
+300471#Fallen#
+300472#de Demigod#
+300473#de Angel Storm#
+300474#Chief#
+
+//2023 Royal Hunting Competition
+300486#Volkova#
+300487#Elena#
+300488#Rebellion Lookie#
+300489#Lookie#
+300490#Loveroy#
+300491#Est#
+300492#Rebellion Gony#
+300493#Gony#
+300494#Tes#
+300495#Fontes#
+300496#Ray#
+300497#Leizi#
+
+//Episode 21 Cards
+300505#de Seawind#
+300506#Scalleg#
+300507#Velelling#
+300508#de Skipper#
+300509#de Letterster#
+300510#de Clio#
+300511#de Rockstriker#
+300512#de Seahorse#
+300513#de Icehorn#
+300514#de Cleaner#
+300515#de Fixer#
+300516#de Collector#
+300517#de Negotiator#
+300518#de Cooker#
+300519#Yormi#
+300520#Missionary#
+300521#de Invest#
+300522#de Judge#
+300523#Executor#
+300524#de Yoscopus#
+300525#Yoscopus#
+300526#Working#
+300527#Trading#
+300528#de Yortus#
+300529#Yortus#
+300530#de Arbiter#
+300531#de Bailiff#
+300532#Captain#
+300533#de Tan#
+
+// 2024 Sesrumnir Ocean Week
+300549#de Ocean Week#
+
+// Level 275 Dungeons
+300555#de Violen#
+300556#de Spiding#
+300557#de Garling#
+300558#de Jackonette#
+300559#de Liamette#
+300560#de Double Caster#
+300561#de Medjed#
+300562#de Medjay#
+300563#de Ophois#
+300564#de Heka#
+300565#de Million Dead#
+
+// 2024 Shiba Says Collaboration
+300547#Hungry#
+300550#Lazy#
+300551#Happy#
+300552#Afortunado#
+
+// Episode 21 Hard Mode
+300585#Tris#
+300586#Tan#
+300587#Wilhelm#
+300588#Reinhardt#
+300589#Ivan#
+300590#Lalaila#
+300591#Richard#
+300592#Laura#
+300593#Aurelie#
+300594#Ilse El#
+300595#Epesto#
+300596#Maristella#
+300597#Yohan#
+300598#Gunther#
+300599#Galaxia#
+300600#Iana#
+300601#Lee#
+300602#Na Doyo#
+// 2024 Hunting Competition
+300603#Dien#
+300604#Ridsh#
+300605#Cotness#
+300606#de Dien#
+300607#de Ridsh#
+300608#de Cotness#
+// Unknown Blue Hole Cards
+300609#de Sirena#
+300610#Guerrero#
+300611#de Tatsi#
+300612#de Hanom#
+300613#de Peska#
+300614#de Diosa#
+// Kung Fu Panda
+300618#Kung Fu Panda#
+// Chapter 1
+300633#de Eggfruit#
+300634#Egriff#
+300635#de Charcoal#
+300636#de Bullying#
+300637#de Fire Loop#
+300638#Pyplasia#
+300639#de Volcanic Shell#
+300640#Fireflower#
+300641#de Piper#
+300642#Silkfrog#
+300643#de Silk Snail#
+300644#de Explorer#
+300645#Repairover#
+300646#de Dimik#
+300647#Nyaze#
+300648#de the Jeller#
+300649#de Tulips#
+300650#de Calendula#
+300651#de Sciviosa#
+300652#Lobelia#
+300653#Myosotis#
+300654#Anemone#
+300655#de the Uncanny#
+300656#Uncanny#
+300657#de Listener#
+300658#de Immortality#
+300659#Toxit#
+300660#Lunarina#
+300661#Bloody Slasher#
+300662#Shadyist#
+300663#Dreamlike#
+300664#Dreamy#
+300665#de Abyss Knight#
+300666#de the Buddha#
+300667#de Gluto#
+300715#Support#
+300716#Strategic#
+300717#Tatio#
+300718#Rekenber#
+300719#As#
+300720#Kaya Toss#
+300721#de Tatio#
+300722#de Rekenber#
+// Druid Items
+300683#Howell#
+// Gatchaman Collaboration
+300732#Fly up!!#
+300733#I'll destroy you!!#
+300734#Firing!#
+
+// End of kRO Cards
+4495#de Half Protection#
+4496#de Half Infinity#
+
+4536#Half Beast#
+4537#Half Perfect#
+4540#Half Crisis#
+4541#de Half Tempest#
+4542#de Half Magic Shelter#
+4543#Half Arctic#
+4544#Half Curse Lift#
+4547#Half Exceeding#
+4548#Half Nessus#
+4549#de Half True Sight#
+4550#Half Shaft#
+4551##
+
+4558##
+4611##
+4612##
+4613##
+4614##
+4615##
+4616##
+4617##
+4618##
+4619##
+4620##
+4621##
+4622##
+4623#11th Anniversary#
+
+25480##
+
+27000#de Sorrow#
+27001#de Hatred#
+27002#de Frustration#
+27003#de Chill#
+27004#de Wrath#
+27005#de la Locura#
+27006#de Despair#
+27007#de Laugh#
+27008#Rogue#
+27009#Evil God#
+27010#Knight#
+27011#de Knight#
+27021#Brick King#
+27022#de Blaze Barrier#
+27023#Milk Master#
+27024#Rabbit#
+
+27031#Extensive#
+27032#Astral#
+27033#de Madman#
+27034#Gust#
+27035#Twisted#
+27036#Sharp#
+27037#Queen Bird#
+27038#Spike#
+27039#de Big Runaway#
+27040#Brinicle#
+27041#High Tension#
+27042#de Interrupt#
+27043#de Mudd Candy#
+27044#de Mudd Sherbet#
+27045#de Soul Gathering#
+27050#Dual Mirage#
+27051#Dual Spiritual#
+27052#Dual Whale#
+27053#Dual Jungle#
+27054#Dual Genie#
+27055#de Sorcerer#
+27056#de Sura#
+27057#de Minstrel#
+27058#de Guillotine Cross#
+27059#de Arc Bishop#
+27060#de Ranger#
+27061#de Mechanic#
+27062#de Warlock#
+27063#de Rune Knight#
+27064#de Royal guard#
+27065#de Geneticist#
+27066#de Shadow Chaser#
+27067#de Wanderer#
+27068#Venom Pressure#
+27069#Judex#
+27070#Comet#
+27071#Cluster#
+27072#Magma#
+27073#Ignition#
+27074#Drive#
+27075#Crazy#
+27076#Cloud Kill#
+27077#de Lion#
+27078#Triangle#
+27079#Reverberation#
+
+27089#System Boost#
+27090#de Mad Wizard#
+27091#de Mad Warrior#
+27092#Overclocking#
+27093#de Sniper#
+27094#de physical#
+27095#de Mad Biscuit#
+27096#de Expert#
+27097#de Angelman#
+27098#de Punisher#
+27099#de Judge#
+27100#de Clap#
+
+27127#de Abyss#
+27128#Ancient Blood#
+27129#Hundred#
+27130#Expansion#
+27131#Arrow Storm#
+27132#Cannon#
+27133#Rolling#
+27134#Adoramus#
+27135#Over Brand#
+27136#Diamond Dust#
+27137#Rainstorm#
+27138#Tornado#
+27139#Bomb#
+27140#de heaven and earth#
+27141#Volcanic#
+27142#Assault#
+27143#de Death Valley#
+27144#Elemental#
+27145#de Deep Impact#
+27146#Cutie#
+
+27185#Funnel#
+27186#de Bluff#
+27187#de frame#
+27188#Trigger Happy#
+27189#Speedster#
+27190#de Ice Barrier#
+27191#de Mist Guard#
+27192#Force of Mind#
+
+27194#Magic Boost#
+27195#Power Boost#
+
+27226#de Will#
+27227#de Tough#
+27228#de Trinity#
+27229#Pretty#
+27230#Pure#
+27231#Honey#
+27232#Sugar#
+27233#Wake#
+27234#Silky#
+27235#Gust#
+27236#Blaze#
+27237#Transformation#
+27238#Unpetrified#
+27239#de Wind Barrier#
+27240#Habitation#
+27241#Jet#
+27242#de Elder#
+27243#de Soldier#
+27244#Sing#
+27245#Perform#
+27246#Fort#
+27247#Fortissimo#
+27248#Phantom#
+
+27301#del Frenesí#
+
+29230#Tainy Ale#
+
+29363#Burning Fire#
+
+31000#de Toilet#
+31001#Morning Star#
+31002#Psychic#
+31003#Will#
+31004#Twister#
+31005#Sword Master#
+31006#de Praise Death Lord#
+31007#de Immortal Grudge#
+31008#Spirit Amulet#
+31009#de Wish Song#
+31010#Shubha~~~n!#
+31011#Kimakima Time#
+31012#Dragon Fear#
+31013#Mega Flare#
+31014#de Golden End#
+31015#de God of Fate#
