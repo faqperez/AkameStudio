@@ -1,0 +1,14 @@
+{
+  "gameId": "wow",
+  "version": "1.2.13-local",
+  "serverHost": "127.0.0.1",
+  "serverPort": 3724,
+  "files": [
+    {
+      "path": "Data/esMX/realmlist.wtf",
+      "sha256": "f3dba06ce4efb54db82d71fc5f1c481cc1b25902ffeb538f8d31d367788ddc58",
+      "size": 24,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/wow-patches/Data/esMX/realmlist.wtf"
+    }
+  ]
+}
