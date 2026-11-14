@@ -5,7 +5,7 @@
 	<servertype>primary</servertype>
 	<connection>
 		<display>AkameRO Oficial</display>
-		<address>172.30.0.10</address>
+		<address>ro.akamestudio.com</address>
 		<port>6900</port>
 		<version>25</version>
 		<langtype>0</langtype>

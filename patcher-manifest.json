@@ -1,7 +1,7 @@
 {
   "gameId": "ro",
-  "version": "1.2.6",
-  "serverHost": "172.30.0.10",
+  "version": "1.2.14",
+  "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
     {
@@ -44,14 +44,14 @@
     },
     {
       "path": "data/clientinfo.xml",
-      "sha256": "dcc674d409bbefb16cf2d4a43b2a8e5e5a25c516e3361b5efec42846f2205585",
-      "size": 679,
+      "sha256": "f89c1c1e676847cc4ec917c0c2685686805ca7ae93e75692083ad902ea30b1ca",
+      "size": 663,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/clientinfo.xml"
     },
     {
       "path": "data/sclientinfo.xml",
-      "sha256": "dcc674d409bbefb16cf2d4a43b2a8e5e5a25c516e3361b5efec42846f2205585",
-      "size": 679,
+      "sha256": "f89c1c1e676847cc4ec917c0c2685686805ca7ae93e75692083ad902ea30b1ca",
+      "size": 663,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/sclientinfo.xml"
     },
     {
