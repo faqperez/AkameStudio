@@ -38,8 +38,8 @@
     },
     {
       "path": "akame.grf",
-      "sha256": "ba0349e69a1b72ff52d1808828775742cf0c14392e4304b1ade5ea2339c760f0",
-      "size": 11320718,
+      "sha256": "441a50e863ee605a804e3601588a8def3f654463552210d1f0452cdd289d3454",
+      "size": 11322046,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/akame.grf"
     },
     {
