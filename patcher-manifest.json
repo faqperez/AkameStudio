@@ -44,14 +44,14 @@
     },
     {
       "path": "data/clientinfo.xml",
-      "sha256": "f89c1c1e676847cc4ec917c0c2685686805ca7ae93e75692083ad902ea30b1ca",
-      "size": 663,
+      "sha256": "b01d9e63389e034263cabcf8eda14850db77cc836b35264eaf7ffa25d775bd6d",
+      "size": 710,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/clientinfo.xml"
     },
     {
       "path": "data/sclientinfo.xml",
-      "sha256": "f89c1c1e676847cc4ec917c0c2685686805ca7ae93e75692083ad902ea30b1ca",
-      "size": 663,
+      "sha256": "b01d9e63389e034263cabcf8eda14850db77cc836b35264eaf7ffa25d775bd6d",
+      "size": 710,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/sclientinfo.xml"
     },
     {
