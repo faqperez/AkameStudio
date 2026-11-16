@@ -38,20 +38,20 @@
     },
     {
       "path": "akame.grf",
-      "sha256": "3612fe8b3cbfd07eef8d7636ac013f6349f98d025f979f553d4a1e741bd6af07",
-      "size": 11320743,
+      "sha256": "d9dd95749716381e2e6ceee540931ee1496639880e2be8d52e5f0d7bbae3eb3c",
+      "size": 7564395,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/akame.grf"
     },
     {
       "path": "data/clientinfo.xml",
-      "sha256": "b01d9e63389e034263cabcf8eda14850db77cc836b35264eaf7ffa25d775bd6d",
-      "size": 710,
+      "sha256": "2957df83465638d751eb051ad7277ef904357e8ee309a26a7fdbe72104daa8b3",
+      "size": 711,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/clientinfo.xml"
     },
     {
       "path": "data/sclientinfo.xml",
-      "sha256": "b01d9e63389e034263cabcf8eda14850db77cc836b35264eaf7ffa25d775bd6d",
-      "size": 710,
+      "sha256": "2957df83465638d751eb051ad7277ef904357e8ee309a26a7fdbe72104daa8b3",
+      "size": 711,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/sclientinfo.xml"
     },
     {

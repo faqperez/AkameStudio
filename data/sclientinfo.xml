@@ -9,7 +9,7 @@
 		<domain>ro.akamestudio.com:6900</domain>
 		<port>6900</port>
 		<version>25</version>
-		<langtype>0</langtype>
+		<langtype>12</langtype>
 		<registrationweb>https://akamestudio.com/register</registrationweb>
 		<loading>
 			<image>loading00.jpg</image>
