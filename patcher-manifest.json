@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.14",
+  "version": "1.2.15",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -26,8 +26,8 @@
   "files": [
     {
       "path": "AkameRO.exe",
-      "sha256": "74030f58fe161761638804b0a1f94fa60358b6933bb744ebec534c4dd52fbb06",
-      "size": 9143808,
+      "sha256": "10bf0d4f7e6d35834bafb9c8fa7ce10864aa3586b7f3bca2ff6764ba24d7c54c",
+      "size": 12928512,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/AkameRO.exe"
     },
     {
