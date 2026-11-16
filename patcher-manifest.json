@@ -38,8 +38,8 @@
     },
     {
       "path": "akame.grf",
-      "sha256": "c2244d3528fdbda4b65bd11bb80a1c27161d2ce13335587357051dcfe9c583b7",
-      "size": 7564522,
+      "sha256": "83446739367b38d7e3dad46d9bf42d6e1dfb0f2977f70be09fe55624690b6813",
+      "size": 7565343,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/akame.grf"
     },
     {
@@ -143,6 +143,12 @@
       "size": 818,
       "sha256": "fcf552b91fce9a8025c44baea6bff22fb784dbeedd5b811ac698b716f31cb040",
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/CheckAttendance.lub"
+    },
+    {
+      "path": "licence.txt",
+      "size": 753,
+      "sha256": "c553317f03e937139cbe3d1c32ee655b7e680804610a3a231a797c57edddea4c",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/licence.txt"
     }
   ]
 }
