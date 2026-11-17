@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.17",
+  "version": "1.2.18",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -158,20 +158,20 @@
     },
     {
       "path": "System/PetEvolutionCln_sak.lub",
-      "sha256": "63d2726c03b922c82fcaeefeda8f5082c13be38b21ea90616cda36123bbc0ebc",
-      "size": 9547,
+      "sha256": "5a1670e193ff7ebd53b326e3dcb92bcb486736ae0da37109909234154789a0d2",
+      "size": 7143,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/PetEvolutionCln_sak.lub"
     },
     {
       "path": "System/PrivateAirplane_Sakray.lub",
-      "sha256": "f6e0c8a2f30468cf472fbf5670f26e29c74e978370d46299e833328b2547ac57",
-      "size": 12141,
+      "sha256": "bbe5f4773296427743f422b99c811e411cc8bd30fa4490d06ce72752f1625256",
+      "size": 11003,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/PrivateAirplane_Sakray.lub"
     },
     {
       "path": "System/mapInfo_sak.lub",
-      "sha256": "588a85f7935fbaa4fff4972e824e3d5e209832d375325e9767741014b93f86c2",
-      "size": 133352,
+      "sha256": "727f6a98e34488d01cf13bb09576f60aad440aaccf13976aa6e8bc5a90e11270",
+      "size": 167553,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/mapInfo_sak.lub"
     },
     {
@@ -191,6 +191,12 @@
       "sha256": "d984c7e3d90a45284d97f261645c942a3bf4255d9b0746d65d5dc0d73c39a9a7",
       "size": 25655,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/RecommendedQuestInfoList_Sakray.lub"
+    },
+    {
+      "path": "System/tipbox.lub",
+      "sha256": "28492b234e16e124abc0b327096863de471142de0613bd352eda15c60637fd8f",
+      "size": 21393,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/tipbox.lub"
     }
   ]
 }
