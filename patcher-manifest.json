@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.15",
+  "version": "1.2.16",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -26,7 +26,7 @@
   "files": [
     {
       "path": "AkameRO.exe",
-      "sha256": "10bf0d4f7e6d35834bafb9c8fa7ce10864aa3586b7f3bca2ff6764ba24d7c54c",
+      "sha256": "ae50ec08447ae9246579983b154bd4df76762e6fdfb7985c35e58b9fe688d298",
       "size": 12928512,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/AkameRO.exe"
     },
@@ -149,6 +149,48 @@
       "size": 753,
       "sha256": "c553317f03e937139cbe3d1c32ee655b7e680804610a3a231a797c57edddea4c",
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/licence.txt"
+    },
+    {
+      "path": "System/itemInfo_Sak.lub",
+      "sha256": "85388effad8eee8aa8ee2c17d6f6453dacb332876c06a5a3a6a76d8b6d0abae8",
+      "size": 6695041,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/itemInfo_Sak.lub"
+    },
+    {
+      "path": "System/PetEvolutionCln_sak.lub",
+      "sha256": "63d2726c03b922c82fcaeefeda8f5082c13be38b21ea90616cda36123bbc0ebc",
+      "size": 9547,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/PetEvolutionCln_sak.lub"
+    },
+    {
+      "path": "System/PrivateAirplane_Sakray.lub",
+      "sha256": "f6e0c8a2f30468cf472fbf5670f26e29c74e978370d46299e833328b2547ac57",
+      "size": 12141,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/PrivateAirplane_Sakray.lub"
+    },
+    {
+      "path": "System/mapInfo_sak.lub",
+      "sha256": "588a85f7935fbaa4fff4972e824e3d5e209832d375325e9767741014b93f86c2",
+      "size": 133352,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/mapInfo_sak.lub"
+    },
+    {
+      "path": "System/monster_size_effect_sak_new.lub",
+      "sha256": "5e2d42278f258ad9742123e2781caf82752ee0bc23720bab31fdab8342060b01",
+      "size": 131028,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/monster_size_effect_sak_new.lub"
+    },
+    {
+      "path": "System/OngoingQuestInfoList_Sakray.lub",
+      "sha256": "957144837ed987de1729e5747165f73485a676cfa5c07d3a4239e46d736269de",
+      "size": 1984393,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/OngoingQuestInfoList_Sakray.lub"
+    },
+    {
+      "path": "System/RecommendedQuestInfoList_Sakray.lub",
+      "sha256": "d984c7e3d90a45284d97f261645c942a3bf4255d9b0746d65d5dc0d73c39a9a7",
+      "size": 25655,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/RecommendedQuestInfoList_Sakray.lub"
     }
   ]
 }
