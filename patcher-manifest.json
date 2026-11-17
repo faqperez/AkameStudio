@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.16",
+  "version": "1.2.17",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -26,7 +26,7 @@
   "files": [
     {
       "path": "AkameRO.exe",
-      "sha256": "ae50ec08447ae9246579983b154bd4df76762e6fdfb7985c35e58b9fe688d298",
+      "sha256": "bd83e45407f5850244420eb3e4cd0b752105cced4d3aac651c422604e2a482d5",
       "size": 12928512,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/AkameRO.exe"
     },
@@ -38,8 +38,8 @@
     },
     {
       "path": "akame.grf",
-      "sha256": "83446739367b38d7e3dad46d9bf42d6e1dfb0f2977f70be09fe55624690b6813",
-      "size": 7565343,
+      "sha256": "db2fa56ce901709448fea9f4b8fa899ec24b78ebc784fd3362920c70fbc4993a",
+      "size": 7595738,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/akame.grf"
     },
     {
