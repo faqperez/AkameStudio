@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -80,8 +80,8 @@
     },
     {
       "path": "System/itemInfo_EN.lua",
-      "sha256": "425b3cd9258984b20ff232f86850d32587827fd826f8199ef94d1f67999fe87e",
-      "size": 15207208,
+      "sha256": "4d214dfc9f7ecdd8e515a3baefbb56be329c7f0fffb36ec519c93de0b6907b21",
+      "size": 15690671,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/itemInfo_EN.lua"
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "System/itemInfo_Sak.lub",
-      "sha256": "85388effad8eee8aa8ee2c17d6f6453dacb332876c06a5a3a6a76d8b6d0abae8",
-      "size": 6695041,
+      "sha256": "1f56190e9469bef37a651a60727bbbafd16cb38fc792eb8206b1a89035ffcf3c",
+      "size": 8814479,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/itemInfo_Sak.lub"
     },
     {
