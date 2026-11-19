@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.22",
+  "version": "1.2.23",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -80,20 +80,20 @@
     },
     {
       "path": "data/luafiles514/lua files/skillinfoz/jobinheritlist.lub",
-      "sha256": "9ede9ddfe20ba6c4cfa3550a6a5f666c8693c1b7a74c8e28b0fab8b8e9885741",
-      "size": 22361,
+      "sha256": "ba7108fbc1e8cfebff64438709d6d97864603c7ff86584b21cc9fc0912364e5a",
+      "size": 24851,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/jobinheritlist.lub"
     },
     {
       "path": "data/luafiles514/lua files/skillinfoz/skillinfo_f.lub",
-      "sha256": "33e5b979b2a402063ab8b2e89c7564dbeac8a409027fb28d1e406967b42b2353",
-      "size": 10241,
+      "sha256": "719a555159653266efaa802c062f58c0ee71df6456b1cde485e9dc4afdf0897f",
+      "size": 10317,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skillinfo_f.lub"
     },
     {
       "path": "data/luafiles514/lua files/skillinfoz/skilltreeview.lub",
-      "sha256": "ebf7c3e7c305c98530acd7580a37ba549be4e74116ff947098fdfb2540cc3cbc",
-      "size": 81477,
+      "sha256": "02a16bfd66a99e34a13334bf889503a22a5aa99f1cf1595cb82eaebe869ea0e8",
+      "size": 90623,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skilltreeview.lub"
     },
     {
@@ -227,6 +227,24 @@
       "sha256": "28492b234e16e124abc0b327096863de471142de0613bd352eda15c60637fd8f",
       "size": 21393,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/tipbox.lub"
+    },
+    {
+      "path": "data/luafiles514/lua files/skillinfoz/skillid.lub",
+      "size": 100744,
+      "sha256": "70b1b936be26ba24ca496d7ee434c7a6197a24eae07dc9c1fa6eec18302cd9bf",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skillid.lub"
+    },
+    {
+      "path": "data/luafiles514/lua files/skillinfoz/skillinfolist.lub",
+      "size": 592487,
+      "sha256": "980a4a79185e5c7412b1004eabd218ade0289735b544ccba2890cf2414bdb77e",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skillinfolist.lub"
+    },
+    {
+      "path": "data/luafiles514/lua files/skillinfoz/skilldescript.lub",
+      "size": 1150616,
+      "sha256": "6968eded288e201ce898f4969fffa39a1ad25e2bc23be115943acb6aadf3ace6",
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skilldescript.lub"
     }
   ]
 }
