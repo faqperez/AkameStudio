@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.23",
+  "version": "1.2.24",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -86,14 +86,14 @@
     },
     {
       "path": "data/luafiles514/lua files/skillinfoz/skillinfo_f.lub",
-      "sha256": "719a555159653266efaa802c062f58c0ee71df6456b1cde485e9dc4afdf0897f",
-      "size": 10317,
+      "sha256": "a83cc43be2b016c661eb63b3f0805debf3cd2b2184537ee098226a23e7c51959",
+      "size": 10574,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skillinfo_f.lub"
     },
     {
       "path": "data/luafiles514/lua files/skillinfoz/skilltreeview.lub",
-      "sha256": "02a16bfd66a99e34a13334bf889503a22a5aa99f1cf1595cb82eaebe869ea0e8",
-      "size": 90623,
+      "sha256": "77894d03c5c70bb84bf00ec14891e2f8721909c9d98a60101e2e5d4e8a18e521",
+      "size": 86632,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skilltreeview.lub"
     },
     {
