@@ -1414,9 +1414,9 @@ This skill can be used to certain direction only#
 Cannot summon spheres anymore.#
 There is no summoned sphere or you do not have enough sphere.#
 There is no imitation skills available.#
-You can't reuse this skill#
-Skill can't be used in this state#
-You have exceeded the maximum amount of possession of another item.#
+Aún no puedes volver a usar esta habilidad.#
+No puedes usar esta habilidad en tu estado actual.#
+Has alcanzado el límite máximo de posesión de este objeto.#
 No administrative privileges. Must first run the program with administrator privileges.#
 nProtect KeyCrypt not the same. Please restart the program and the computer first.#
 Currently in Windows XP Compatibility Mode. The program now removes Compatibility Mode. Please restart the program.#
@@ -2564,10 +2564,10 @@ Item Purchase History#
 Cannot use skill in this map.#
 If you are using a guild storage, all items inside it will disappear.#
 http://ragnarok.gamesamba.com/paytest.html#
-Please enter a password to login.#
+Por favor ingresa una contraseña para iniciar sesión.#
 Pet Evolution#
 Evolution - %s#
-Evolution requires the following ingredients:#
+La evolución requiere los siguientes ingredientes:#
 ¿Deseas evolve your pet?#
 Unknown Error#
 No pet can be summoned.#
@@ -2596,58 +2596,58 @@ Objeto adjuntado correctamente.#
 Debes ingresar el nombre del destinatario.#
 El título debe tener entre 4 y 50 caracteres.#
 Error en el envío del correo.#
-Transmission has failed to inappropriate items.#
-Information of the recipient does not exist.#
+El envío ha fallado debido a items incompatibles.#
+La información del destinatario no existe.#
 %s [%d option]#
 Level, enter a number between 1 and %d.#
-Please free the window possessing space.#
+Por favor libera espacio en tu inventario.#
 Sending mail count exceeded.#
-You cannot open the mail.#
-You currently belong to a clan.#
+No puedes abrir el correo.#
+Actualmente ya perteneces a un clan.#
 Internet cafe Gold mileage information#
 Unequip pet accessory first to begin pet evolution#
 in %d minutes#
 in %d hours#
 in %d days#
-Press the OK button to confirm the C-CODE.#
-Please claim all attachments before deleting your mail.#
-You cannot send any more zeny.#
+Presiona OK para confirmar el código.#
+Por favor recoge todos los adjuntos antes de borrar el correo.#
+No puedes enviar más Zeny.#
 Fee: %s Zeny#
-The recipient's name does not exist.#
+El nombre del destinatario no existe.#
 E X P : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
 DROP  : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
 DEATH : %.1f%% ( basic %.1f%% premium %.1f%% + %s %.1f%%)#
 You can accumulate points of Internet cafe Gold up to %d points maximum.#
 This function cannot be used in this server.#
 Imposible to use in server.#
-The auction is not available in server.#
-The deal is imposible in server.#
+La subasta no está disponible en este servidor.#
+El intercambio no es posible en este servidor.#
 Item discard is imposible in server.#
 Store selling feature is not available.#
 The SP's summoned enough.#
 %s/%s#
-The maximum length of the message content is 1K.#
+La longitud máxima del mensaje es de 1 KB.#
 Failed to attach an item.#
-The weight of the items that can be attached to mail has been exceeded.#
-Is already in service. Please try again in a few minutes.#
-Unable to open the window of Lucky Roulette.#
-Unable to close the window of the Lucky Roulette.#
-You cannot start a roulette wheel of fortune.#
+El peso de los items adjuntos supera el límite.#
+El servicio ya está en uso. Intenta de nuevo en unos minutos.#
+No se puede abrir la ventana de la ruleta.#
+No se puede cerrar la ventana de la ruleta.#
+No puedes iniciar la ruleta de la fortuna.#
 Points is required to play Lucky Roulette.#
-You cannot receive a winning items.#
-The number of items in the inventory has been exceeded. #
-The weight has been exceeded. Please free up the possesion window.#
+No puedes recibir los premios en este momento.#
+Has superado la cantidad de items en el inventario.#
+Has superado el límite de peso. Por favor libera espacio en tu inventario.#
 Failed to open stalls.#
-The roulette wheel is spinning. Please try again after checking with prizes.#
+La ruleta está girando. Por favor revisa tus premios.#
 Lucky Roulette#
 Notify when item sells out#
-Please check the fees.#
+Por favor verifica la comisión.#
 Verify user name#
 Schedule deletion#
 Achievement Challenges#
 Achievement score#
 Achievement rank#
-[%5d] points to the next rank#
+[%5d] puntos para el siguiente rango#
 Progress#
 Recent completed achievements#
 Cracker  Item#
@@ -2678,7 +2678,7 @@ New World #
 Other #
 Feat #
 Achieved challenges#
-You cannot add anymore.#
+No puedes añadir más.#
 < %s > achieved.#
 only otp user login allow#
 When this button pressed, you will receive a specified initialized roulette item.#
@@ -2691,13 +2691,13 @@ Can't join a Guild in this area.#
 Can't leave a Guild in this area.#
 Can't expel Guild member in this area.#
 Can't change a Guild title in this area#
-Please empty at least 5 amount of possession in item window.#
+Por favor libera al menos 5 espacios en tu inventario.#
 E X P : %.1f%% ( basic 100.0%% Internet cafe %.1f%% + %s %.1f%% )#
 DROP  : %.1f%% ( basic 100.0%% Internet cafe %.1f%% + %s %.1f%% )#
 DEATH : %.1f%% ( basic 100.0%% Internet cafe %.1f%% + %s %.1f%% )#
-The number of items that can be attached is exceeded.#
+Se ha superado el número máximo de items adjuntos.#
 Notify when item purchased#
-Unable to attach the items.#
+No se pueden adjuntar los objetos.#
 Because you cannot win a slam room and turn the roulette of the next higher step.#
 Escribir respuesta#
 Leer mensaje#
@@ -2760,15 +2760,15 @@ Memorize location#
 %s [%d ea.] %d %s %s %s#
 %s [%d ea.] %d -> %s %s#
 %s [%d ea.] %s %s#
-The minimum trading unit must be 100 crackers or more.#
+La unidad mínima de intercambio debe ser de 100 o más.#
 Hair color#
 Hair style#
 Extra colors#
 Extra costumes#
-In this map You can't memorize and zoom the minimap.#
+En este mapa no puedes memorizar ni hacer zoom en el minimapa.#
 Enter zeny below 2,147,483,647.#
-Please enter at least 1 zeny.#
-You don't have any zeny.#
+Por favor ingresa al menos 1 Zeny.#
+No tienes Zeny.#
 Zeny Storage#
 in bank#
 on hand#
@@ -2796,7 +2796,7 @@ Can't be put in Guild Storage#
 Can't be sold to NPC#
 Item move restrictions#
 Click here to create a Character#
-Please unequip ammunition first.#
+Por favor desequipa la munición primero.#
 Unable to enter, due to exceeding number of players.#
 Access denied, due to exceeding number of players.#
 %.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
@@ -2815,28 +2815,28 @@ Style Shop#
 No serial number, Please visit the store to buy.#
 Please open the item coupon box in the inventory.#
 Bank#
-Slot is full, please delete a character.#
-Item cannot be restored, are you sure want to apply it?#
-The current style is saved.#
-There are plenty of zeny in the bank, Please go to the bank now.#
+Los espacios están llenos, por favor borra un personaje.#
+Este objeto no se puede restaurar. ¿Deseas aplicarlo?#
+El estilo actual ha sido guardado.#
+Tienes fondos disponibles en el banco.#
 moving...#
 You are not allowed to fly over the sovereign airspace of the country.#
 Airship flight is temporarily unavailable due to atmospheric instability caused by magic.#
 Private airship#
-Please try again in a moment.#
-Not enough Zeny to use the private airship.#
-Not enough item to use the private airship.#
-You don't meet the level to use the private airship.#
-You cannot move to the selected point by the private airship.#
-You cannot use the private airship from your current location.#
+Por favor intenta de nuevo en unos momentos.#
+No tienes suficiente Zeny para usar la aeronave privada.#
+No tienes los objetos necesarios para usar la aeronave privada.#
+No cumples con el nivel necesario para usar la aeronave privada.#
+No puedes viajar al punto seleccionado en la aeronave privada.#
+No puedes usar la aeronave privada desde tu posición actual.#
 Accessory#
 Second costume#
 Wardrobe#
 This hairstyle cannot be dyed.#
-Press an arrow to choose the style you want.#
+Usa las flechas para elegir el estilo deseado.#
 Come and see the new styles.\n(Purchased accessories will be sent via RODEX.)#
 Basic style#
-You can level up the skill from the base Lv. %d.#
+Puedes subir de nivel esta habilidad a partir del Nivel Base %d.#
 Special symbol can't be used in name#
 MaxHP is too low to use this skill#
 MaxSP is too low to use this skill#
@@ -2852,7 +2852,7 @@ Refresh#
 %d hour#
 %d day#
 Returned#
-¿Deseas delete the message?#
+¿Deseas eliminar el mensaje?#
 Show information#
 Zoom in#
 Zoom out#
@@ -2867,8 +2867,8 @@ Show guild member login status#
 Unrecognized#
 Team name#
 Leader#
-Time limit exceeded. Closing the client#
-Input error. Closing the client#
+Tiempo límite excedido. Cerrando el cliente...#
+Error de entrada. Cerrando el cliente...#
 Incorrect input. A small buff has given to you#
 Enter 4 english words and 2 chinese words#
 Your entered answer is [%s]. Is it right?#
@@ -2877,7 +2877,7 @@ Incorrect input (Remaining chance: %d)#
 ¿Deseas announce %d to player?#
 Message has been sent to player#
 Needed Data for Query illegal software are not signed.#
-The player is being monitored.#
+El jugador está siendo supervisado.#
 Already signed in investigation system.#
 Failed to store icon.#
 Failed to store replied answer.#
@@ -2898,22 +2898,22 @@ Synthesis of the required materials#
 Insufficient synthesis materials#
 Required material %d unid.#
 Refine value is to low for synthesis#
-¿Deseas sign in to the adventurers?#
-Please leave a message#
+¿Deseas registrarte en el gremio de aventureros?#
+Por favor deja un mensaje.#
 Please enter the text on the graph#
 %d second left#
-Please enter your 6 identification number.#
+Por favor ingresa tu código de identificación de 6 dígitos.#
 Identification number.#
-It's not a 6 identification number. Please try again#
-The message has been deleted#
-Please select the area where the private airship will move#
+No es un código válido de 6 dígitos. Intenta de nuevo.#
+El mensaje ha sido eliminado.#
+Por favor selecciona el destino de la aeronave privada.#
 E X P : %d%% ( basic 100.0%% %s %d%%)#
 DROP  : %d%% ( basic 100.0%% %s %d%%)#
 DEATH : %d%% ( basic 100.0%% %s %d%%)#
-Move to the destination#
+Viajar al destino#
 The [%s] is not present, the default AI will be used instead.#
 %.1f%% ( Basic 100.0%% + Premium %.1f%% + %s %.1f%%)#
-Would you like to open a shop at this location?#
+¿Deseas abrir tu tienda en esta posición?#
 Doram race can't wear this clothes#
 Street vending sales will be traded on RODEX#
 30,000 z#
@@ -2924,12 +2924,12 @@ Wear costume#
 Assign Guild Leader#
 Are sure want to assign %s as guild leader? After assigned your position will become %s#
 Cancelar#
-¿Deseas close the shop?#
+¿Deseas cerrar la tienda?#
 %02d day %02d hour %02d min %02d sec#
 Unable to sign in#
 Unable to sign in because the maximum number of sign-in is exceeded#
-Please select a location for your shop#
-Pet name will be changed to ^0000ff^0000ff %s^000000^000000, do you want to continue?#
+Por favor selecciona una ubicación para tu tienda.#
+¿Deseas cambiar el nombre de la mascota a ^0000ff^0000ff%s^000000^000000?#
 Trade date : #
 Trade item : #
 Trade quantity : #
@@ -2948,7 +2948,7 @@ Returned date: #
 Total trade will be sent to RODEX #
 Name isn't available#
 Item has been delivered#
-Thank you for purchasing#
+¡Gracias por tu compra!#
 NPC sale lock applied#
 NPC sale lock#
 There is no callable location nearby#
@@ -2967,53 +2967,53 @@ When adopted, character will not able to transcend, maximum stats will be limite
 Refinar#
 Use Blacksmith's Blessing#
 Insufficient zeny#
-Not enough Blacksmith's Blessing#
-This equipment can not be refined#
-Upgrade success!#
-Upgrade failed!#
+No tienes suficientes Bendiciones del Herrero.#
+Este equipo no se puede refinar.#
+¡Refinamiento exitoso!#
+¡El refinamiento ha fallado!#
 Back#
 Success#
 Return#
 With Mr/Miss#
-The Homunculus's name will be changed to^0000ff^0000ff %s^000000^000000, Are you sure?#
-Call function is ON#
+¿Estás seguro de que deseas cambiar el nombre del Homúnculo a ^0000ff^0000ff%s^000000^000000?#
+Función de llamada: ACTIVADA (Call ON)#
 Función de llamada: ACTIVADA (Call ON)#
 Función de llamada: DESACTIVADA (Call OFF)#
-This character is currently opening a shop and can't be deleted#
-The same vend shop NPC has been set up#
-Opening shop is not allowed on this location#
-Opening shop is not allowed when there is other character#
-Failed to feed pet, please close RODEX window#
-Equipment swap#
+Este personaje tiene una tienda abierta y no puede ser borrado.#
+Ya existe una tienda NPC igual configurada aquí.#
+No está permitido abrir una tienda en este lugar.#
+No está permitido abrir una tienda sobre otro personaje.#
+Error al alimentar la mascota, por favor cierra la ventana de RODEX.#
+Cambio rápido de equipo#
 Equipar#
-Equipment will dissapear when refine fails#
-Equipment's refine level will be decreased when refine fails#
+El equipo desaparecerá si el refinamiento falla.#
+El nivel de refinamiento disminuirá si falla el intento.#
 Equipment will dissapear or refine level will decrease when refine fails#
-You cannot use RODEX while refining. RODEX has been closed.#
-You cannot use RODEX while refining.#
-Please close other windows to continue.#
-Aura effect is ON#
-Aura effect is OFF#
-Aura effect is OFF. Please turn it ON and try again#
-You need %d bullet(s) to use the skill.#
-¿Deseas swap the equipment?#
-You can not do it while KO'ed.#
+No puedes usar RODEX mientras refinas. Se ha cerrado RODEX.#
+No puedes usar RODEX mientras refinas.#
+Por favor cierra las demás ventanas para continuar.#
+Efecto de Aura: ACTIVADO#
+Efecto de Aura: DESACTIVADO#
+El efecto de Aura está desactivado. Por favor actívalo e intenta de nuevo.#
+Necesitas %d bala(s) para usar esta habilidad.#
+¿Deseas cambiar el equipo?#
+No puedes hacer esto mientras estés noqueado/muerto.#
 No puedes realizar esta acción mientras lanzas una habilidad.#
 No puedes realizar esta acción durante un intercambio.#
 No puedes realizar esta acción con la tienda abierta.#
 No puedes realizar esta acción mientras hablas con un NPC.#
 No puedes realizar esta acción en una sala de chat.#
 Los miembros del grupo no están conectados.#
-You need %d arrow(s) to use the skill.#
+Necesitas %d flecha(s) para usar esta habilidad.#
 Ordenar objetos#
-To discard item, please close equipment swap window.#
+Para tirar un item, por favor cierra la ventana de cambio de equipo.#
 No hay ningún objeto para reemplazar.#
 Personaje eliminado#
 %y.%m.%d#
 Access date: %s#
-You can not use bank while refining. Bank has been closed.#
-You can not use bank while refining.#
-This item has been set for equipment swap.#
+No puedes usar el banco mientras refinas. Se ha cerrado el banco.#
+No puedes usar el banco mientras refinas.#
+Este item está asignado al cambio rápido de equipo.#
 Humano#
 Swordman, Mage, Merchant, Acolyte, Thief, Archer, Expanded Classes#
 Doram#
@@ -3025,11 +3025,11 @@ C#
 C#
 Another work is in progress.#
 Overheat limit : %d#
-You can't invite or withdraw while in Memorial dungeon.#
+No puedes invitar ni retirarte dentro de una Instancia (Memorial Dungeon).#
 Profanity detected.\nPlease check again.#
-Please enter at least %d characters. If you don't have account, please click [Register] button to create account.#
-Please enter at least %d characters.#
-A work is in progress, please try again.#
+Por favor ingresa al menos %d caracteres.#
+Por favor ingresa al menos %d caracteres.#
+Hay una operación en progreso, intenta de nuevo en un momento.#
 %.1f%% (PCcafe %.1f%% + TPLUS %.1f%% + %s Server %.1f%%)#
 Unable to register item#
 /100#
@@ -3038,10 +3038,10 @@ https://member.gnjoy.com.tw/mRO_SecPwd.aspx#
 The selected emblem isn't available, try placing it in 'emblem' folder then try again#
 New Ragnarok Online#
 Please obtain permission first from other user that appears in screenshot or chat room#
-Unable to swap equipment#
-Loading the player's name#
-The message contains unrecognizable character#
-Purchase failed#
+No se puede cambiar el equipo en este momento.#
+Cargando nombre del jugador...#
+El mensaje contiene caracteres no reconocidos.#
+La compra ha fallado.#
 ID card is incorrect#
 Cerrar#
 Rules#
@@ -3455,7 +3455,7 @@ This account has limited in-game access due to a secondary password mis-input. \
 You've entered wrong password 3 times. Your account will be locked for 24 hours to secure your account.\n To release it go to -> Change personal information -> and enter your secondary password.#
 Officer#
 Day %d attendance reward.#
-There was an error when loading the data account settings. (Please restart to retry.)#
+Error al cargar la configuración de cuenta. (Reinicia para reintentar).#
 This skill can only be used when in party.#
 Party recruitment has been canceled.#
 Guild experience can be accumulated up to %d%%.#

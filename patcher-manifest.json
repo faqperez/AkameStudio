@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.24",
+  "version": "1.2.25",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -56,8 +56,8 @@
     },
     {
       "path": "data/msgstringtable.txt",
-      "sha256": "cd917d9dcd1ee5035b529cc86459eb8c075d06f41823145c594ee94982f31db8",
-      "size": 139239,
+      "sha256": "aef8d8dce8692fa2d42e3e7d59cb82bd4c168f1101e704d6112ceedbff0a9b33",
+      "size": 139643,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/msgstringtable.txt"
     },
     {
