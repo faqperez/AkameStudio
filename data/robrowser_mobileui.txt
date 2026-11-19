@@ -1,0 +1,70 @@
+// Textos de la interfaz móvil de roBrowser (español)
+//
+// Este archivo contiene todos los textos que muestra la interfaz móvil: las
+// descripciones largas de los botones (mantener pulsado) y el contenido de la
+// guía de la interfaz móvil (/mobileguide).
+//
+// Formato: una entrada por línea -> ID = texto
+// Las líneas que empiezan por "//" son comentarios. Usa \n dentro de un texto
+// para un salto de línea. Los ID que falten usan el texto en inglés incluido
+// en el cliente.
+
+// --- Ventana de la guía ---
+GUIDE_TITLE = Guía de la interfaz móvil
+GUIDE_INTRO = ¡Bienvenido a los controles táctiles! Toca un botón para usarlo o mantén presionado un segundo para ver una descripción corta. Esta guía lista todos los botones de la interfaz móvil.
+GUIDE_COMMAND = Puedes abrir esta guía de nuevo en cualquier momento escribiendo /mobileguide en el chat.
+GUIDE_NEVER_SHOW = No mostrar de nuevo
+GUIDE_CLOSE = Cerrar
+GUIDE_SECTION_GENERAL = General
+GUIDE_SECTION_SKILLBAR = Barra de habilidades
+GUIDE_SECTION_ACTIONS = Acciones
+GUIDE_SECTION_LEFT = Barra izquierda
+GUIDE_SECTION_RIGHT = Barra derecha
+GUIDE_JOYSTICK_LABEL = Joystick
+GUIDE_JOYSTICK = Arrastra el joystick de la esquina inferior izquierda para caminar. Tu personaje sigue caminando en esa dirección mientras lo mantengas.
+GUIDE_SKILLROWS_LABEL = F1-F9 / 1-9 / Q-O / A-L
+GUIDE_SKILLROWS = Los nueve botones alrededor del botón de ataque activan los atajos de la barra de habilidades de la fila seleccionada. Usa el botón de cambio para recorrer las filas.
+
+// --- Descripciones de los botones (toque largo y guía) ---
+// Toque largo: TIP_<botón> | Descripción de la guía: DESC_<botón>
+TIP_toggleUIButton = Mostrar / ocultar los controles móviles
+DESC_toggleUIButton = Muestra u oculta todos los demás botones móviles. Ocúltalos cuando solo quieras mirar el juego y muéstralos de nuevo cuando los necesites.
+
+TIP_fullscreenButton = Activar/desactivar pantalla completa
+DESC_fullscreenButton = Alterna el juego entre pantalla completa y modo ventana.
+
+TIP_skillKey = Atajo de la barra de habilidades %s
+DESC_skillKey = Activa la habilidad o el ítem colocado en la ranura %s de la barra de habilidades.
+
+TIP_switchshorcutButton = Cambiar de fila en la barra de habilidades (F1-F9 / 1-9 / Q-O / A-L)
+DESC_switchshorcutButton = Recorre con los nueve botones de habilidad las cuatro filas de atajos: F1-F9, 1-9, Q-O y A-L.
+
+TIP_attackButton = Atacar al objetivo seleccionado
+DESC_attackButton = Ataca al objetivo seleccionado. Si no hay nada seleccionado, se selecciona y ataca al monstruo más cercano.
+
+TIP_pickupButton = Recoger el ítem más cercano
+DESC_pickupButton = Camina hasta el ítem del suelo más cercano y lo recoge.
+
+TIP_talktonpcButton = Hablar con el NPC más cercano
+DESC_talktonpcButton = Inicia una conversación con el NPC más cercano (a 3 celdas).
+
+TIP_f10Button = Cambiar el tamaño del chat (F10)
+DESC_f10Button = Cambia el tamaño del cuadro de chat, igual que pulsar F10 en el teclado.
+
+TIP_f12Button = Cambiar el tamaño de la barra de habilidades (F12)
+DESC_f12Button = Cambia el tamaño de la barra de habilidades, igual que pulsar F12 en el teclado.
+
+TIP_insButton = Sentarse / levantarse
+DESC_insButton = Hace que tu personaje se siente o se levante (el comando /sit).
+
+TIP_toggleStatusButton = Mostrar / ocultar iconos de estado
+DESC_toggleStatusButton = Muestra u oculta los iconos de efectos de estado en el lado derecho de la pantalla.
+
+TIP_toggleTargetingButton = Selección táctil de objetivos
+DESC_toggleTargetingButton = Activa o desactiva la selección táctil. Cuando está activa, tocar un monstruo o un jugador solo lo selecciona en lugar de atacarlo, y los botones de seguir y auto-objetivo se habilitan.
+
+TIP_toggleAutoFollowButton = Seguir automáticamente al objetivo
+DESC_toggleAutoFollowButton = Hace que tu personaje siga al objetivo seleccionado hasta que lo desactives. Requiere la selección táctil.
+
+TIP_toggleAutoTargetButton = Auto-objetivo al monstruo más cercano
+DESC_toggleAutoTargetButton = Mantiene seleccionando automáticamente el monstruo más cercano para que el botón de ataque siempre tenga objetivo. Requiere la selección táctil.

@@ -4,29 +4,29 @@
 4004#Diestro#
 4005#Santificado#
 4006#Afortunado#
-4007#VigÃ­a#
+4007#Vigía#
 4008#Extra#
 4009#Ligero#
 4010#Sabio#
-4011#DinÃ¡mico#
-4012#RÃ­gido#
+4011#Dinámico#
+4012#Rígido#
 4013#Excelente#
-4014#del CampeÃ³n#
-4015#RÃ¡pido#
+4014#del Campeón#
+4015#Rápido#
 4016#Veloz#
 4017#Aturdidor#
 4018#Astuto#
-4019#MÃ¡rtir#
+4019#Mártir#
 4020#Destellante#
-4021#HÃ¡bil#
+4021#Hábil#
 4022#de Espora#
 4023#del Desierto#
 4024#Somnoliento#
 4025#Afilado#
 4026#Sagaz#
-4027#AtlÃ©tico#
+4027#Atlético#
 4028#Doble Fuerza#
-4029#GlotÃ³n#
+4029#Glotón#
 4030#Ventoso#
 4031#de Marte#
 4032#de Atenea#
@@ -36,14 +36,14 @@
 4036#Robusto#
 4037#Intocable#
 4038#Saludable#
-4039#de AristÃ³teles#
+4039#de Aristóteles#
 4040#de Teletransporte#
 4041#del Arenero#
-4042#de HÃ©rcules#
+4042#de Hércules#
 4043#Huracanado#
 4044#Oculto#
 4045#Pesado#
-4046#del ClÃ©rigo#
+4046#del Clérigo#
 4047#Fantasmal#
 4048#Venenoso#
 4049#Inflamable#
@@ -75,7 +75,7 @@
 4075#Hypnotic#
 4076#Cursing#
 4077#Under a Cast#
-4078#de RecuperaciÃ³n#
+4078#de Recuperación#
 4079#de Muscle#
 4080#Fisher#
 4081#Glorious#
@@ -89,7 +89,7 @@
 4089#Aqua#
 4090#Amulet#
 4091#de Contraataque#
-4092#Ã“seo#
+4092#Óseo#
 4093#Cure#
 4094#Kingbird#
 4095#de Genie#
@@ -121,12 +121,12 @@
 4121#Perfect#
 4122#Adurate#
 4123#de Bearer#
-4124#PÃ©treo#
+4124#Pétreo#
 4125#Aqua#
 4126#Titan#
 4127#Insomne#
 4128#de Deaf#
-4129#del PÃ­caro#
+4129#del Pícaro#
 4130#Divino#
 4131#Hasty#
 4132#de Gemstone#
@@ -139,10 +139,10 @@
 4139#de Moonlight#
 4140#Liberation#
 4141#Mortal#
-4142#del FrenesÃ­#
+4142#del Frenesí#
 4143#Neutral#
 4144#de la Eternidad#
-4145#del ParlanchÃ­n#
+4145#del Parlanchín#
 4146#Reflect#
 4147#Scythelike#
 4148#de Kirin#
@@ -182,7 +182,7 @@
 4182#Demonic Soul Gain#
 4183#Werewolf#
 4184#Break#
-4185#de la SabidurÃ­a#
+4185#de la Sabiduría#
 4186#Strenuous#
 4187#de Gloomy Night#
 4188#de Red Stone#
@@ -195,7 +195,7 @@
 4195#de Blue Stone#
 4196#de Jellopy#
 4197#High Luck#
-4198#de VisiÃ³n Verdadera#
+4198#de Visión Verdadera#
 4199#de Dash#
 4200#de Resist Spell Power#
 4201#Binding Stun#
@@ -233,7 +233,7 @@
 4233#Petit Luck#
 4234#de Stainless Mirror#
 4235#de Fallen Angel#
-4236#de ProtecciÃ³n#
+4236#de Protección#
 4237#de God's Wrath#
 4238#de Double Power#
 4239#de Veteran Hunter#
@@ -300,7 +300,7 @@
 4300#de Poison Charge#
 4301#de Bleeding#
 4302#de High Risk#
-4303#MÃ­stico#
+4303#Místico#
 4304#de Shield Master#
 4305#Explosive#
 4306#de King#
@@ -450,7 +450,7 @@
 4449#de Hallowed#
 4450#Surplus#
 4451#de Excess#
-4452#MÃ¡gico#
+4452#Mágico#
 4453#Violent#
 
 4454#Sorry#
@@ -462,7 +462,7 @@
 4457#Psychic#
 4458#de Illusion#
 4459#de Fast#
-4460#de CuraciÃ³n#
+4460#de Curación#
 4461#de Sharp#
 4462#Prime Defense#
 4463#Prime Attack#
@@ -481,7 +481,7 @@
 4476#Entomic#
 4477#Demonic#
 
-//--- 2011 / 11 / 18 Ã„Â«ÂµÃ¥ 30ÃÂ¾ ÃƒÃŸÂ°Â¡
+//--- 2011 / 11 / 18 Ä«µå 30Á¾ Ãß°¡
 4505#de Mad Witch#
 4506#de Archer#
 4507#Scaraba#
@@ -490,7 +490,7 @@
 4510#Black-out#
 4511#Silentium#
 4512#de Acolyte#
-4513#del LadrÃ³n#
+4513#del Ladrón#
 4514#Exorcism#
 4515#Flora#
 4516#de Stone Wall#
@@ -517,23 +517,23 @@
 
 4546#Screwed#
 
-//--- 2012Â³Ã¢10Â¿Ã¹_Â¿ÂµÂ¿ÃµÃ€Ã‡ÃˆÃ§Ã€Ã»
+//--- 2012³â10¿ù_¿µ¿õÀÇÈçÀû
 4556#Power Ward#
 4557#de Spell Power#
 
-//--- 2013 / 02 / 15 ÂºÃ€Ã€ÃÂµÃˆÂ´Ã™Ã…Â©Â·ÃÂµÃ¥ ÃƒÃŸÂ°Â¡
+//--- 2013 / 02 / 15 ºÀÀÎµÈ´ÙÅ©·Îµå Ãß°¡
 4488#de Half Doom#
 
-// 2013Â³Ã¢ 2Â¿Ã¹_Â¸Â¶Â½Ã…Ã€Ã¼Â¸ÃÂ¸Ã°Â¸Â®Â¾Ã³
+// 2013³â 2¿ù_¸¶½ÅÀü¸Ş¸ğ¸®¾ó
 4559#Blitz#
 
-// 2013Â³Ã¢_4Â¿Ã¹_ÃˆÂ®Â·Ã¼Ã‡Ã¼Ã„Â³Â½Â¬
+// 2013³â_4¿ù_È®·üÇüÄ³½¬
 4497#Half Storm-Bringer#
 
-//--- 2013 / 05 / 22 ÂºÃ€Ã€ÃÂµÃˆÂºÂ£Â¸Â£ÃÂ¦ÂºÃªÂºÃª ÃƒÃŸÂ°Â¡
+//--- 2013 / 05 / 22 ºÀÀÎµÈº£¸£Á¦ºêºê Ãß°¡
 4486#de Half Bigmouth#
 
-//--- 2013Â³Ã¢6Â¿Ã¹_Â½Ã…Â±Ã”Ã„Â«ÂµÃ¥
+//--- 2013³â6¿ù_½Å±ÔÄ«µå
 4560#de Bragi#
 4561#de Magic Protection#
 4562#de Infiltration#
@@ -583,48 +583,48 @@
 4606#de Revenge#
 4607#Librarian#
 
-//--- 2013Â³Ã¢6Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÃ…Â°Â¿Â¤-D-01
+//--- 2013³â6¿ù_ºÀÀÎµÈÅ°¿¤-D-01
 4480#de Half Reload#
 
-//--- 2013Â³Ã¢7Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÂ±Ã›Â·Ã«Â¾Ã°Â´ÃµÂ³ÂªÃ€ÃŒÃ†Â®
+//--- 2013³â7¿ù_ºÀÀÎµÈ±Û·ë¾ğ´õ³ªÀÌÆ®
 4485#Half Abyss#
 
 4610#de Bless#
 
-//--- 2013Â³Ã¢9Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÃ…Â¸Â¶Ã´Ã‡Ã‘Â´Ã«Â½Ã…Â°Ã¼
+//--- 2013³â9¿ù_ºÀÀÎµÈÅ¸¶ôÇÑ´ë½Å°ü
 4539#Half Arrogant#
 
-//--- 2013Â³Ã¢10Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÃ€ÃŒÃ‡ÃÂ¸Â®Ã†Â®
+//--- 2013³â10¿ù_ºÀÀÎµÈÀÌÇÁ¸®Æ®
 4487#Half Inferno#
 
 4608#de Knight#
 4609#de Knight#
 
-//--- 2013Â³Ã¢12Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÃ…ÃÃ†Â²ÃÂ¦Â³Ã—Â·Â²
+//--- 2013³â12¿ù_ºÀÀÎµÈÅÍÆ²Á¦³×·²
 4494#Half Explosive#
 
-//--- 2014Â³Ã¢1Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÂ¹Ã©Â¼Ã’ÃÃ¸
+//--- 2014³â1¿ù_ºÀÀÎµÈ¹é¼ÒÁø
 4538#Half Life Stream#
 
-//--- 2014Â³Ã¢2Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÃ†Ã„Â¶Ã³Â¿Ã€
+//--- 2014³â2¿ù_ºÀÀÎµÈÆÄ¶ó¿À
 4489#de Half Kirin#
 
-//--- 2014Â³Ã¢3Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÂ¿Ã¹Â¾ÃŸÃˆÂ­
+//--- 2014³â3¿ù_ºÀÀÎµÈ¿ù¾ßÈ­
 4490#Half Hasty#
 
-//--- 2014Â³Ã¢4Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÂºÂ¸Â½ÂºÃ€ÃŒÂ±Ã—Â´ÃÃÂª
+//--- 2014³â4¿ù_ºÀÀÎµÈº¸½ºÀÌ±×´ÏÁª
 4482#de Half Regeneration#
 
-//--- 2014Â³Ã¢5Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÂºÂ£Â½ÂºÃ†Ã›
+//--- 2014³â5¿ù_ºÀÀÎµÈº£½ºÆÛ
 4503#de Half Vision#
 
-//--- 2014Â³Ã¢6Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÂµÃ¥Â¶Ã³Ã…Â¥Â¶Ã³
+//--- 2014³â6¿ù_ºÀÀÎµÈµå¶óÅ¥¶ó
 4483#Half Spiritual#
 
-//--- 2014Â³Ã¢7Â¿Ã¹_ÂºÃ€Ã€ÃÂµÃˆÂ½ÂºÂ³ÂªÃ€ÃŒÃ†Ã›
+//--- 2014³â7¿ù_ºÀÀÎµÈ½º³ªÀÌÆÛ
 4491#de Half Squeezing#
 
-//--- 2014Â³Ã¢8Â¿Ã¹_Â½ÃƒÂ°Ã¨Ã…Â¾Â³ÂªÃ€ÃŒÃ†Â®Â¸ÃÂ¾Ã®Â´Ã¸Ã€Ã¼
+//--- 2014³â8¿ù_½Ã°èÅ¾³ªÀÌÆ®¸Ş¾î´øÀü
 4625#Sage#
 4626#Echo#
 4627#Vibration#
@@ -634,7 +634,7 @@
 4631#Volant#
 4632#Current#
 
-// 2015Â³Ã¢ 1Â¿Ã¹ 16Ã€Ã Â¿Â¡Ã‡Ã‡Â¼Ã’ÂµÃ¥ 16.1
+// 2015³â 1¿ù 16ÀÏ ¿¡ÇÇ¼Òµå 16.1
 4446#Sharpen#
 4633#Queen Bird#
 4634#Fatal#
@@ -646,7 +646,7 @@
 4640#de la Inteligencia#
 4641#de Soul Gathering#
 
-// 2015 06 Â¹Â«Ã‡Ã‘Ã€Ã‡Â´Ã¸Ã€Ã¼
+// 2015 06 ¹«ÇÑÀÇ´øÀü
 4642#Side Step#
 4643#Strike#
 4644#Magic Shield#
@@ -658,7 +658,7 @@
 4650#Magic Stun#
 4651#Monarch#
 
-// 2015 08  Ã‡Ã‡Â¶Ã³Â³ÂªÂ¸Ã
+// 2015 08  ÇÇ¶ó³ª¸Ş
 4652#Punishment#
 4653#Immortal Beast#
 4654#Tomb Raider#
@@ -668,7 +668,7 @@
 4658#de Magic#
 
 
-//2015 Â½Ã…ÃÂ¾ÃÂ·
+//2015 ½ÅÁ¾Á·
 4659#Adventurer#
 4660#de Will#
 4661#de la Fuerza#
@@ -682,7 +682,7 @@
 4669#Gust#
 4670#Blaze#
 
-// 2015Â³Ã¢ ÃˆÂ£Â·Â¯ Ã€Ã¥Â³Â­Â°Â¨ Â´Ã¸Ã€Ã¼ Ã„Â«ÂµÃ¥
+// 2015³â È£·¯ Àå³­°¨ ´øÀü Ä«µå
 31016#de Sorrow#
 31017#de Hatred#
 31018#Frustration#
@@ -692,7 +692,7 @@
 31022#de Despair#
 31023#Maniac#
 
-// 2015Â³Ã¢ 12Â¿Ã¹ Ã€Ã¼Â»Ã§Ã€ÃšÃ€Ã‡ Â¹Â«Â´Ã½ Ã„Â«ÂµÃ¥ ÃƒÃŸÂ°Â¡
+// 2015³â 12¿ù Àü»çÀÚÀÇ ¹«´ı Ä«µå Ãß°¡
 4671#de Sorcerer#
 4672#de Sura#
 4673#de Minstrel#
@@ -724,7 +724,7 @@
 31025#Mortal#
 31026#Auto Magic#
 
-// EP 15 Ã„Â«ÂµÃ¥
+// EP 15 Ä«µå
 27012#Active Protection#
 27013#Vulcan#
 27014#Mirage#
@@ -738,17 +738,17 @@
 4698#Boomerang#
 4699#Dual Cannon#
 
-// 2016Â±ÃÂ¿Ã¤Ã€ÃÂ´Ã¸Ã€Ã¼
+// 2016±İ¿äÀÏ´øÀü
 27025#Noble#
 
-// Â¿Â¡Ã‡Ã‡Â¼Ã’ÂµÃ¥14.3 Ã‡ÃŠÂµÃ¥Â¸Ã³Â½ÂºÃ…Ã Ã„Â«ÂµÃ¥
+// ¿¡ÇÇ¼Òµå14.3 ÇÊµå¸ó½ºÅÍ Ä«µå
 27026#Blazing#
 27027#Flaming#
 27028#Searing#
 27029#Flame Eater#
 27030#Firebug#
 
-// 2016Â³Ã¢ 12Â¿Ã¹ Ã€ÃÂ·Ã§Ã€Ã¼ Â¿Ã€ÂºÃª Â¹Â®Â¶Ã³Ã€ÃŒÃ†Â®
+// 2016³â 12¿ù ÀÏ·çÀü ¿Àºê ¹®¶óÀÌÆ®
 27080#Vibration#
 27081#Moonlight#
 27082#Foxtail#
@@ -759,20 +759,20 @@
 27087#Truth#
 27088#de Agitation#
 
-// 2017Â³Ã¢ 1Â¿Ã¹ Ã€ÃÂ·Ã§Ã€Ã¼ Â¿Ã€ÂºÃª Â¹Ã¬Ã†Ã„Ã€ÃŒÂ¾Ã®
+// 2017³â 1¿ù ÀÏ·çÀü ¿Àºê ¹ìÆÄÀÌ¾î
 27101#Sorcery#
 27102#Fire Immune#
 27103#Vigor#
 27104#Compassion#
 27105#Sorrow#
 
-// 2017Â³Ã¢ 2Â¿Ã¹ Ã€ÃÂ·Ã§Ã€Ã¼ Â¿Ã€ÂºÃª Ã‡ÃÂ·ÃÃÃ°
-27110#RÃ¡pido#
+// 2017³â 2¿ù ÀÏ·çÀü ¿Àºê ÇÁ·ÎÁğ
+27110#Rápido#
 27111#Refreshing#
 27112#Sturdy#
 27113#Frozen#
 
-// 2017Â³Ã¢ 4Â¿Ã¹ ÂºÃªÂ¶Ã³ÃÃºÂ¸Â®Â½Âº Ã„Â«ÂµÃ¥
+// 2017³â 4¿ù ºê¶óÁú¸®½º Ä«µå
 27120#Recovery#
 27121#Serrasalmus#
 27122#Tidal wave#
@@ -781,7 +781,7 @@
 27125#Aqua Benedict#
 27126#Python#
 
-//2017Â³Ã¢ 4Â¿Ã¹ Ã€ÃÂ·Ã§Ã€Ã¼ Â¿Ã€ÂºÃª Ã…ÃÃ†Â²Â¾Ã†Ã€ÃÂ·Â£ÂµÃ¥
+//2017³â 4¿ù ÀÏ·çÀü ¿Àºê ÅÍÆ²¾ÆÀÏ·£µå
 27114#Solid#
 27115#Sabio#
 27116#Dual Critical#
@@ -789,7 +789,7 @@
 27118#de Pierce#
 27119#de Turtle Shell#
 
-//Episode 16.2 Â½Ã…Â±Ã” Ã„Â«ÂµÃ¥ ÃƒÃŸÂ°Â¡
+//Episode 16.2 ½Å±Ô Ä«µå Ãß°¡
 27147#Intensive#
 27148#Deft#
 27149#Sniper#
@@ -797,13 +797,13 @@
 27151#de Freezing#
 27152#Prompt#
 
-//2017Â³Ã¢ 7Â¿Ã¹ Â¾Ã‡Â¸Ã¹Ã€Ã‡ ÃÃ¶Ã…ÃÂ¹Ã·
+//2017³â 7¿ù ¾Ç¸ùÀÇ ÁöÅÍ¹÷
 27106#de Musician#
 27107#Dancing#
 27108#Singing#
 27109#de Jitterbug#
 
-//2017 9Â¿Ã¹ Â¸Ã°Â½ÂºÃ„ÃšÂºÃ±Â¾Ã† Ã„Â«ÂµÃ¥
+//2017 9¿ù ¸ğ½ºÄÚºñ¾Æ Ä«µå
 27157#de Aqua Wood#
 27158#de Windiness#
 27159#de Demon Hunter#
@@ -811,7 +811,7 @@
 27161#Land Blast#
 27162#Soul Steal#
 
-//2017Â³Ã¢ 9Â¿Ã¹ Â¿ÂµÂ¿ÃµÃ€Ã‡ÃˆÃ§Ã€Ã»p1Ã„Â«ÂµÃ¥
+//2017³â 9¿ù ¿µ¿õÀÇÈçÀûp1Ä«µå
 27163#de Abranchia#
 27164#Koya#
 27165#de Albion#
@@ -820,7 +820,7 @@
 27168#de Padre#
 27169#Infantry#
 
-//11Â¿Ã¹ Â»Ã§Â³Ã‰Â´Ã«ÃˆÂ¸
+//11¿ù »ç³É´ëÈ¸
 27196#Heine#
 27197#Lugenburg#
 27198#Wigner#
@@ -838,13 +838,13 @@
 300129#de Poe#
 300130#de Richard#
 
-//2018Â³Ã¢ 1Â¿Ã¹ Â¿ÂµÂ¿ÃµÃ€Ã‡ÃˆÃ§Ã€Ã»p2,3Ã„Â«ÂµÃ¥
+//2018³â 1¿ù ¿µ¿õÀÇÈçÀûp2,3Ä«µå
 27181#Bane Band#
 27182#Hammer Shooter#
 27183#Onslaught#
 27184#Salvation#
 
-//Â½Ã…Â±Ã”Ã„Â«ÂµÃ¥28ÃÂ¾
+//½Å±ÔÄ«µå28Á¾
 27170#de Dust#
 27171#de Sunset#
 27172#Sharp Sword#
@@ -874,14 +874,14 @@
 27264#de Evil Shadow#
 27265#Evil Fanatic#
 
-//Ã€ÃÂ·Ã§Ã€Ã¼ Â¿Ã€ÂºÃª Ã…Ã—ÂµÃ°ÂºÂ£Â¾Ã®
+//ÀÏ·çÀü ¿Àºê Å×µğº£¾î
 27286#Romping#
 27287#de Liniment#
 27288#de Worker#
 27289#Proper#
 27290#de Obsidian#
 
-//Â´Ã«Â¸Â¸ ÂºÃ€Ã€ÃÂµÃˆ ÂºÂ¸Â½ÂºÃ„Â«ÂµÃ¥
+//´ë¸¸ ºÀÀÎµÈ º¸½ºÄ«µå
 27209#Half Scaraba#
 27210#Half Penetration#
 27211#Half Scythelike#
@@ -910,7 +910,7 @@
 4504#de Half Bearer#
 4481#Half Jack Frost#
 
-//Ã€ÃÂ·Ã§Ã€Ã¼ Â¿Ã€ÂºÃª Â·Ã§Â¾ÃˆÂ´Ã™
+//ÀÏ·çÀü ¿Àºê ·ç¾È´Ù
 27291#Full Charging#
 27292#de Stalagtic#
 27293#Circular#
@@ -920,7 +920,7 @@
 27297#Wootan Fist#
 27298#de Big Shield#
 
-//2018 Â¿Â¡Ã‡Ã‡ 17.1 Ã„Â«ÂµÃ¥
+//2018 ¿¡ÇÇ 17.1 Ä«µå
 27304#Saludable#
 27305#Hell Inferno#
 27306#Fire Dance#
@@ -939,7 +939,7 @@
 27319#Poison Break#
 27320#Enhanced Fire#
 
-//Â¿Â¡Ã‡Ã‡Â¼Ã’ÂµÃ¥14.3 Â¸Ã°Â·ÃÃ…Â©Ã„Â«ÂµÃ¥
+//¿¡ÇÇ¼Òµå14.3 ¸ğ·ÎÅ©Ä«µå
 27321#de Demon#
 27322#de Dominator#
 27323#de Coordinator#
@@ -949,10 +949,10 @@
 27327#Reaper Ankou#
 27328#de Corrupted Life#
 
-//Â¿Â¡Â´Ã™ Â±Ã›Â·Â¡Â½ÂºÃ†Â®
+//¿¡´Ù ±Û·¡½ºÆ®
 27329#de Schmidt#
 
-//Ã€ÃÂ·Ã§Ã€Ã¼Â¿Ã€ÂºÃªÂ¶Ã³ÂºÃ±Â¸Â°Â½Âº Ã„Â«ÂµÃ¥
+//ÀÏ·çÀü¿Àºê¶óºñ¸°½º Ä«µå
 27338#de Double Power#
 27339#Fantasmal#
 27340#de Angry Killer#
@@ -964,7 +964,7 @@
 27343#Holy Spell#
 27337#Hunting Breeze#
 
-//Â¾Ã®ÂºÃ±Â½Âº Â¹Ã— Â³Ã«Â±Ã— 3ÃƒÃ¾
+//¾îºñ½º ¹× ³ë±× 3Ãş
 27346#de Howling#
 27347#Crack#
 27348#No wear#
@@ -983,7 +983,7 @@
 27361#Heavy Blade#
 27362#de Queen Spider#
 27363#Doom#
-//Â°Ã­Â¼Âº ÂµÂµÃ€Ã¼Â¸Ã°ÂµÃ¥
+//°í¼º µµÀü¸ğµå
 27381#de Fallen Angel#
 27382#de Creep#
 27383#de Relax#
@@ -1037,7 +1037,7 @@
 300094#Mad Lethal#
 300095#de Keen#
 300096#Harmony#
-300097#del LadrÃ³n#
+300097#del Ladrón#
 300098#Ninja#
 300099#de Minor Guard#
 300100#de Major Guard#
@@ -1595,7 +1595,7 @@
 27247#Fortissimo#
 27248#Phantom#
 
-27301#del FrenesÃ­#
+27301#del Frenesí#
 
 29230#Tainy Ale#
 

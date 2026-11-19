@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.21",
+  "version": "1.2.22",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -56,8 +56,8 @@
     },
     {
       "path": "data/msgstringtable.txt",
-      "sha256": "a3907efb5efbcb05b3b3243380e8cc8c5db9e542ff35c190c1a34da2727b247d",
-      "size": 140084,
+      "sha256": "cd917d9dcd1ee5035b529cc86459eb8c075d06f41823145c594ee94982f31db8",
+      "size": 139239,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/msgstringtable.txt"
     },
     {
@@ -74,9 +74,27 @@
     },
     {
       "path": "data/cardprefixnametable.txt",
-      "sha256": "31f2a83db3471afd32bbb69d33f7ab98d48d71500b5bfc74bb99b3675c8440f5",
-      "size": 29866,
+      "sha256": "3ee993bb2270d6138abd39675c0d4fedd78061d704b95cd5a88c59c7a33a0cbf",
+      "size": 29024,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/cardprefixnametable.txt"
+    },
+    {
+      "path": "data/luafiles514/lua files/skillinfoz/jobinheritlist.lub",
+      "sha256": "9ede9ddfe20ba6c4cfa3550a6a5f666c8693c1b7a74c8e28b0fab8b8e9885741",
+      "size": 22361,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/jobinheritlist.lub"
+    },
+    {
+      "path": "data/luafiles514/lua files/skillinfoz/skillinfo_f.lub",
+      "sha256": "33e5b979b2a402063ab8b2e89c7564dbeac8a409027fb28d1e406967b42b2353",
+      "size": 10241,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skillinfo_f.lub"
+    },
+    {
+      "path": "data/luafiles514/lua files/skillinfoz/skilltreeview.lub",
+      "sha256": "ebf7c3e7c305c98530acd7580a37ba549be4e74116ff947098fdfb2540cc3cbc",
+      "size": 81477,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/luafiles514/lua%20files/skillinfoz/skilltreeview.lub"
     },
     {
       "path": "System/itemInfo_EN.lua",
