@@ -1,6 +1,6 @@
 {
   "gameId": "ro",
-  "version": "1.2.19",
+  "version": "1.2.20",
   "serverHost": "ro.akamestudio.com",
   "serverPort": 6900,
   "miniPatchChunks": [
@@ -152,8 +152,8 @@
     },
     {
       "path": "System/itemInfo_Sak.lub",
-      "sha256": "1f56190e9469bef37a651a60727bbbafd16cb38fc792eb8206b1a89035ffcf3c",
-      "size": 8814479,
+      "sha256": "29027e6b52d0b4a252c8c12c2453bb2e55a13f091aee7103f8e010d7ec7ffc93",
+      "size": 8569311,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/itemInfo_Sak.lub"
     },
     {
@@ -191,6 +191,18 @@
       "sha256": "d984c7e3d90a45284d97f261645c942a3bf4255d9b0746d65d5dc0d73c39a9a7",
       "size": 25655,
       "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/System/RecommendedQuestInfoList_Sakray.lub"
+    },
+    {
+      "path": "data/texture/scr_logo.bmp",
+      "sha256": "6efbd993525e58369f0a35c0296fcdbe179c8881ff27fa9197f769976f892027",
+      "size": 257926,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/texture/scr_logo.bmp"
+    },
+    {
+      "path": "data/texture/scr_logo_rathena.bmp",
+      "sha256": "6efbd993525e58369f0a35c0296fcdbe179c8881ff27fa9197f769976f892027",
+      "size": 257926,
+      "url": "https://raw.githubusercontent.com/faqperez/AkameStudio/ro-patches/data/texture/scr_logo_rathena.bmp"
     },
     {
       "path": "System/tipbox.lub",
