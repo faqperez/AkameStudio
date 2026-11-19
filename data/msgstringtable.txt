@@ -1,60 +1,60 @@
-øEst·s de acuerdo?#
+¬øEst√°s de acuerdo?#
 Error al conectar con el Servidor.#
 Desconectado del Servidor.#
 Desconectado del Servidor.#
 Servidor Cerrado.#
-Alguien ha iniciado sesiÛn con esta ID.#
-ID de Usuario no registrada. Aseg˙rese de tener una cuenta registrada y de haber ingresado correctamente la ID de Usuario.#
-ID de Usuario o contraseÒa incorrecta. IntÈntelo de nuevo.#
+Alguien ha iniciado sesi√≥n con esta ID.#
+ID de Usuario no registrada. Aseg√∫rese de tener una cuenta registrada y de haber ingresado correctamente la ID de Usuario.#
+ID de Usuario o contrase√±a incorrecta. Int√©ntelo de nuevo.#
 Esta ID ha expirado.#
 Rechazado del Servidor.#
 Ya existe este nombre.#
-No puedes crear m·s personajes.#
+No puedes crear m√°s personajes.#
 No puedes borrar este personaje.#
 Por favor escriba un titulo para la sala de chat.#
 Idioma no detectado.#
-Por favor escribe tu contraseÒa.#
-Por favor escribe tu contraseÒa. La contraseÒa ha de tener al menos 4 caracteres de longitud.#
-øEst·s seguro que deseas salir?#
-La contraseÒa debe tener por lo menos 4 caracteres de longitud. Por favor, intentelo de nuevo.#
-øEst·s seguro que quieres borrar este personaje?#
+Por favor escribe tu contrase√±a.#
+Por favor escribe tu contrase√±a. La contrase√±a ha de tener al menos 4 caracteres de longitud.#
+¬øEst√°s seguro que deseas salir?#
+La contrase√±a debe tener por lo menos 4 caracteres de longitud. Por favor, intentelo de nuevo.#
+¬øEst√°s seguro que quieres borrar este personaje?#
 Idioma no detectado.#
 El nombre de tu personaje debe tener al menos 4 caracteres de longitud.#
 Lista de Comandos: /h | /help#
 Efectos On#
 Efectos Off#
 Volumen de Sonido#
-Volumen de M˙sica#
+Volumen de M√∫sica#
 Efectos de sonido On#
 Efectos de sonido Off#
 Salto de Frame On#
 Salto de Frame Off#
-M˙sica On#
-M˙sica Off#
+M√∫sica On#
+M√∫sica Off#
 /h or /help: Muestra la lista de Ayuda#
-/w or /who or /player or /who : Muestra el n˙mero de jugadores conectados#
-/music: Activa o Desactiva la M˙sica#
+/w or /who or /player or /who : Muestra el n√∫mero de jugadores conectados#
+/music: Activa o Desactiva la M√∫sica#
 /sound: Activa o Desactiva los Efectos de Sonido#
 /effect: Activa o Desactiva los Efectos#
-/where: Muestra tu UbicaciÛn Actual#
+/where: Muestra tu Ubicaci√≥n Actual#
 /skip: Activa o Desactiva el Salto de Frame#
 /v (0~127): Controla el volumen de los Efectos de Sonido#
-/bv (0~127): Controla el volumen de la M˙sica#
+/bv (0~127): Controla el volumen de la M√∫sica#
 /ex (Nombre del Jugador): Bloquea susurros de ese jugador#
 /ex: Ver lista de jugadores bloqueados#
 /in (Nombre del Jugador): Acepta susurros de ese jugador#
 /inall: Permite susurros de cualquier jugador#
 /exall: Bloquea susurros de todos los jugadores#
-Haga clic derecho sobre un personaje y seleccione [ Registrar Amigo ] para aÒadirlo a su lista de amigos.#
-F12: Abre la barra de Acceso R·pido, donde puedes colocar Consumibles, Equipamiento y Skills para acceder r·pidamente a ellas.#
-No se puede escribir la misma palabra o frase, m·s de 3 veces.#
-El mensaje no se enviÛ por contener lenguaje inapropiado.#
+Haga clic derecho sobre un personaje y seleccione [ Registrar Amigo ] para a√±adirlo a su lista de amigos.#
+F12: Abre la barra de Acceso R√°pido, donde puedes colocar Consumibles, Equipamiento y Skills para acceder r√°pidamente a ellas.#
+No se puede escribir la misma palabra o frase, m√°s de 3 veces.#
+El mensaje no se envi√≥ por contener lenguaje inapropiado.#
 No puede superponer items en la ventana.#
-No puedes cargar m·s items, porque estas con sobrepeso.#
+No puedes cargar m√°s items, porque estas con sobrepeso.#
 No puedes recoger ese items.#
 El negocio se ha completado exitosamente.#
 No tienes suficiente zeny.#
-Has superado el lÌmite de peso.#
+Has superado el l√≠mite de peso.#
 El negocio ha fracasado.#
 Has bloqueado los susurros para todo el mundo.#
 Has fallado al bloquear todos los susurros.#
@@ -63,15 +63,15 @@ Has fallado al activar todos los susurros.#
 No tienes una lista de bloqueos.#
 [ Lista de Jugadores Bloqueados ]#
 El chat se ha creado exitosamente.#
-LÌmite del chat superado.#
+L√≠mite del chat superado.#
 Ya existe este chat.#
 El chat esta lleno.#
 Has sido expulsado de este chat.#
 El negocio ha sido cancelado.#
-Est·s demasiado lejos para negociar con ese jugador.#
+Est√°s demasiado lejos para negociar con ese jugador.#
 Ese personaje no esta conectado o no existe.#
-Est· negociando con otra persona.#
-No puedes negociar con Èl, est· con sobrepeso.#
+Est√° negociando con otra persona.#
+No puedes negociar con √©l, est√° con sobrepeso.#
 El negocio ha sido cancelado.#
 El negocio se ha completado exitosamente.#
 El negocio ha fracasado.#
@@ -81,32 +81,32 @@ El personaje ya esta en otro party.#
 El personaje ya se ha unido a otro party.#
 Solicitud de party rechazada.#
 Solicitud de party aceptada.#
-El party est· lleno.#
+El party est√° lleno.#
 Has dejado el party.#
 Enviar a todos#
 Enviar al party#
-Solicitar transacciÛn#
-Enviar invitaciÛn de party#
+Solicitar transacci√≥n#
+Enviar invitaci√≥n de party#
 Priv:#
-P˙bl:#
+P√∫bl:#
 Pulse ''Reiniciar'' para volver al punto de Guardado o pulse ''Salir'' para elegir otro personaje.#
 Seleccione un tipo de oferta.#
  Solicitar un trato#
- Has sido invitado a Èste party. øQuieres unirte?#
-Comando Inv·lido#
+ Has sido invitado a √©ste party. ¬øQuieres unirte?#
+Comando Inv√°lido#
 Dejar party#
 Expulsar del party#
 Enviar Mensaje#
 Chat 1:1#
-InformaciÛn#
-ConfiguraciÛn del party#
+Informaci√≥n#
+Configuraci√≥n del party#
 Amigos#
 Grupo (Party)#
 Equipamiento#
 Estado (Status)#
 Inventario#
 /organize ''Nombre del Party'' crea un party. Usa /leave para dejar el party.#
-Si eres lÌder del party, puedes invitar a alguien haciendo clic derecho sobre el personaje.#
+Si eres l√≠der del party, puedes invitar a alguien haciendo clic derecho sobre el personaje.#
 Recuperar#
 Ataque#
 Soporte#
@@ -118,16 +118,16 @@ Tierra#
 Fuego#
 Viento#
 Evite comprar 2 objetos del mismo tipo a la vez.#
-Por favor, cambia tu resoluciÛn a 16-bit cuando juegues RO en modo ventana.#
+Por favor, cambia tu resoluci√≥n a 16-bit cuando juegues RO en modo ventana.#
 Por favor espera...#
 Por favor espera...#
 Por favor espera...#
 Por favor espera...#
 Crear un chat#
-ConfiguraciÛn del chat#
+Configuraci√≥n del chat#
 Expulsar del chat#
 Dar privilegios#
-Ver informaciÛn#
+Ver informaci√≥n#
 Sala#
 Personas#
 /sit: Te sientas. Si estas sentado, te levanta.#
@@ -139,11 +139,11 @@ Personas#
 /leave: Dejas ese party#
 /expel ''Nombre del Personaje'' Echa al personaje del party#
 [Alt] + [End]: Activa o desactiva la barra de HP/SP#
-[Alt] + [Home]: Activa o desactiva la seÒal de tierra del cursor#
-[Insert]: Te levantas o te sientas. (Acceso r·pido entre /sit y /stand)#
-°Felicidades! Eres un MVP! Has conseguido #
+[Alt] + [Home]: Activa o desactiva la se√±al de tierra del cursor#
+[Insert]: Te levantas o te sientas. (Acceso r√°pido entre /sit y /stand)#
+¬°Felicidades! Eres un MVP! Has conseguido #
 !!#
-°Felicidades! Eres un MVP! Obtienes puntos de EXP #
+¬°Felicidades! Eres un MVP! Obtienes puntos de EXP #
 !!#
 Eres un MVP, pero no puedes conseguir el premio porque tienes sobrepeso.#
 No existe ese personaje o esta desconectado.#
@@ -153,29 +153,29 @@ Usuario Desconectado/Muerto.#
 No se puede expulsar.#
 Has conseguido %s (%d unid).#
 [Alt] + [=]: Repara el error de intervalo entre letras.#
-[F10]: Alternar el tamaÒo de la ventana de chat; [Alt] + [F10]: Activar o desactivar la ventana de chat#
-Para Susurrar: Escribe el nombre del Personaje en la parte izquierda de la ventana de Chat, y escribe el mensaje en la de la derecha. La tecla Tab te ayudar· a cambiar de celda.#
+[F10]: Alternar el tama√±o de la ventana de chat; [Alt] + [F10]: Activar o desactivar la ventana de chat#
+Para Susurrar: Escribe el nombre del Personaje en la parte izquierda de la ventana de Chat, y escribe el mensaje en la de la derecha. La tecla Tab te ayudar√° a cambiar de celda.#
 /!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/??,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emoticonos correspondientes a Alt + (1~9) Ctrl + (-=\\)#
-Para hablar al Party: AÒade '%' delante de cada mensaje.(Ejemplo: \%Hola\)#
-No has aprendido las Skills B·sicas para Comerciar.#
-No has aprendido las Skills B·sicas para usar Emoticonos.#
-No has aprendido las Skills B·sicas para para sentarte.#
-No has aprendido las Skills B·sicas para crear una Sala de Chat.#
-No has aprendido las Skills B·sicas para crear un Party.#
-No has aprendido las Skills B·sicas para gritar.#
-No has aprendido las Skills B·sicas para pelear.#
+Para hablar al Party: A√±ade '%' delante de cada mensaje.(Ejemplo: \%Hola\)#
+No has aprendido las Skills B√°sicas para Comerciar.#
+No has aprendido las Skills B√°sicas para usar Emoticonos.#
+No has aprendido las Skills B√°sicas para para sentarte.#
+No has aprendido las Skills B√°sicas para crear una Sala de Chat.#
+No has aprendido las Skills B√°sicas para crear un Party.#
+No has aprendido las Skills B√°sicas para gritar.#
+No has aprendido las Skills B√°sicas para pelear.#
 Items a Comprar#
 Tienda de Items#
 Venta de Items#
-AlmacÈn (Storage)#
+Almac√©n (Storage)#
  ha sido equipado.#
  ha sido desequipado.#
-Para aÒadir nombres a la Lista de Susurros#
+Para a√±adir nombres a la Lista de Susurros#
 Para hacer capturas de pantalla: Pulsa [Print Screen] o [Scroll Lock]#
-Consejo del dÌa:#
-^3850a0øSabias que ...?^709fed#
+Consejo del d√≠a:#
+^3850a0¬øSabias que ...?^709fed#
 Abrir al iniciar el Juego#
-/tip: Abre el ''Consejo del DÌa''#
+/tip: Abre el ''Consejo del D√≠a''#
 Hay %d Jugadores Conectados Actualmente.#
 (%s) ha ingresado.#
 (%s) ha salido.#
@@ -187,16 +187,16 @@ Items para Vender#
 Tienda de Items#
 Lugar Desconocido#
 El lenguaje de tu cliente no se corresponde con el de nuestro Servidor.#
-Solo puedes mover items del inventario. Por favor, quÌtate el item primero o cierra la ventana de equipamiento.#
-Este Servidor solo ofrece texto en EspaÒol.#
+Solo puedes mover items del inventario. Por favor, qu√≠tate el item primero o cierra la ventana de equipamiento.#
+Este Servidor solo ofrece texto en Espa√±ol.#
 Esto no se ha implementado aun.#
-Lista susurros vacÌa.#
+Lista susurros vac√≠a.#
 : Susurros bloqueados.#
 : Ha fallado el bloqueo de susurros.#
-: Ha fallado el bloqueo de susurros. La lista est· llena.#
+: Ha fallado el bloqueo de susurros. La lista est√° llena.#
 : Susurros aceptados.#
 : El comando ha fallado.#
-: El comando ha fallado. La lista est· llena.#
+: El comando ha fallado. La lista est√° llena.#
 No agregues Espacios al principio o al final de un Nombre.#
 Privado#
 Publico#
@@ -208,18 +208,18 @@ Negociar#
 Envenom no ha funcionado.#
 No puedes usar esa ID en este servidor.#
 Velocidad Aumentada.#
-Velocidad DisminuÌda.#
+Velocidad Disminu√≠da.#
 /memo: Memoriza este lugar como punto de Teletransporte (Si eres Acolyte)#
 Lugar Aleatorio#
 Selecciona un lugar para Teletransportarse#
 Nivel de skill insuficiente#
 No hay lugares Memorizados (Memo Points).#
-No has aprendido TeletransportaciÛn.#
-Punto de TeletransportaciÛn guardado.#
+No has aprendido Teletransportaci√≥n.#
+Punto de Teletransportaci√≥n guardado.#
 Cancelar#
 Hay un retraso entra una skill y la siguiente#
-LÌmite de capacidad m·xima, tienes demasiados items.#
-Fuera de la capacidad m·xima#
+L√≠mite de capacidad m√°xima, tienes demasiados items.#
+Fuera de la capacidad m√°xima#
 Items del Carro#
 Quitar Carro#
 Poner Tienda#
@@ -236,7 +236,7 @@ Selecciona un Objetivo.#
 /pk on: Activa el modo PK. /pk off: Desactiva el modo PK.#
 Tienda#
 Items del carro [Alt+W]#
-InformaciÛn b·sica#
+Informaci√≥n b√°sica#
 No puedes usar la skill con esa Arma.#
 La compra de %s ha fallado. Agotado. Productos disponibles %d.#
 Has sido desconectado debido a un desfase entre el servidor y tu.#
@@ -252,20 +252,20 @@ Vitalidad#
 Inteligencia#
 Destreza#
 Suerte#
-Ataque FÌsico#
-Defensa FÌsica#
-Tasa de PrecisiÛn#
-Tasa de Ataque CrÌtico#
+Ataque F√≠sico#
+Defensa F√≠sica#
+Tasa de Precisi√≥n#
+Tasa de Ataque Cr√≠tico#
 Gremio Asignado#
 Puntos de Status#
-Ataque M·gico#
-Defensa M·gica#
-Tasa de EvasiÛn#
+Ataque M√°gico#
+Defensa M√°gica#
+Tasa de Evasi√≥n#
 Velocidad de Ataque#
-El servidor esta saturado por exceso de poblaciÛn.#
+El servidor esta saturado por exceso de poblaci√≥n.#
 Opciones#
 Tu cuenta ha sido bloqueada por el Staff.#
-ID de usuario o contraseÒa incorrecta. Por favor, intÈntelo de nuevo.#
+ID de usuario o contrase√±a incorrecta. Por favor, int√©ntelo de nuevo.#
 Elige un peinado#
 ATQ#
 DEF#
@@ -277,11 +277,11 @@ Snap de Skill Off#
 Snap de Item On#
 Snap de Item Off#
 Fijar cursor (Snap)#
-No puedes cargar m·s de 30,000 unidades de cada tipo de Item.#
+No puedes cargar m√°s de 30,000 unidades de cada tipo de Item.#
 No puedes borrar un personaje de nivel superior a 30. Si deseas borrar el personaje contacta con un GM.#
 No puedes usar una tienda de NPC mientras negocias con alguien.#
 Nombre#
-¡rbol de Skills#
+√Årbol de Skills#
 Puntos de Skill: %d#
 La Skill ha fallado.#
 Pasiva#
@@ -289,26 +289,26 @@ Por su cuenta #
 Compartir#
 Cada uno recoge#
 Compartir party#
-ConfiguraciÛn de party#
+Configuraci√≥n de party#
 Compartir EXP#
 Compartir Items#
-Solo el lÌder del party puede cambiar esta configuraciÛn.#
+Solo el l√≠der del party puede cambiar esta configuraci√≥n.#
 Alternar cantidad de items.#
-El Personaje se eliminar· en ^ff0000%d^000000 segundos. Pulsa Cancelar para impedirlo.#
-No puedes negociar m·s de 10 tipos de items por vez.#
+El Personaje se eliminar√° en ^ff0000%d^000000 segundos. Pulsa Cancelar para impedirlo.#
+No puedes negociar m√°s de 10 tipos de items por vez.#
 Eres menor de edad.#
-Por favor, ingrese la contraseÒa para eliminar.#
-DirecciÛn de E-mail (Distingue may˙sculas y min˙sculas).#
-La eliminaciÛn de Personaje ha fallado porque ha ingresado una direcciÛn de E-mail incorrecta.#
-Si ves este mensaje, repÛrtalo al Administrador.#
-Si ves este mensaje, repÛrtalo al Administrador.#
-No puedes vender m·s de 15 tipos de items por vez.#
+Por favor, ingrese la contrase√±a para eliminar.#
+Direcci√≥n de E-mail (Distingue may√∫sculas y min√∫sculas).#
+La eliminaci√≥n de Personaje ha fallado porque ha ingresado una direcci√≥n de E-mail incorrecta.#
+Si ves este mensaje, rep√≥rtalo al Administrador.#
+Si ves este mensaje, rep√≥rtalo al Administrador.#
+No puedes vender m√°s de 15 tipos de items por vez.#
 Eres menor de edad, no puedes jugar en este servidor.#
-Tu HP/SP no se restaurar· mientras tu peso supere el 50%.#
+Tu HP/SP no se restaurar√° mientras tu peso supere el 50%.#
 No puedes usar skills ni atacar mientras tu peso supere el 90%.#
-Ahora tu HP/SP se recuperar· con normalidad.#
-Ataque y Skills ya est·n disponibles.#
-Tu cliente no est· actualizado o est· mal instalado.#
+Ahora tu HP/SP se recuperar√° con normalidad.#
+Ataque y Skills ya est√°n disponibles.#
+Tu cliente no est√° actualizado o est√° mal instalado.#
 Items Agotados.#
 Guardar Chat en nota de texto#
 /savechat: Guarda el registro de chat#
@@ -317,18 +317,18 @@ Rechazar Susurros#
 Permitir Susurros#
 Mostrar ''Miss''#
 Ocultar ''Miss''#
-Zoom de la C·mara On#
-Zoom de la C·mara Off#
-/camera: Zoom de C·mara On o Off. /miss: Toggle ''Miss'' display#
-Ver InformaciÛn de Skill#
+Zoom de la C√°mara On#
+Zoom de la C√°mara Off#
+/camera: Zoom de C√°mara On o Off. /miss: Toggle ''Miss'' display#
+Ver Informaci√≥n de Skill#
 Cambiar Skill#
-ResoluciÛn de Sprite#
-ResoluciÛn de Texturas#
+Resoluci√≥n de Sprite#
+Resoluci√≥n de Texturas#
 Organizar Detalles#
 Obtienes %Zeny#
 Nombre del Gremio#
 Nivel del Gremio#
-DueÒo del Gremio#
+Due√±o del Gremio#
 Miembros#
 Promedio de Nivel de Miembros#
 Territorio#
@@ -348,39 +348,39 @@ Lista del Gremio#
 Lista de Susurros#
 Abrir ventana de Susurros#
 Para Abrir la ventana de Susurros: Pulsa [Alt] + [H]#
-Abrir la ventana de Susurros Autom·ticamente#
+Abrir la ventana de Susurros Autom√°ticamente#
 Borrar#
 Cerrar desde el siguiente#
-⁄ltimo tiempo de juego#
-⁄ltima IP utilizada#
-ConfiguraciÛn de Amigos#
-øSeguro que quieres Borrar?#
-øSeguro que quieres Salir?#
+√öltimo tiempo de juego#
+√öltima IP utilizada#
+Configuraci√≥n de Amigos#
+¬øSeguro que quieres Borrar?#
+¬øSeguro que quieres Salir?#
 Registrar como Amigo#
 Abrir Chat 1:1 entre Amigos#
 Abrir Chat 1:1#
 Abrir Chat 1:1 entre Desconocidos#
 Avisar al recibir 1:1 Chat#
-øSeguro que quieres Expulsarlo?#
+¬øSeguro que quieres Expulsarlo?#
 %s se ha retirado del Gremio.#
-RazÛn de Renuncia: %s#
+Raz√≥n de Renuncia: %s#
 Has fallado en disolver el Gremio.#
-RazÛn de la disoluciÛn del Gremio: %s#
+Raz√≥n de la disoluci√≥n del Gremio: %s#
 Esta ID ha sido eliminada.#
 Precio: #
 %s ha sido expulsado de nuestro Gremio.#
-RazÛn de la ExpulsiÛn: %s#
+Raz√≥n de la Expulsi√≥n: %s#
 No puedes equiparte este Item.#
-No puedes cambiar la configuraciÛn del Party.#
+No puedes cambiar la configuraci√≥n del Party.#
 El Gremio ha sido creado.#
-Ya est·s en un Gremio.#
+Ya est√°s en un Gremio.#
 El Nombre del Gremio ya existe, elige otro.#
- Has sido invitado a unirte a este Gremio. øTe gustaria unirte?#
-Ya est· en un Gremio.#
-InvitaciÛn Rechazada#
-InvitaciÛn Aceptada#
-Tu Gremio est· Completo.#
-Enviar a (%s) una invitaciÛn al Gremio#
+ Has sido invitado a unirte a este Gremio. ¬øTe gustaria unirte?#
+Ya est√° en un Gremio.#
+Invitaci√≥n Rechazada#
+Invitaci√≥n Aceptada#
+Tu Gremio est√° Completo.#
+Enviar a (%s) una invitaci√≥n al Gremio#
 No has aprendido suficientes Skills para Juzgar a alguien.#
 Has Juzgado al Jugador.#
 Ya has gastado tu punto de hoy.#
@@ -391,24 +391,24 @@ Recibiste un Punto Positivo#
 Recibiste un Punto Negativo#
 Comerciar con (%s)#
 Proponer a (%s) unirse al party#
- El Gremio te propone formar una alianza con ellos. øAceptas?#
+ El Gremio te propone formar una alianza con ellos. ¬øAceptas?#
 Este Gremio ya es tu aliado.#
-Rechazas la InvitaciÛn#
-Aceptas la InvitaciÛn#
+Rechazas la Invitaci√≥n#
+Aceptas la Invitaci√≥n#
 Tienen demasiadas Alianzas.#
 Tienes demasiadas Alianzas.#
 Proponer Alianza a este Gremio#
 La Gremio se ha disuelto correctamente.#
 Has fallado al disolver el Gremio porque su SSN es incorrecta.#
-Has fallado al disolver el Gremio porque todavÌa quedan Miembros dentro.#
+Has fallado al disolver el Gremio porque todav√≠a quedan Miembros dentro.#
 Declarar al Gremio como Antagonista#
 Elegir Color de Cabello#
 Necesitas un Emperium para crear un Gremio.#
-InformaciÛn del Monstruo#
+Informaci√≥n del Monstruo#
 Nombre#
 Nivel#
 HP#
-TamaÒo#
+Tama√±o#
 Tipo#
 DEF.M#
 Elemento#
@@ -423,31 +423,31 @@ Sombras#
 Fantasma#
 No-muerto#
 No puedes crear items aun.#
-Lista de items que puedes DiseÒar#
+Lista de items que puedes Dise√±ar#
  Crear#
  materiales#
- creaciÛn de item Exitosa.#
- creaciÛn de item Fallida.#
-FallÛ al crear %s.#
-Creado con Èxito %s.#
+ creaci√≥n de item Exitosa.#
+ creaci√≥n de item Fallida.#
+Fall√≥ al crear %s.#
+Creado con √©xito %s.#
 No tienes suficiente Nivel.#
 Demasiado nivel para este Job.#
 No es la Clase adecuada para este tipo de trabajo.#
 Guardar mensajes en Talkie Box#
 Por favor, escribe un mensaje en Talkie Box#
 Enviar al Gremio#
-No pagaste por este ID. øTe gustarÌa pagarlo ahora?#
-El servidor esta saturado en estos momentos. IntÈntalo de nuevo en unos minutos.#
-El servidor aun reconoce tu ˙ltima conexiÛn. IntÈntalo de nuevo en unos minutos.#
-Retira tu HalcÛn#
+No pagaste por este ID. ¬øTe gustar√≠a pagarlo ahora?#
+El servidor esta saturado en estos momentos. Int√©ntalo de nuevo en unos minutos.#
+El servidor aun reconoce tu √∫ltima conexi√≥n. Int√©ntalo de nuevo en unos minutos.#
+Retira tu Halc√≥n#
 Desmontar#
-PequeÒo#
+Peque√±o#
 Mediano#
 Grande#
 Doble#
 Triple#
 Cuadruple#
-Tienes prohibida la sesiÛn hasta dentro de %s.#
+Tienes prohibida la sesi√≥n hasta dentro de %s.#
 's #
  de Fuego #
  de Hielo #
@@ -460,11 +460,11 @@ Matar a %s#
 Muy Fuerte #
 Demasiado Fuerte #
 Extremadamente Fuerte #
-RazÛn de la ExpulsiÛn#
+Raz√≥n de la Expulsi√≥n#
  Velocidad de Ataque dumentada.#
  Velocidad de Ataque disminuida.#
- DaÒo de Arma aumentado.#
- DaÒo de Arma reducido.#
+ Da√±o de Arma aumentado.#
+ Da√±o de Arma reducido.#
  Tiempo de casteo reducido.#
  Tiempo de casteo vuelve a ser normal.#
  El Arma ha sido encantada temporalmente con Elemento Veneno.#
@@ -489,57 +489,57 @@ Ganas %d de EXP de Base.#
 Ganas %d de EXP de Job.#
 Dejas el Gremio.#
 Has sido expulsado del Gremio.#
-La identificaciÛn del Item se ha completado.#
-La identificaciÛn del Item ha fallado.#
-La composiciÛn se ha completado exitosamente.#
-La composiciÛn ha fallado.#
+La identificaci√≥n del Item se ha completado.#
+La identificaci√≥n del Item ha fallado.#
+La composici√≥n se ha completado exitosamente.#
+La composici√≥n ha fallado.#
 Antagonista seleccionado.#
 El Gremio tiene demasiados Antagonistas.#
-Ya est· seleccionado como Antagonista#
-°°Mejora exitosa!!#
-°°Mejora fallida!!#
-No puedes Teletransportarte en esta ¡rea#
-No puedes memorizar un portal en esta ¡rea#
-Espere 10 segundos antes de intentar cerrar sesiÛn.#
+Ya est√° seleccionado como Antagonista#
+¬°¬°Mejora exitosa!!#
+¬°¬°Mejora fallida!!#
+No puedes Teletransportarte en esta √Årea#
+No puedes memorizar un portal en esta √Årea#
+Espere 10 segundos antes de intentar cerrar sesi√≥n.#
 Rango#
 Clase (Job)#
 Nota#
 Total#
 Impuestos#
 Dejar Gremio#
-ExpulsiÛn#
+Expulsi√≥n#
 Rango#
-TÌtulo del Rango#
-InvitaciÛn#
+T√≠tulo del Rango#
+Invitaci√≥n#
 Castigos#
 Impuesto %#
-TÌtulo#
+T√≠tulo#
 Contenido#
 Nombre del Gremio#
 Nivel del Gremio#
 Gente#
-ClasificaciÛn#
-IdentificaciÛn de Items#
+Clasificaci√≥n#
+Identificaci√≥n de Items#
 Insertar Card en#
-Por favor, escriba la razÛn de la SecesiÛn.#
-Por favor, escriba la razÛn de la ExpulsiÛn.#
+Por favor, escriba la raz√≥n de la Secesi√≥n.#
+Por favor, escriba la raz√≥n de la Expulsi√≥n.#
 Por favor, cierre la Tienda.#
 Skill #
 Nombre del Item#
 https://pay.ragnarok.co.kr (Billing Web)#
-La capacidad del IP de este cibercafÈ ha sido excedida. øTe gustarÌa pagar por un plan personal?#
-Se acabÛ el tiempo de juego pagado disponible. El juego se cerrar· autom·ticamente.#
-El nombre es demasiado largo. Ingrese un nombre que no tenga m·s de 23 caracteres en inglÈs.#
+La capacidad del IP de este cibercaf√© ha sido excedida. ¬øTe gustar√≠a pagar por un plan personal?#
+Se acab√≥ el tiempo de juego pagado disponible. El juego se cerrar√° autom√°ticamente.#
+El nombre es demasiado largo. Ingrese un nombre que no tenga m√°s de 23 caracteres en ingl√©s.#
 eliminado#
 Pagaste un plan regular personal.#
 Pagaste un plan regular personal. El tiempo disponible es xx hrs xx minutos xx segundos.#
-°Eres libre ahora!#
-Usted est· habilitado para una prueba gratuita, su tiempo disponible es xx hrs xx minutos xx segundos.#
-Pagaste por un plan regular de cibercafÈ. El tiempo disponible es xx hrs xx minutos xx segundos.#
-PagÛ por un plan con lÌmite de tiempo de cibercafÈ. El tiempo disponible es xx hrs xx minutos xx segundos.#
-Usted est· habilitado para una prueba gratuita de cibercafÈ.#
-Usted est· habilitado para una prueba gratuita de cibercafÈ.#
-PagÛ en el sitio web el nuevo lÌmite de tiempo.#
+¬°Eres libre ahora!#
+Usted est√° habilitado para una prueba gratuita, su tiempo disponible es xx hrs xx minutos xx segundos.#
+Pagaste por un plan regular de cibercaf√©. El tiempo disponible es xx hrs xx minutos xx segundos.#
+Pag√≥ por un plan con l√≠mite de tiempo de cibercaf√©. El tiempo disponible es xx hrs xx minutos xx segundos.#
+Usted est√° habilitado para una prueba gratuita de cibercaf√©.#
+Usted est√° habilitado para una prueba gratuita de cibercaf√©.#
+Pag√≥ en el sitio web el nuevo l√≠mite de tiempo.#
 Lista de Emoticonos#
 /emo#
 /!#
@@ -573,25 +573,25 @@ Lista de Emoticonos#
 /pif#
 /ok#
 Lista de Comandos#
-Tu cuenta est· suspendida.#
+Tu cuenta est√° suspendida.#
 Error del sistema, Desconectado del servidor.#
 Conflicto de IP, Desconectado del servidor.#
-Recuerda Actualizar tu Ragnarok. sino podrÌas tener problemas con algunos Sprites.#
+Recuerda Actualizar tu Ragnarok. sino podr√≠as tener problemas con algunos Sprites.#
 Has sido forzado a desconectar por un GM.#
 No puedes usar Skills porque vas con sobrepeso.#
 Sin Nombre#
-°Felicidades! La posiciÛn de %s ha aumentado a %d.#
-°Que mal! La posiciÛn de %s ha bajado a %d.#
-InformaciÛn del Pet#
+¬°Felicidades! La posici√≥n de %s ha aumentado a %d.#
+¬°Que mal! La posici√≥n de %s ha bajado a %d.#
+Informaci√≥n del Pet#
 Hambre:#
 Afecto:#
 No puedes abrir Salas de Chat mientras vendes.#
 ea#
 Has vencido a %s.#
 Has sido vencido por %s.#
-Este Pet se alimenta de '%s' necesitas conseguir m·s.#
+Este Pet se alimenta de '%s' necesitas conseguir m√°s.#
 Alimentar#
-AcciÛn#
+Acci√≥n#
 Devolver al Huevo#
 Quitar Accesorio#
 Consulta Estado del Pet#
@@ -599,10 +599,10 @@ Accesorio:#
 Equipado#
 Lista de Pet#
 Desequipado#
-øQuieres alimentar a tu pet?#
-Solo est·n disponibles los n˙meros del (0~9).#
+¬øQuieres alimentar a tu pet?#
+Solo est√°n disponibles los n√∫meros del (0~9).#
 No puedes vender Items sin identificar.#
-°AtenciÛn! hay Item a 0 Zeny. øDeseas continuar?#
+¬°Atenci√≥n! hay Item a 0 Zeny. ¬øDeseas continuar?#
 [Nueva Lista de Emoticonos]#
 N/A#
 N/A#
@@ -630,39 +630,39 @@ Ya hay un personaje de la misma cuenta.#
  Signum Crusis cancelado.#
  Slow Poison iniciado.#
  Slow Poison cancelado.#
-RecuperaciÛn de SP aumentada.#
+Recuperaci√≥n de SP aumentada.#
 Magnificat cancelado.#
 Luk aumentado.#
 Gloria cancelado.#
- Todos los ataques enemigos te haran el doble de daÒo.#
+ Todos los ataques enemigos te haran el doble de da√±o.#
  Lex Eterna cancelado.#
  Velocidad de Ataque aumentada.#
  Velocidad de Ataque reducida.#
  Acabas de subir al Pecopeco.#
  Acabas de bajar del Pecopeco.#
- Acabas de llamar a tu HalcÛn.#
- Acabas de retirar a tu HalcÛn.#
+ Acabas de llamar a tu Halc√≥n.#
+ Acabas de retirar a tu Halc√≥n.#
  Play Dead iniciado.#
  Play Dead cancelado.#
  Str aumentado.#
  Str ha vuelto a la normalidad.#
  Energy Coat iniciado.#
  Energy Coat cancelado.#
- Armadura daÒada.#
+ Armadura da√±ada.#
  Armadura reparada.#
- Arma daÒada.#
+ Arma da√±ada.#
  Arma reparada.#
  Invisibility iniciado.#
  Invisibility cancelado.#
-Desconectado del servidor. Ha ocurrido un problema al procesar la informaciÛn. Por favor, vuelve a conectar en unos minutos.#
+Desconectado del servidor. Ha ocurrido un problema al procesar la informaci√≥n. Por favor, vuelve a conectar en unos minutos.#
 Debes desequiparte las municiones primero.#
 Lista de Flechas#
 Lista de Carros#
 Necesitas un Carro.#
 No puedes abrir ventanas de Chat.#
-Registrar una cuenta es el primer paso para acceder al juego. øQuieres visitar la pagina de registro ahora?#
+Registrar una cuenta es el primer paso para acceder al juego. ¬øQuieres visitar la pagina de registro ahora?#
 No puedes usar el Item sentado.#
-El uso de Skills y Chat han sido bloqueados durante los prÛximos %d minutos.#
+El uso de Skills y Chat han sido bloqueados durante los pr√≥ximos %d minutos.#
 El uso de Skills y Chat han sido restablecidos.#
 - [Desequipado]#
  Muy Hambriento#
@@ -670,21 +670,21 @@ El uso de Skills y Chat han sido restablecidos.#
  Normal#
  Satisfecho#
  Lleno#
- IncÛmodo#
+ Inc√≥modo#
  Timido#
  Amigable#
  Leal#
 Desconocido#
 Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Online.#
-Esta cuenta ya est· conectada con el Servidor.#
+Esta cuenta ya est√° conectada con el Servidor.#
 Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Online.#
 Tu cuenta es una cuenta gratuita.#
 Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Online.#
-El nombre no puede tener m·s 23 caracteres.#
-°Solo puedes ponerle Nombre una vez! El Nombre de tu pet ser· ^0000ff %s^000000. øEst·s seguro?#
+El nombre no puede tener m√°s 23 caracteres.#
+¬°Solo puedes ponerle Nombre una vez! El Nombre de tu pet ser√° ^0000ff %s^000000. ¬øEst√°s seguro?#
 /font#
 A tu Gremio no le quedan suficientes fondos.#
-Tu Gremio excede la cantidad m·xima de Zeny permitida.#
+Tu Gremio excede la cantidad m√°xima de Zeny permitida.#
 Efectos Activados.#
 Efectos Desactivados.#
 Fianza#
@@ -693,14 +693,14 @@ Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Onl
 #
 #
 No tienes suficiente Zeny o has excedido el limite de Zeny permitido.#
-°Has Muerto! Pulsa ESC para regresar al Punto de Guardado.#
+¬°Has Muerto! Pulsa ESC para regresar al Punto de Guardado.#
  - %d obtenido.#
 Lista de Hechizos#
 /minimize#
-El Item se ha daÒado.#
+El Item se ha da√±ado.#
 /noshift: Puedes usar tu ''fuerza sanadora'' sin pulsar la tecla Shift. On | Off#
-[no shift] opciÛn activada. [ON]#
-[no shift] opciÛn desactivada. [OFF]#
+[no shift] opci√≥n activada. [ON]#
+[no shift] opci√≥n desactivada. [OFF]#
 MSI_REFUSE_BAN_BY_DBA#
 MSI_REFUSE_EMAIL_NOT_CONFIRMED#
 MSI_REFUSE_BAN_BY_GM#
@@ -714,61 +714,61 @@ Aura [ON]#
 Se bloqueo el registro de Chat %d veces#
 Lista de bloqueados#
 /showname: Cambia el tipo de letra del nombre.#
-/noctrl | /nc: Ataque Autom·tico sin pulsar la tecla Ctrl. On | Off#
-Usar Ataque Autom·tico sin pulsar la tecla Ctrl. [ON]#
-Usar Ataque Autom·tico sin pulsar la tecla Ctrl. [OFF]#
+/noctrl | /nc: Ataque Autom√°tico sin pulsar la tecla Ctrl. On | Off#
+Usar Ataque Autom√°tico sin pulsar la tecla Ctrl. [ON]#
+Usar Ataque Autom√°tico sin pulsar la tecla Ctrl. [OFF]#
 Silenciar a este jugador.#
 Dejar de silenciar al jugador y borrar el tiempo de silencio.#
 Disminuir el tiempo de silencio del jugador.#
 Fuente normal mostrada. [showname type 1]#
-Muestra el nombre del grupo cuando la fuente est· en modo normal [showname type 2]#
+Muestra el nombre del grupo cuando la fuente est√° en modo normal [showname type 2]#
 /doridori: Agita la cabeza#
-El cibercafÈ est· pagando ahora.#
-Comprobante prepago validar hasta %d dÌas %d horas %d minutos m·s tarde. \n LÌmite de tiempo validar validar hasta %d horas %d a minutos m·s tarde.#
+El cibercaf√© est√° pagando ahora.#
+Comprobante prepago validar hasta %d d√≠as %d horas %d minutos m√°s tarde. \n L√≠mite de tiempo validar validar hasta %d horas %d a minutos m√°s tarde.#
 /bingbing: Rota al jugador en sentido antihorario.#
 /bangbang: Rota al jugador en sentido horario.#
 /skillfail: Mostrar mensaje de fuente roja cuando falla la Skill. On | Off#
-Se mostrar·n mensajes de error de Skill. [On]#
-Los mensajes de error de Skill no se mostrar·n. [OFF]#
-/notalkmsg: El chat no se mostrar· en la ventana de chat. On | Off#
-El contenido del chat se mostrar· en la ventana de chat. [ON]#
-El contenido del chat no se mostrar· en la ventana de chat. [OFF]#
+Se mostrar√°n mensajes de error de Skill. [On]#
+Los mensajes de error de Skill no se mostrar√°n. [OFF]#
+/notalkmsg: El chat no se mostrar√° en la ventana de chat. On | Off#
+El contenido del chat se mostrar√° en la ventana de chat. [ON]#
+El contenido del chat no se mostrar√° en la ventana de chat. [OFF]#
 /set1: /noctrl + /showname + /skillfail#
 /fog: Efecto de niebla. On | Off#
-Has recibido una propuesta de matrimonio. øAceptas?#
-DistribuciÛn de Items#
+Has recibido una propuesta de matrimonio. ¬øAceptas?#
+Distribuci√≥n de Items#
 Individualmente#
 Compartido#
 nProtect KeyCrypt#
-Se ha detectado el controlador del teclado. \n\nøDesea instalar un programa para la seguridad del teclado?    \n\n(DespuÈs de la instalaciÛn, se requiere reiniciar el sistema.)#
-La instalaciÛn ha sido completada.  \n\nEl sistema se reiniciar·.#
-La instalaciÛn ha fallado.#
-La seguridad del teclado se omitir·.#
+Se ha detectado el controlador del teclado. \n\n¬øDesea instalar un programa para la seguridad del teclado?    \n\n(Despu√©s de la instalaci√≥n, se requiere reiniciar el sistema.)#
+La instalaci√≥n ha sido completada.  \n\nEl sistema se reiniciar√°.#
+La instalaci√≥n ha fallado.#
+La seguridad del teclado se omitir√°.#
 El archivo requerido para la seguridad del teclado no existe.  \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
-Se ha detectado el teclado USB. \n\nøDesea instalar un programa para la seguridad del teclado?    \n\n(DespuÈs de la instalaciÛn, se requiere reiniciar el sistema.)#
+Se ha detectado el teclado USB. \n\n¬øDesea instalar un programa para la seguridad del teclado?    \n\n(Despu√©s de la instalaci√≥n, se requiere reiniciar el sistema.)#
 ftp://ragnarok.nefficient.co.kr/pub/ragnarok/ragnarok0526.exe#
-FindHack no est· instalado correctamente. Descargue ragnarok0226.exe e inst·lelo en el directorio RagnarokOnline.(%d).#
-La herramienta de pirateo existe y no ha sido eliminada. Ragnarok Online no se ejecutar·.#
-El programa de escaneo de la herramienta de piraterÌa no se ha descargado correctamente. Descargue ragnarok0226.exe e inst·lelo en el directorio RagnarokOnline.#
-NPX.DLL error de registro o no hay ning˙n archivo necesario para ejecutar FindHack. Descargue ragnarok0226.exe e inst·lelo en el directorio RagnarokOnline.#
-Error excepcional Por favor, pÛngase en contacto con el servicio al cliente. Valor de retorno: (%d)#
-Se ha hecho clic en el botÛn Salir.#
-No se puede conectar el servidor de actualizaciones Findhack. Por favor, intÈntelo nuevamente o comunÌquese con el servicio al cliente#
+FindHack no est√° instalado correctamente. Descargue ragnarok0226.exe e inst√°lelo en el directorio RagnarokOnline.(%d).#
+La herramienta de pirateo existe y no ha sido eliminada. Ragnarok Online no se ejecutar√°.#
+El programa de escaneo de la herramienta de pirater√≠a no se ha descargado correctamente. Descargue ragnarok0226.exe e inst√°lelo en el directorio RagnarokOnline.#
+NPX.DLL error de registro o no hay ning√∫n archivo necesario para ejecutar FindHack. Descargue ragnarok0226.exe e inst√°lelo en el directorio RagnarokOnline.#
+Error excepcional Por favor, p√≥ngase en contacto con el servicio al cliente. Valor de retorno: (%d)#
+Se ha hecho clic en el bot√≥n Salir.#
+No se puede conectar el servidor de actualizaciones Findhack. Por favor, int√©ntelo nuevamente o comun√≠quese con el servicio al cliente#
 Domesticado #
 /report: Guardar un archivo de registro de chat.#
-Este documento puede ser utilizado por los GMs \n como prueba de acciones malintencionadas de los jugadores. \n El documento no ser· v·lido si se guarda en otro formato o su contenido es modificado.#
-°Te quiero!#
+Este documento puede ser utilizado por los GMs \n como prueba de acciones malintencionadas de los jugadores. \n El documento no ser√° v√°lido si se guarda en otro formato o su contenido es modificado.#
+¬°Te quiero!#
 Por favor, ajusta el brillo de tu monitor si los efectos de pantalla son demasiado brillantes.#
 Si el modo de pantalla completa no funciona, se sugiere alt+tab [o ctrl+esc] para desactivar y reactivar el Cliente Ragnarok.#
 (%d jugadores) - Servidor Pay to Play#
 (%d jugadores) - Servidor Gratuito#
 Los jugadores de prueba no pueden conectar Pay to Play Server.#
-Usar la skill de F9 con el botÛn derecho activado.[/q1 ON]#
-Usar la skill de F9 con el botÛn derecho desactivado.[/q1 OFF]#
-/quickspell: Usando el botÛn derecho del ratÛn, permite usar Skills e Items asignados a la tecla F9. On | Off#
-Usar las skills de F7 y F8 con la rueda del ratÛn activado.[/q2 ON]#
-Usar las skills de F7 y F8 con la rueda del ratÛn desactivado.[/q2 OFF]#
-/quickspell2: Usando la rueda del ratÛn, permite usar Skills e Items asignados a las teclas F7 y F8. On | Off#
+Usar la skill de F9 con el bot√≥n derecho activado.[/q1 ON]#
+Usar la skill de F9 con el bot√≥n derecho desactivado.[/q1 OFF]#
+/quickspell: Usando el bot√≥n derecho del rat√≥n, permite usar Skills e Items asignados a la tecla F9. On | Off#
+Usar las skills de F7 y F8 con la rueda del rat√≥n activado.[/q2 ON]#
+Usar las skills de F7 y F8 con la rueda del rat√≥n desactivado.[/q2 OFF]#
+/quickspell2: Usando la rueda del rat√≥n, permite usar Skills e Items asignados a las teclas F7 y F8. On | Off#
 /q3: /quickspell (/q1) + /quickspell2 (/q2)#
 /bzz#
 /rice#
@@ -783,57 +783,57 @@ Usar las skills de F7 y F8 con la rueda del ratÛn desactivado.[/q2 OFF]#
 /grat#
 /hp#
 /emotion: Ve la lista de emoticones.#
-Las skills asignadas a las barras de acceso r·pido 1, 2, 3 est·n activadas. [/bm ON]#
-Las skills asignadas a las barras de acceso r·pido 1, 2, 3 est·n desactivadas. [/bm OFF]#
-/battlemode: le permite usar las skills asignadas a la barra de acceso r·pido 2 pulsando las teclas Q ~ O.#
-Las teclas A ~ L le permiten usar las skills asignadas a la barra de acceso r·pido 3.#
+Las skills asignadas a las barras de acceso r√°pido 1, 2, 3 est√°n activadas. [/bm ON]#
+Las skills asignadas a las barras de acceso r√°pido 1, 2, 3 est√°n desactivadas. [/bm OFF]#
+/battlemode: le permite usar las skills asignadas a la barra de acceso r√°pido 2 pulsando las teclas Q ~ O.#
+Las teclas A ~ L le permiten usar las skills asignadas a la barra de acceso r√°pido 3.#
 Recuerda que los programas que se ejecutan en segundo plano mientras juegas pueden afectar el rendimiento del juego.#
-Querido ·ngel, øPuedes oÌr mi voz?#
-SÌ, lo hago.#
-°Super Novato~!#
-Ay˙dame~ Por favor~ T_T#
- desea adoptarte. øAceptas?#
-Z ~ > las teclas le permiten usar las skills asignadas en la barra de acceso r·pido 1. On | Off#
-Pulsa la barra espaciadora para chatear cuando estÈs en modo Batalla [/battlemode | /bm].#
-Los archivos de actualizaciÛn no est·n o est·n corruptos. Por favor, reinstala el cliente del servidor.#
-Algunos de los archivos del sistema de Windows han sido daÒados. Vuelva a instalar su Internet Explorer.#
+Querido √°ngel, ¬øPuedes o√≠r mi voz?#
+S√≠, lo hago.#
+¬°Super Novato~!#
+Ay√∫dame~ Por favor~ T_T#
+ desea adoptarte. ¬øAceptas?#
+Z ~ > las teclas le permiten usar las skills asignadas en la barra de acceso r√°pido 1. On | Off#
+Pulsa la barra espaciadora para chatear cuando est√©s en modo Batalla [/battlemode | /bm].#
+Los archivos de actualizaci√≥n no est√°n o est√°n corruptos. Por favor, reinstala el cliente del servidor.#
+Algunos de los archivos del sistema de Windows han sido da√±ados. Vuelva a instalar su Internet Explorer.#
 Error al actualizar. Reinicia el Juego.#
-'Programas ilegales detectados. Deten la ejecuciÛn de todos los programas innecesarios y reinicia el juego.'#
-'Error de conexiÛn. Comprueba tu conexiÛn a Internet y la configuraciÛn de tu Firewall.'#
-'Error de conexiÛn. Comprueba tu conexiÛn a Internet y la configuraciÛn de tu Firewall.'#
-'Error. Comprueba si tu sistema ha sido infectado por alg˙n virus, si estas usando programas de mantenimiento desactÌvalos antes de ejecutar el juego.'#
-/notrade: Rechaza ofertas comerciales autom·ticamente. On | Off#
-Habilitado el rechazo autom·tico de ofertas comerciales. [/nt ON]#
-Desactivado el rechazo autom·tico de ofertas comerciales. [/nt OFF]#
-No puede comprar m·s de 30,000 items a la vez.#
+'Programas ilegales detectados. Deten la ejecuci√≥n de todos los programas innecesarios y reinicia el juego.'#
+'Error de conexi√≥n. Comprueba tu conexi√≥n a Internet y la configuraci√≥n de tu Firewall.'#
+'Error de conexi√≥n. Comprueba tu conexi√≥n a Internet y la configuraci√≥n de tu Firewall.'#
+'Error. Comprueba si tu sistema ha sido infectado por alg√∫n virus, si estas usando programas de mantenimiento desact√≠valos antes de ejecutar el juego.'#
+/notrade: Rechaza ofertas comerciales autom√°ticamente. On | Off#
+Habilitado el rechazo autom√°tico de ofertas comerciales. [/nt ON]#
+Desactivado el rechazo autom√°tico de ofertas comerciales. [/nt OFF]#
+No puede comprar m√°s de 30,000 items a la vez.#
 No tienes suficientes materiales.#
-Se ha guardado la InformaciÛn de la Cuenta %s.#
-No se puede acceder debido a un problema de Hacking. Para m·s detalles consulte la Web y el Foro.#
+Se ha guardado la Informaci√≥n de la Cuenta %s.#
+No se puede acceder debido a un problema de Hacking. Para m√°s detalles consulte la Web y el Foro.#
 No se puede acceder debido a un Error del Sistema.#
 Items Reparables#
-El Item ha sido reparado con Èxito.#
+El Item ha sido reparado con √©xito.#
 No ha podido reparar este item. Por favor verifique la distancia entre usted y su oponente.#
 Estado del Sistema activado [GM mode] [/sc ON]#
 Estado del Sistema desactivado [GM mode] [/sc OFF]#
-/systemcheck: øDeseas examinar el estado del sistema? [GM mode] On | Off#
-(%s) quiere ser tu Amigo, øAceptas?#
-No puedes aÒadir mas Amigos.#
-(%s) no tiene espacio para aÒadir mas Amigos.#
+/systemcheck: ¬øDeseas examinar el estado del sistema? [GM mode] On | Off#
+(%s) quiere ser tu Amigo, ¬øAceptas?#
+No puedes a√±adir mas Amigos.#
+(%s) no tiene espacio para a√±adir mas Amigos.#
 Te has hecho Amigo de (%s).#
 (%s) no quiere ser tu Amigo.#
 Este personaje ha sido bloqueado hasta %s.#
-El precio se fijar· en 10,000,000 zeny, incluso si ingresa un precio m·s alto.#
+El precio se fijar√° en 10,000,000 zeny, incluso si ingresa un precio m√°s alto.#
 (Desierto)#
-(VacÌo)#
+(Vac√≠o)#
 (Normal)#
 (Lleno)#
 (Saturado)#
 Un GM te ha bloqueado el habla durante %d minuto(s) por conducta inapropiada.#
 Quedan %d minuto(s) hasta que finalice el castigo.#
 El castigo ha finalizado. Por favor, procure no volver a infringir las normas.#
-Se te han bloqueado autom·ticamente las skills y chat durante %d minuto(s)#
-Quedan %d minuto(s) hasta que finalice el castigo autom·tico.#
-Se te ha levantado el castigo autom·tico. Por favor, procura no repetirte ni molestar a los demas.#
+Se te han bloqueado autom√°ticamente las skills y chat durante %d minuto(s)#
+Quedan %d minuto(s) hasta que finalice el castigo autom√°tico.#
+Se te ha levantado el castigo autom√°tico. Por favor, procura no repetirte ni molestar a los demas.#
 %s se ha divorciado de %s.#
 El Star Gladiator %s ha designado %s como el Lugar del Sol.#
 El Star Gladiator %s ha designado %s como el Lugar de la Luna.#
@@ -847,25 +847,25 @@ El Star Gladiator %s ha designado %s como el Monstruo de las Estrellas.#
 Monstruo del Sol del Star Gladiator %s : %s#
 Monstruo de la Luna del Star Gladiator %s : %s#
 Monstruo de las Estrellas del Star Gladiator %s : %s#
-/window: Las ventanas se ajustar·n/acoplar·n entre ellas. On | Off#
+/window: Las ventanas se ajustar√°n/acoplar√°n entre ellas. On | Off#
 Ventana de acoplamiento activada. [/wi ON]#
 Ventana de acoplamiento deshabilitada. [/wi OFF]#
 /pvpinfo: Muestra sus resultados PVP y puntos PVP.#
-Estado actual: %d Victorias, %d Derrotas. Tu puntuaciÛn en PVP es de %d#
+Estado actual: %d Victorias, %d Derrotas. Tu puntuaci√≥n en PVP es de %d#
 El punto de moral se te ha transferido satisfactoriamente.#
-Est·s en un ·rea PK. Cuidado con los ataques repentinos.#
+Est√°s en un √°rea PK. Cuidado con los ataques repentinos.#
 Game Guard no ha sido actualizado o existe un problema causado por un virus o spyware que ha provocado un fallo en el sistema. Por favor, ejecuta un antivirus para reparar tu sistema.#
 El sistema ha encontrado un error relacionado con la compatibilidad de Windows. Por favor, vuelva a iniciar el juego.#
 Se te ha bloqueado el chat, las skills e inventario.#
-El inicio de sesiÛn no est· disponible temporalmente mientras se elimina este personaje.#
-El inicio de sesiÛn no est· disponible temporalmente mientras se elimina el personaje de su cÛnyuge.#
+El inicio de sesi√≥n no est√° disponible temporalmente mientras se elimina este personaje.#
+El inicio de sesi√≥n no est√° disponible temporalmente mientras se elimina el personaje de su c√≥nyuge.#
 Novato#
-EspadachÌn#
+Espadach√≠n#
 Mago#
 Arquero#
-AcÛlito#
+Ac√≥lito#
 Comerciante#
-LadrÛn#
+Ladr√≥n#
 Caballero#
 Sacerdote#
 Hechicero#
@@ -873,38 +873,38 @@ Herrero#
 Cazador#
 Asesino#
 Novato#
-EspadachÌn#
+Espadach√≠n#
 Mago#
 Arquero#
-AcÛlito#
+Ac√≥lito#
 Comerciante#
-LadrÛn#
+Ladr√≥n#
 Caballero#
 Sacerdote#
 Hechicero#
 Herrero#
 Cazador#
 Asesino#
-Enviar una solicitud de adopciÛn a %s#
-Cuando te conviertas en un niÒo, no podr·s convertirte en un personaje de Transcendent Class, todas las estadÌsticas se limitar·n a un m·ximo de 80 y se reducir· el HP/SP m·ximo. øEst·s seguro de que quieres ser adoptado?#
+Enviar una solicitud de adopci√≥n a %s#
+Cuando te conviertas en un ni√±o, no podr√°s convertirte en un personaje de Transcendent Class, todas las estad√≠sticas se limitar√°n a un m√°ximo de 80 y se reducir√° el HP/SP m√°ximo. ¬øEst√°s seguro de que quieres ser adoptado?#
 Todos los estados alterados han sido curados.#
-Ser· inmune a los estados alterados durante el prÛximo minuto.#
-Su HP M·ximo se mantendr· aumentado durante el prÛximo minuto.#
-Su SP m·ximo se mantendr· aumentado durante el prÛximo minuto.#
-Todas sus Stats se mantendr·n aumentadas durante el prÛximo minuto.#
-Tu Arma seguir· bendecida con elemento sagrado durante el prÛximo minuto.#
-Tu Armadura seguir· bendecida con elemento sagrado durante el prÛximo minuto.#
-Tu Defensa permanecer· aumentada durante los prÛximos 10 segundos.#
-Tu Fuerza de Ataque aumentar· durante el prÛximo minuto.#
-Su PrecisiÛn y Tasa de EvasiÛn se incrementar·n durante el prÛximo minuto.#
-No puede adoptar m·s de 1 niÒo.#
+Ser√° inmune a los estados alterados durante el pr√≥ximo minuto.#
+Su HP M√°ximo se mantendr√° aumentado durante el pr√≥ximo minuto.#
+Su SP m√°ximo se mantendr√° aumentado durante el pr√≥ximo minuto.#
+Todas sus Stats se mantendr√°n aumentadas durante el pr√≥ximo minuto.#
+Tu Arma seguir√° bendecida con elemento sagrado durante el pr√≥ximo minuto.#
+Tu Armadura seguir√° bendecida con elemento sagrado durante el pr√≥ximo minuto.#
+Tu Defensa permanecer√° aumentada durante los pr√≥ximos 10 segundos.#
+Tu Fuerza de Ataque aumentar√° durante el pr√≥ximo minuto.#
+Su Precisi√≥n y Tasa de Evasi√≥n se incrementar√°n durante el pr√≥ximo minuto.#
+No puede adoptar m√°s de 1 ni√±o.#
 Requieres ser nivel 70 o superior para adoptar un hijo.#
 [Punto] Has sido recompensado con %d puntos de Blacksmith rank. Tu puntaje total es %d.#
 [Punto] Has sido recompensado con %d puntos de Alchemist rank. Tu puntaje total es %d.#
-Querido ·ngel, øPuedes oÌr mi voz?#
+Querido √°ngel, ¬øPuedes o√≠r mi voz?#
 Lo hago#
-°Super Novato~!#
-Ay˙dame~ por favor ~ T_T#
+¬°Super Novato~!#
+Ay√∫dame~ por favor ~ T_T#
 /notalkmsg2: Ocultar mensajes de chat (incluido el chat de guild). On Off#
 Mostrar mensajes de chat. [/nm2 ON]#
 Ocultar mensajes de chat (incluido el chat de guild) [/nm2 OFF]#
@@ -913,34 +913,34 @@ Arma refinada: %s#
 Arma refinada: %s#
 No puedes mejorar %s hasta que subas de nivel tu habilidad Upgrade Weapon.#
 %s es requerido para mejorar esta arma.#
-Full Divestment no hace efecto. El objetivo est· completamente protegido.#
-No puedes adoptar a una persona que est· casada.#
+Full Divestment no hace efecto. El objetivo est√° completamente protegido.#
+No puedes adoptar a una persona que est√° casada.#
 Este nombre no se encuentra registrado en tu lista de amigos. Por favor revisa el nombre nuevamente.#
-/hi or /hi message: EnvÌa un saludo a la gente que este online de tu lista de amigos.#
+/hi or /hi message: Env√≠a un saludo a la gente que este online de tu lista de amigos.#
 Este personaje no es un miembro de tu guild. Por favor revisa el nombre nuevamente.#
-Por favor se consciente de que el precio m·ximo de venta es de 2 mil millones. No puedes vender un item a un precio mayor.#
+Por favor se consciente de que el precio m√°ximo de venta es de 2 mil millones. No puedes vender un item a un precio mayor.#
 Los susurros de amigos se muestran como [Amigo], y los de miembros de guild como [Miembro].#
-( Desde "Nombre del personaje": ) proviene de un jugador anÛnimo que no esta en tu Gremio ni en tu lista de Amigos.#
+( Desde "Nombre del personaje": ) proviene de un jugador an√≥nimo que no esta en tu Gremio ni en tu lista de Amigos.#
 /blacksmith: Muestra los 10 mejores Blacksmiths del servidor.#
 /alchemist: Muestra los 10 mejores Alchemists del servidor.#
 ALT+Y: Abre una ventana que le permite usar varios comandos con facilidad.#
-[PUNTO] Has sido recompensado con %d punto(s) de rango de la Mision Tae-Kwon. Tu puntuaciÛn total es de %d.#
-[MisiÛn de Taekwon] Monstruo Objetivo: %s (%d%%)#
+[PUNTO] Has sido recompensado con %d punto(s) de rango de la Mision Tae-Kwon. Tu puntuaci√≥n total es de %d.#
+[Misi√≥n de Taekwon] Monstruo Objetivo: %s (%d%%)#
 Error - No se pudo iniciar con GameGuard: %lu#
 Speed Hack ha sido detectado.#
 El programa ilegal, (%s) ha sido detectado.#
 El Juego o GameGuard han sido corrompidos.#
 GameGuard ya ha sido iniciado. Espere un rato y reinicie el juego.#
 El Juego o GameGuard ya ha sido iniciado. Por favor, reinicie el juego.#
-Error al iniciar GameGuard. IntÈntalo de nuevo tras reiniciar el sistema o cerrar algunos programas.#
-Error al cargar el modulo antivirus. Esto puede deberse a un fallo en la memoria o una infecciÛn de virus en su PC.#
-InformaciÛn del Hom˙nculo#
-Skills del Hom˙nculo#
-Por favor, dale a tu Hom˙nculo un nombre de no mayor de 23 letras.#
-Puedes nombrar un Hom˙nculo solo una vez. Has introducido el nombre, ^0000ff%s^000000. øDeseas continuar?#
+Error al iniciar GameGuard. Int√©ntalo de nuevo tras reiniciar el sistema o cerrar algunos programas.#
+Error al cargar el modulo antivirus. Esto puede deberse a un fallo en la memoria o una infecci√≥n de virus en su PC.#
+Informaci√≥n del Hom√∫nculo#
+Skills del Hom√∫nculo#
+Por favor, dale a tu Hom√∫nculo un nombre de no mayor de 23 letras.#
+Puedes nombrar un Hom√∫nculo solo una vez. Has introducido el nombre, ^0000ff%s^000000. ¬øDeseas continuar?#
 (Ausente)#
-[Mensaje Autom·tico]#
-Envia un mensaje autom·tico cuando estes ausente.#
+[Mensaje Autom√°tico]#
+Envia un mensaje autom√°tico cuando estes ausente.#
 Cancelar mensaje automatico de ausencia.#
 Escribe un mensaje automatico para cuando no estes.#
 /fsh#
@@ -951,37 +951,37 @@ Escribe un mensaje automatico para cuando no estes.#
 /desp#
 /dice#
 /pk: Muestra el Ranking de los 10 mejores Asesinos del servidor.#
-[PUNTO] Has sido recompensado con %d punto(s) de rango Asesino. Tu puntuaciÛn total es de %d.#
-EvoluciÛn Disponible#
-Has decidido eliminar este Hom˙nculo ^ff0000^ff0000. Cuando se haya eliminado, no ser· posible recuperarlo en el futuro. øDeseas continuar?#
-El Estado del Hom˙nculo se guardar·#
-El Estado del Hom˙nculo no se guardar·#
+[PUNTO] Has sido recompensado con %d punto(s) de rango Asesino. Tu puntuaci√≥n total es de %d.#
+Evoluci√≥n Disponible#
+Has decidido eliminar este Hom√∫nculo ^ff0000^ff0000. Cuando se haya eliminado, no ser√° posible recuperarlo en el futuro. ¬øDeseas continuar?#
+El Estado del Hom√∫nculo se guardar√°#
+El Estado del Hom√∫nculo no se guardar√°#
 Cruzado#
 Monje#
 Sabio#
-PÌcaro#
+P√≠caro#
 Alquimista#
 Bardo#
 Cruzado#
 Monje#
 Sabio#
-PÌcaro#
+P√≠caro#
 Alquimista#
 Danzarina#
 Alto Novato#
-Alto EspadachÌn#
+Alto Espadach√≠n#
 Alto Mago#
 Alto Arquero#
-Alto AcÛlito#
+Alto Ac√≥lito#
 Alto Comerciante#
-Alto LadrÛn#
+Alto Ladr√≥n#
 Alto Novato#
-Alto EspadachÌn#
+Alto Espadach√≠n#
 Alto Mago#
 Alto Arquero#
-Alto AcÛlito#
+Alto Ac√≥lito#
 Alto Comerciante#
-Alto LadrÛn#
+Alto Ladr√≥n#
 Lord Knight#
 Sumo Sacerdote#
 Gran Hechicero#
@@ -994,46 +994,46 @@ Gran Hechicero#
 Maestro Herrero#
 Francotirador#
 Asesino Cruzado#
-PaladÌn#
-CampeÛn#
+Palad√≠n#
+Campe√≥n#
 Profesor#
 Acosador#
 Creador#
 Payaso#
-PaladÌn#
-CampeÛn#
+Palad√≠n#
+Campe√≥n#
 Profesor#
 Acosador#
 Creador#
 Gitana#
-A˙n no has establecido una contraseÒa. øTe gustarÌa crear una ahora?#
-Has ingresado la contraseÒa incorrectamente 3 veces. Por favor, intÈntelo de nuevo m·s tarde.#
-La creaciÛn de la contraseÒa ha fallado.#
-La contraseÒa debe tener entre 4 y 8 letras.#
-ContraseÒa#
-Nueva contraseÒa#
-Confirmar contraseÒa#
-La contraseÒa ha sido cambiada.#
-Las contraseÒas no coinciden.#
-Introduce la contraseÒa#
-Tu hom˙nculo est· muriendo de hambre. AlimÈntalo, de lo contrario te dejar·.#
+A√∫n no has establecido una contrase√±a. ¬øTe gustar√≠a crear una ahora?#
+Has ingresado la contrase√±a incorrectamente 3 veces. Por favor, int√©ntelo de nuevo m√°s tarde.#
+La creaci√≥n de la contrase√±a ha fallado.#
+La contrase√±a debe tener entre 4 y 8 letras.#
+Contrase√±a#
+Nueva contrase√±a#
+Confirmar contrase√±a#
+La contrase√±a ha sido cambiada.#
+Las contrase√±as no coinciden.#
+Introduce la contrase√±a#
+Tu hom√∫nculo est√° muriendo de hambre. Alim√©ntalo, de lo contrario te dejar√°.#
 EXP#
-[EVENTO] Has ganado un premio del evento. RecÌbelo en el juego.#
+[EVENTO] Has ganado un premio del evento. Rec√≠belo en el juego.#
 Hostil#
-Odio con pasiÛn#
-El hom˙nculo ha sido personalizado.#
-El hom˙nculo se ha activado con la IA b·sica.#
+Odio con pasi√≥n#
+El hom√∫nculo ha sido personalizado.#
+El hom√∫nculo se ha activado con la IA b√°sica.#
 Lista de Correo#
 Escribir Correo#
 Leer Mensaje#
-No puede cambiar la designaciÛn de un mapa una vez designado. øEst·s seguro de que deseas designar este mapa?#
+No puede cambiar la designaci√≥n de un mapa una vez designado. ¬øEst√°s seguro de que deseas designar este mapa?#
 El item se ha agregado en la ventana de items.#
 No ha podido agregar el item en la ventana de items.#
 Has enviado un mensaje correctamente.#
 No ha podido enviar el mensaje. El destinatario no existe.#
-[¡ngel Solar, Lunar y Estelar] Los lugares designados y los monstruos se han reiniciado.#
-La oferta mÌnima inicial para las subastas es de 10,000,000 zeny.#
-Has iniciado con Èxito una nueva subasta.#
+[√Ångel Solar, Lunar y Estelar] Los lugares designados y los monstruos se han reiniciado.#
+La oferta m√≠nima inicial para las subastas es de 10,000,000 zeny.#
+Has iniciado con √©xito una nueva subasta.#
 La subasta ha sido cancelada.#
 No se puede cancelar una subasta con al menos un postor.#
 El mensaje ha sido eliminado exitosamente.#
@@ -1041,16 +1041,16 @@ No ha podido eliminar el mensaje.#
 Has equipado dagas lanzables.#
 %s ha entrado.#
 %s ha salido.#
-/loginout: Muestra el estado en lÌnea de Gremios y Amigos. On Off#
-Mostrar el estado en lÌnea de amigos en la ventana de chat. [/li ON]#
-No mostrar el estado en lÌnea de amigos en la ventana de chat. [/li OFF]#
+/loginout: Muestra el estado en l√≠nea de Gremios y Amigos. On Off#
+Mostrar el estado en l√≠nea de amigos en la ventana de chat. [/li ON]#
+No mostrar el estado en l√≠nea de amigos en la ventana de chat. [/li OFF]#
 Ya ha sido iniciado.#
 Se ha detectado el uso del programa Macro.#
 Se ha detectado el uso de Speed hack.#
 Se ha detectado el enlace API.#
-Se ha detectado la conexiÛn de mensajes.#
-El mÛdulo ha sido modificado o daÒado o su versiÛn no coincide.#
-(Tailandia) Has iniciado sesiÛn en el juego con el pago de un cibercafÈ.#
+Se ha detectado la conexi√≥n de mensajes.#
+El m√≥dulo ha sido modificado o da√±ado o su versi√≥n no coincide.#
+(Tailandia) Has iniciado sesi√≥n en el juego con el pago de un cibercaf√©.#
 Anterior#
 Siguiente#
 Subasta#
@@ -1060,28 +1060,28 @@ Estado de Venta#
 Estado de Compra#
 Objeto#
 Nombre#
-Oferta Actual / Oferta M·xima#
+Oferta Actual / Oferta M√°xima#
 Vendedor#
 Comprador#
 Fin de Subasta#
 %m %d %H#
 Tiempo (Hr)#
 Cuota#
-No se encontraron items en la b˙squeda de subastas.#
-Su Lista de Venta est· vacÌa.#
-Su Lista de Compras est· vacÌa.#
-La informaciÛn de la subasta es incorrecta o est· incompleta.#
+No se encontraron items en la b√∫squeda de subastas.#
+Su Lista de Venta est√° vac√≠a.#
+Su Lista de Compras est√° vac√≠a.#
+La informaci√≥n de la subasta es incorrecta o est√° incompleta.#
 Debe arrastrar y soltar un item de su inventario en la ventana de registro para comenzar una nueva subasta.#
 La subasta ya ha sido registrada.#
 Comenzando Oferta#
 Oferta Actual#
 Precio de Compra Inmediata#
 Tu zeny actual#
-Oferta M·xima#
+Oferta M√°xima#
 Oferta anterior#
 Oferta siguiente#
-øComprar ahora?#
-øQuieres vender este item?#
+¬øComprar ahora?#
+¬øQuieres vender este item?#
 Hacer Oferta#
 Comprar ahora#
 Finalizar la subasta#
@@ -1096,20 +1096,20 @@ Oferta#
 Buscar#
 Has finalizado la subasta.#
 No puedes finalizar la subasta.#
-El n˙mero de la oferta es incorrecto.#
+El n√∫mero de la oferta es incorrecto.#
 Para#
-TÌtulo#
+T√≠tulo#
 Has recibido un mensaje a tu correo.#
 Buscando...#
-No puedes registrar m·s de 5 items en una subasta al mismo tiempo.#
-No puedes hacer m·s de 5 ofertas al mismo tiempo.#
-Por favor, acepte todos los artÌculos de su correo antes de borrarlos.#
-Por favor, inserte un tÌtulo.#
+No puedes registrar m√°s de 5 items en una subasta al mismo tiempo.#
+No puedes hacer m√°s de 5 ofertas al mismo tiempo.#
+Por favor, acepte todos los art√≠culos de su correo antes de borrarlos.#
+Por favor, inserte un t√≠tulo.#
 /shopping: Le permite abrir una tienda con un solo clic izquierdo y cerrar su tienda con un solo clic derecho. On Off#
 Ahora puede abrir una tienda con un solo clic izquierdo y cerrar su tienda con un solo clic derecho. [sh ON].#
 Puedes abrir una tienda haciendo doble clic. [/sh OFF]#
 Por favor ingrese el monto en zeny antes de enviar el correo.#
-No tiene suficiente zeny para pagar la comisiÛn de la Subasta.#
+No tiene suficiente zeny para pagar la comisi√≥n de la Subasta.#
 Ver Estado#
 Alimentar#
 Pasivo/Agresivo#
@@ -1121,22 +1121,22 @@ Gladiador Estelar#
 Gladiador Estelar#
 Enlazador de Almas#
 Enlazador de Almas#
-Verifique la conexiÛn, m·s de 2 cuentas est·n conectadas con el plan de tiempo de Internet Cafe.#
-Su cuenta est· usando pago mensual. (DÌas restante: %d dÌa(s))#
-Su cuenta est· usando tiempo limitado. (Tiempo restante: %d hora(s) %d minuto(s) %d segundo(s))#
+Verifique la conexi√≥n, m√°s de 2 cuentas est√°n conectadas con el plan de tiempo de Internet Cafe.#
+Su cuenta est√° usando pago mensual. (D√≠as restante: %d d√≠a(s))#
+Su cuenta est√° usando tiempo limitado. (Tiempo restante: %d hora(s) %d minuto(s) %d segundo(s))#
 Este item no se puede enviar por correo.#
-No puedes aceptar m·s items. Por favor, intÈntelo de nuevo m·s tarde.#
+No puedes aceptar m√°s items. Por favor, int√©ntelo de nuevo m√°s tarde.#
 Masculino#
 Femenino#
 Nuevo usuario.#
-Se requiere una direcciÛn de E-mail para eliminar un personaje.#
-Por favor ingrese la informaciÛn correcta.#
+Se requiere una direcci√≥n de E-mail para eliminar un personaje.#
+Por favor ingrese la informaci√≥n correcta.#
 Por favor use esta clave.#
-Por favor ingrese la contraseÒa correcta de la tarjeta.#
+Por favor ingrese la contrase√±a correcta de la tarjeta.#
 Info Grupo#
 PT_ID es %s#
 NUM_ID es %s#
-Por favor no olvides esta informaciÛn.#
+Por favor no olvides esta informaci√≥n.#
 1001#
 1002#
 1003#
@@ -1167,7 +1167,7 @@ Por favor no olvides esta informaciÛn.#
 90#
 100#
 110#
-øQuieres recibir 30 puntos?#
+¬øQuieres recibir 30 puntos?#
 Se han agregado 30 puntos (5 horas).#
 No puede registrar items no identificados en subastas.#
 No puede registrar este item consumible en una subasta.#
@@ -1176,59 +1176,59 @@ Cierre la ventana de correo para abrir la ventana del carrito.#
 Las municiones han sido equipadas.#
 El correo ha sido devuelto al remitente.#
 El correo ya no existe.#
-M·s de 30 jugadores que comparten la misma IP han iniciado sesiÛn en el juego durante una hora. Por favor revise este asunto.#
-M·s de 10 conexiones que comparten la misma IP han iniciado sesiÛn en el juego durante una hora. Por favor revise este asunto.#
+M√°s de 30 jugadores que comparten la misma IP han iniciado sesi√≥n en el juego durante una hora. Por favor revise este asunto.#
+M√°s de 10 conexiones que comparten la misma IP han iniciado sesi√≥n en el juego durante una hora. Por favor revise este asunto.#
 Por favor reinicie el juego.#
 Mercenario: Arquero#
-Mercenario: EspadachÌn#
+Mercenario: Espadach√≠n#
 Mercenario: Lancero#
 Vencimiento#
 Lealtad#
-InvocaciÛn#
+Invocaci√≥n#
 Matar#
-Puedes sentir odio por parte de tu mascota por descuidar su alimentaciÛn.#
-[PUNTO] Usted ganÛ %d puntos del Ranking del Taming Mission, consiguiendo un total de %d puntos.#
+Puedes sentir odio por parte de tu mascota por descuidar su alimentaci√≥n.#
+[PUNTO] Usted gan√≥ %d puntos del Ranking del Taming Mission, consiguiendo un total de %d puntos.#
 [Taming Mission] Monstruo objetivo: %s#
 /hunting: Puedes consultar tu lista de caza.#
-[Pregunta del ¡ngel] Por favor dime, øCu·ntas skills %s tienes?#
-[Pregunta del ¡ngel] Por favor, dime, øCu·nto zeny tendrÌas si lo divides por 100,000?#
-[Pregunta del ¡ngel] Por favor dime, øCu·l es la fecha de hoy?#
-[Pregunta del ¡ngel] Por favor dime, øCu·ntos %s tienes?#
-[Pregunta del ¡ngel] Si A es 1, B es 2 y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras en el nombre de SiYeon?#
-[Pregunta del ¡ngel] Si A es 1, B es 2 y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras en el nombre de Munak?#
-[Pregunta del ¡ngel] Si A es 1, B es 2 y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras en el nombre de Bongun?#
-[Pregunta del ¡ngel] Si A es 1, B es 2, y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras en la palabra, Ragnarok?#
-[Pregunta del ¡ngel] Si A es 1, B es 2, y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras de la palabra Online?#
-[Pregunta del ¡ngel] Si A es 1, B es 2, y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtiene si agrega las letras en la palabra, muerte?#
-[Pregunta del ¡ngel] Si A es 1, B es 2, y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras en la palabra, knight?#
-[Pregunta del ¡ngel] Si A es 1, B es 2, y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras en la palabra, gravity?#
-[Pregunta del ¡ngel] Si A es 1, B es 2 y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtienes si agregas las letras en la palabra, oscuro?#
-[Pregunta del ¡ngel] Si A es 1, B es 2, y asÌ sucesivamente, y si Z es 26, øQuÈ n˙mero obtiene si agrega las letras en la palabra, colector?#
-[Pregunta del ¡ngel] Gracias por hacÈrmelo saber~#
-[Pregunta del ¡ngel] Estoy muy satisfecho con tu respuesta. Eres un esplÈndido aventurero.#
-[Pregunta del ¡ngel] Me has decepcionado...#
-[PUNTO] Usted ganÛ %d Ranking Points, consiguiendo un total de %d Ranking Points.#
+[Pregunta del √Ångel] Por favor dime, ¬øCu√°ntas skills %s tienes?#
+[Pregunta del √Ångel] Por favor, dime, ¬øCu√°nto zeny tendr√≠as si lo divides por 100,000?#
+[Pregunta del √Ångel] Por favor dime, ¬øCu√°l es la fecha de hoy?#
+[Pregunta del √Ångel] Por favor dime, ¬øCu√°ntos %s tienes?#
+[Pregunta del √Ångel] Si A es 1, B es 2 y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras en el nombre de SiYeon?#
+[Pregunta del √Ångel] Si A es 1, B es 2 y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras en el nombre de Munak?#
+[Pregunta del √Ångel] Si A es 1, B es 2 y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras en el nombre de Bongun?#
+[Pregunta del √Ångel] Si A es 1, B es 2, y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras en la palabra, Ragnarok?#
+[Pregunta del √Ångel] Si A es 1, B es 2, y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras de la palabra Online?#
+[Pregunta del √Ångel] Si A es 1, B es 2, y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtiene si agrega las letras en la palabra, muerte?#
+[Pregunta del √Ångel] Si A es 1, B es 2, y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras en la palabra, knight?#
+[Pregunta del √Ångel] Si A es 1, B es 2, y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras en la palabra, gravity?#
+[Pregunta del √Ångel] Si A es 1, B es 2 y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtienes si agregas las letras en la palabra, oscuro?#
+[Pregunta del √Ångel] Si A es 1, B es 2, y as√≠ sucesivamente, y si Z es 26, ¬øQu√© n√∫mero obtiene si agrega las letras en la palabra, colector?#
+[Pregunta del √Ångel] Gracias por hac√©rmelo saber~#
+[Pregunta del √Ångel] Estoy muy satisfecho con tu respuesta. Eres un espl√©ndido aventurero.#
+[Pregunta del √Ångel] Me has decepcionado...#
+[PUNTO] Usted gan√≥ %d Ranking Points, consiguiendo un total de %d Ranking Points.#
 [%s]'s Puntos: %d Puntos#
-Los Personajes no seleccionados ser·n eliminados. øContinuar?#
-No puedes seleccionar m·s de 8.#
-øQuieres cambiar tu nombre a '%s'?#
+Los Personajes no seleccionados ser√°n eliminados. ¬øContinuar?#
+No puedes seleccionar m√°s de 8.#
+¬øQuieres cambiar tu nombre a '%s'?#
 El nombre del personaje se ha cambiado correctamente.#
 No has podido cambiar el nombre de este personaje.#
 Solo puedes comprar un tipo de item a la vez.#
 No se seleccionaron personajes. Debes seleccionar al menos un personaje.#
-El nombre de este personaje ya ha sido cambiado. No puedes cambiar el nombre de un personaje m·s de una vez.#
-La informaciÛn del usuario no es correcta.#
-Otro usuario est· usando este nombre de personaje, seleccione otro.#
-El miembro del party no fue convocado porque usted no es el lÌder del grupo.#
-No hay ning˙n miembro del party para convocar en el mapa actual.#
-No puedes encontrar ning˙n rastro de un Boss Monster en esta ·rea.#
-Boss Monster, '%s' aparecer· en %02d hora(s) y %02d minuto(s).#
-La ubicaciÛn de Boss Monster, '%s', se mostrar· en su Mini-Mapa.#
-Quieres abrir ^990099%s^000000? Una vez abierto, el contenido no se puede mover a otras ubicaciones aparte del Kafra Storage. El efecto del item no se duplica, incluso si los mismos items se usan m·s de una vez.#
+El nombre de este personaje ya ha sido cambiado. No puedes cambiar el nombre de un personaje m√°s de una vez.#
+La informaci√≥n del usuario no es correcta.#
+Otro usuario est√° usando este nombre de personaje, seleccione otro.#
+El miembro del party no fue convocado porque usted no es el l√≠der del grupo.#
+No hay ning√∫n miembro del party para convocar en el mapa actual.#
+No puedes encontrar ning√∫n rastro de un Boss Monster en esta √°rea.#
+Boss Monster, '%s' aparecer√° en %02d hora(s) y %02d minuto(s).#
+La ubicaci√≥n de Boss Monster, '%s', se mostrar√° en su Mini-Mapa.#
+Quieres abrir ^990099%s^000000? Una vez abierto, el contenido no se puede mover a otras ubicaciones aparte del Kafra Storage. El efecto del item no se duplica, incluso si los mismos items se usan m√°s de una vez.#
 La compra ha fallado porque el NPC no existe.#
 La compra ha fallado porque el Sistema Kafra Shop no funciona correctamente.#
-No puede comprar items mientras est· en una negociaciÛn.#
-La compra ha fallado porque la informaciÛn del item era incorrecta.#
+No puede comprar items mientras est√° en una negociaci√≥n.#
+La compra ha fallado porque la informaci√≥n del item era incorrecta.#
 STR ha aumentado.#
 STR ha vuelto a la normalidad.#
 AGI ha aumentado.#
@@ -1241,41 +1241,41 @@ DEX ha aumentado.#
 DEX ha vuelto a la normalidad.#
 LUK ha aumentado.#
 LUK ha vuelto a la normalidad.#
-La Tasa de EvasiÛn (Flee) ha aumentado.#
-La Tasa de EvasiÛn (Flee) ha vuelto a la normalidad.#
-La Tasa de PrecisiÛn (Hit) ha aumentado.#
-La Tasa de PrecisiÛn ha vuelto a la normalidad.#
-El Ataque CrÌtico (Critical) ha aumentado.#
-El Ataque CrÌtico ha vuelto a la normalidad.#
-Recibir·s 1.5 veces m·s EXP por cazar monstruos durante los prÛximos 30 minutos.#
-Este personaje no recibir· ninguna penalizaciÛn de EXP si se cancela dentro de los prÛximos 30 minutos.#
-Los Drops de items regulares de los monstruos se duplicar·n durante los prÛximos 30 minutos.#
-Boss Monster Map Information para los prÛximos 10 minutos.#
-øRealmente quieres comprar este item? Se deducir·n %d puntos del total de Puntos de CrÈdito de Kafra.#
- No tiene suficientes Puntos de CrÈdito Kafra.#
+La Tasa de Evasi√≥n (Flee) ha aumentado.#
+La Tasa de Evasi√≥n (Flee) ha vuelto a la normalidad.#
+La Tasa de Precisi√≥n (Hit) ha aumentado.#
+La Tasa de Precisi√≥n ha vuelto a la normalidad.#
+El Ataque Cr√≠tico (Critical) ha aumentado.#
+El Ataque Cr√≠tico ha vuelto a la normalidad.#
+Recibir√°s 1.5 veces m√°s EXP por cazar monstruos durante los pr√≥ximos 30 minutos.#
+Este personaje no recibir√° ninguna penalizaci√≥n de EXP si se cancela dentro de los pr√≥ximos 30 minutos.#
+Los Drops de items regulares de los monstruos se duplicar√°n durante los pr√≥ximos 30 minutos.#
+Boss Monster Map Information para los pr√≥ximos 10 minutos.#
+¬øRealmente quieres comprar este item? Se deducir√°n %d puntos del total de Puntos de Cr√©dito de Kafra.#
+ No tiene suficientes Puntos de Cr√©dito Kafra.#
  ^ff0000Fecha de Caducidad: %s^000000#
- El item '%s' desaparecer· en %d minuto(s).#
- '%s' el item se eliminar· del inventario en 1 minuto.#
+ El item '%s' desaparecer√° en %d minuto(s).#
+ '%s' el item se eliminar√° del inventario en 1 minuto.#
   '%s' el item ha sido eliminado del inventario.#
-N˙mero de entrada#
+N√∫mero de entrada#
 %m/%d %H:%M#
-Boss Monster '%s' aparecer· en 1 minuto.#
+Boss Monster '%s' aparecer√° en 1 minuto.#
 Lista de Skills del Mercenary Soldier#
-øEst·s de acuerdo en lanzar el hechizo m·gico que consume 1 Black Gemstone y 1,000,000 Zeny?#
+¬øEst√°s de acuerdo en lanzar el hechizo m√°gico que consume 1 Black Gemstone y 1,000,000 Zeny?#
 [PUNTO] Has ganado %d Collector Rank Points; consiguiendo un total de %d Collector Rank Points.#
 [Collector Rank] Item objetivo: %s#
 El contrato con el mercenario ha expirado.#
 El mercenario ha muerto.#
 Has liberado al mercenario.#
 El mercenario ha huido.#
- El '%s' item desaparecer· en %d segundo(s).#
+ El '%s' item desaparecer√° en %d segundo(s).#
 Bono IP: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
-Los sÌmbolos en los nombres de los personajes est·n prohibidos.#
-Mercenario seguir· la IA personalizada.#
-Mercenario seguir· la IA b·sica.#
+Los s√≠mbolos en los nombres de los personajes est√°n prohibidos.#
+Mercenario seguir√° la IA personalizada.#
+Mercenario seguir√° la IA b√°sica.#
  %s's #
 %s ha adquirido %s.#
-Chat P˙blico#
+Chat P√∫blico#
 Susurro#
 Chat de Party#
 Chat de Gremio#
@@ -1285,21 +1285,21 @@ Estado anormal#
 Item obtenido del miembro del party#
 Estado anormal del miembro del party#
 Falla de skill#
-ConfiguraciÛn del party#
-Equipamiento daÒado#
+Configuraci√≥n del party#
+Equipamiento da√±ado#
 Ventana de chat de batalla#
 [%s]'s Han Coin: %d Han Coin#
-P˙blico#
+P√∫blico#
 Batalla#
-AutenticaciÛn mÛvil#
+Autenticaci√≥n m√≥vil#
 Leer#
-Lectura autom·tica#
+Lectura autom√°tica#
 Marcador#
 Anterior#
 Siguiente#
 Cerrar#
-%s el equipo ha sido daÒado.#
-%s %s fue daÒado.#
+%s el equipo ha sido da√±ado.#
+%s %s fue da√±ado.#
 Arma#
 Armadura#
 Nivel de skill insuficiente para unirse a la party#
@@ -1310,30 +1310,30 @@ http://payment.ro.hangame.com/index.asp#
 Necesitas aceptar la politica de Gravity para poder usar este servicio.#
 Necesitas aceptar el acuerdo del usuario para poder usar este servicio.#
 ID incorrecta o no existente.#
-øEst·s seguro de comprar estos objetos? Gastar·s %d Cash Points y %d Kafra Points.#
+¬øEst√°s seguro de comprar estos objetos? Gastar√°s %d Cash Points y %d Kafra Points.#
 %d hora(s) han pasado.#
 %d hora(s) %d minuto(s) han pasado.#
-Por favor, dejar de jugar y tomate un descanso. La Exp se reducir· al 50%.#
-Por favor, deja de jugar ya que tendr·s que descansar. Exp y otras caracterÌsticas se fijar·n en 0%.#
+Por favor, dejar de jugar y tomate un descanso. La Exp se reducir√° al 50%.#
+Por favor, deja de jugar ya que tendr√°s que descansar. Exp y otras caracter√≠sticas se fijar√°n en 0%.#
 Lista de Misiones#
 Tienda RO#
-Memorial Dungeon, '%s' est· reservado.#
-FallÛ al reservar el Memorial Dungeon, '%s'.#
-Memorial Dungeon, '%s' ya est· reservado.#
+Memorial Dungeon, '%s' est√° reservado.#
+Fall√≥ al reservar el Memorial Dungeon, '%s'.#
+Memorial Dungeon, '%s' ya est√° reservado.#
 Memorial Dungeon, '%s' creado.\n Por favor ingrese en 5 minutos.#
-FallÛ al crear el Memorial Dungeon, '%s'.\n IntÈntalo de nuevo.#
-El personaje bloqueÛ la invitaciÛn de Party.#
+Fall√≥ al crear el Memorial Dungeon, '%s'.\n Int√©ntalo de nuevo.#
+El personaje bloque√≥ la invitaci√≥n de Party.#
 Bloquear todas las invitaciones de Party.#
 Permitir todas las invitaciones de Party.#
-Este item permanecera ligado permanentemente al personaje una vez equipado. øRealmente deseas equipar el objeto?#
-%s ahora est· vinculado permanentemente a este personaje.#
+Este item permanecera ligado permanentemente al personaje una vez equipado. ¬øRealmente deseas equipar el objeto?#
+%s ahora est√° vinculado permanentemente a este personaje.#
 No tienes suficientes Kafra Credit Points.#
 '%s', pregunta si quieres unirte a su Party#
-InformaciÛn de WOE#
-La reservaciÛn del Memorial Dungeon %s ha sido cancelada.#
-La creaciÛn del Memorial Dungeon %s ha fallado. IntÈntalo mas tarde.#
-Esta skill no se puede usar dentro de esta ·rea.#
-Este item no se puede usar dentro de esta ·rea.#
+Informaci√≥n de WOE#
+La reservaci√≥n del Memorial Dungeon %s ha sido cancelada.#
+La creaci√≥n del Memorial Dungeon %s ha fallado. Int√©ntalo mas tarde.#
+Esta skill no se puede usar dentro de esta √°rea.#
+Este item no se puede usar dentro de esta √°rea.#
 Mazmorra de Memoria (Instancia)#
 %s en Modo de Espera#
 %s Disponible#
@@ -1341,13 +1341,13 @@ Mazmorra de Memoria (Instancia)#
 La Instancia ha desaparecido porque nadie ha entrado al Memorial Dungeon.#
 Por favor, solicita de nuevo la entrada al Dungeon para poder iniciarlo.#
 Su prioridad de espera: ^ff0000%d^000000#
-La Dungeon solicitada desaparecer· si no ingresas en los prÛximos ^ff0000%s^000000.#
-Tiempo lÌmite de la MisiÛn de Dungeon:#
+La Dungeon solicitada desaparecer√° si no ingresas en los pr√≥ximos ^ff0000%s^000000.#
+Tiempo l√≠mite de la Misi√≥n de Dungeon:#
 La reserva de Memorial Dungeon ha sido cancelada.#
-La duraciÛn del Memorial Dungeon expirÛ; Ha sido destruido.#
-El lÌmite de tiempo de entrada del Memorial Dungeon expirÛ; Ha sido destruido.#
+La duraci√≥n del Memorial Dungeon expir√≥; Ha sido destruido.#
+El l√≠mite de tiempo de entrada del Memorial Dungeon expir√≥; Ha sido destruido.#
 El Memorial Dungeon ha sido eliminado.#
-Se ha producido un error del sistema en el Memorial Dungeon. Vuelve a iniciar sesiÛn en el juego para seguir jugando.#
+Se ha producido un error del sistema en el Memorial Dungeon. Vuelve a iniciar sesi√≥n en el juego para seguir jugando.#
 Este slot no es utilizable.#
 Tu Nivel Base es superior a 15.#
 Su Nivel de Job es superior a 15.#
@@ -1355,32 +1355,32 @@ No puedes jugar el personaje de la clase Merchant en este slot.#
 No se ha implementado#
 No se te permite usar este slot de personaje.#
 Este personaje no se puede eliminar.#
-La informaciÛn del equipo de este personaje no est· abierta al p˙blico.#
-La informaciÛn del equipo no est· abierta al p˙blico.#
-InformaciÛn del equipo abierta al p˙blico.#
-Verifique la informaciÛn del equipo de %s#
+La informaci√≥n del equipo de este personaje no est√° abierta al p√∫blico.#
+La informaci√≥n del equipo no est√° abierta al p√∫blico.#
+Informaci√≥n del equipo abierta al p√∫blico.#
+Verifique la informaci√≥n del equipo de %s#
 Equipo de %s#
 Mostrar equipo#
-Este servicio solo est· disponible para usuarios premium.#
+Este servicio solo est√° disponible para usuarios premium.#
 Las usuarios de prueba gratuita solo pueden contener hasta 50,000 zeny.#
 Battlefield Chat ha sido activado.#
 Battlefield Chat ha sido desactivado.#
 Infon de mercenarios - Tipo de monstruo#
 Mapa del Mundo#
-El Memorial Dungeon ahora est· cerrado.#
-^ff0000Eliminar un Mercenario^000000 TambiÈn eliminar· su historial de crecimiento. øRealmente quieres continuar con la eliminaciÛn?#
-El Memorial Dungeon ya est· abierto.#
-Esta cuenta no ha sido confirmada al conectarse a la clave de comunicaciÛn segura. ConÈctese primero a la clave y luego inicie sesiÛn en el juego.#
-El n˙mero de cuentas conectadas a esta IP ha excedido el lÌmite.#
-Has recibido una nueva misiÛn.#
+El Memorial Dungeon ahora est√° cerrado.#
+^ff0000Eliminar un Mercenario^000000 Tambi√©n eliminar√° su historial de crecimiento. ¬øRealmente quieres continuar con la eliminaci√≥n?#
+El Memorial Dungeon ya est√° abierto.#
+Esta cuenta no ha sido confirmada al conectarse a la clave de comunicaci√≥n segura. Con√©ctese primero a la clave y luego inicie sesi√≥n en el juego.#
+El n√∫mero de cuentas conectadas a esta IP ha excedido el l√≠mite.#
+Has recibido una nueva misi√≥n.#
 ^CC3399Requisito:#
-Ver info de Skills#
-Una vez utilizados, los puntos de skill no pueden reasignarse. øTe gustarÌa usar los puntos de skill?#
-1™ Clase#
-2™ Clase#
-Esta cuenta ha sido utilizada con programas ilegales o programas de piraterÌa. Tiempo de bloqueo: %s#
-Se ha detectado la posibilidad de exposiciÛn a un programa ilegal, infecciÛn por virus de PC o herramienta de pirateo. Ejecute cliente con licencia. Nuestro equipo est· tratando de crear un mejor ambiente para los jugadores de Ro.#
-Actualmente est·s jugando en el mejor entorno de juego. Disfruta el Ragnarok.#
+Ver info#
+Una vez utilizados, los puntos de skill no pueden reasignarse. ¬øTe gustar√≠a usar los puntos de skill?#
+1¬™ Clase#
+2¬™ Clase#
+Esta cuenta ha sido utilizada con programas ilegales o programas de pirater√≠a. Tiempo de bloqueo: %s#
+Se ha detectado la posibilidad de exposici√≥n a un programa ilegal, infecci√≥n por virus de PC o herramienta de pirateo. Ejecute cliente con licencia. Nuestro equipo est√° tratando de crear un mejor ambiente para los jugadores de Ro.#
+Actualmente est√°s jugando en el mejor entorno de juego. Disfruta el Ragnarok.#
 Puntos de Exp Job por matar monstruos han incrementado un 50% durante 30 minutos.#
 Puntos de Exp Base por matar monstruos han incrementado un 25% durante 30 minutos.#
 Puntos de Exp Base por matar monstruos han incrementado un 100% durante 30 minutos.#
@@ -1392,15 +1392,15 @@ Han Coin: %d Han Coin#
 RoK Point: %d RoK Point#
 Free Cash: %d Cash#
 Un usuario de este servidor no puede conectarse al servidor libre#
-Tu contraseÒa ha expirado. Por favor ingrese nuevamente#
-3™ Clase#
+Tu contrase√±a ha expirado. Por favor ingrese nuevamente#
+3¬™ Clase#
 Esta skill no se puede usar en ese objetivo.#
-No puedes usar la skill porque has excedido el lÌmite de posesiÛn de Ancilla.#
+No puedes usar la skill porque has excedido el l√≠mite de posesi√≥n de Ancilla.#
 [Holy Water] es requerido.#
 [Ancilla] es requerido.#
 No se puede duplicar dentro de una cierta distancia.#
 Esta skill requiere otras skills para ser utilizada.#
-El chat no est· permitido en este mapa#
+El chat no est√° permitido en este mapa#
 Han pasado 3 horas.#
 Han pasado 5 horas.#
 Game guard initialization error or previous version game guard file is installed. Please re-install the setup file and try again#
@@ -1530,8 +1530,8 @@ Se requiere [Tear Gas].#
 Se requiere [Acid Bottle].#
 Se requiere [Plant Bottle].#
 Se requiere [Mandragora Flowerpot].#
-Asignar LÌder de Grupo (Party)#
-øCambiar LÌder de Grupo (Party)?#
+Asignar L√≠der de Grupo (Party)#
+¬øCambiar L√≠der de Grupo (Party)?#
 Can't re-assign party leader#
 Can't be changed because of level gap#
 [%s] required '%d' amount.#
@@ -1542,11 +1542,11 @@ Battlefield - [%s] you sign up?#
 Admission application complete.#
 It was unregistered and not be able to enter the state.#
 Current admission application state.#
-øDeseas cancel the admission application?#
+¬øDeseas cancel the admission application?#
 %s has canceled Battle field admission.#
 After %s go to the Battle field. Make sure you're in stable condition. (Trading and teleportation are disabled)#
 Formal Name#
-øRealmente deseas go back to your savepoint?#
+¬øRealmente deseas go back to your savepoint?#
 Party member search#
 Message option is off the search party members.#
 10 seconds delay of party support is in effect#
@@ -1600,8 +1600,8 @@ Waiting for my situation: %d (Camp A)#
 Waiting for my situation: %d (Camp B)#
 Icono de campo de batalla activado.#
 Icono de campo de batalla desactivado.#
-NotificaciÛn de campo trasladada.#
-NotificaciÛn de ingreso pendiente al campo de batalla#
+Notificaci√≥n de campo trasladada.#
+Notificaci√≥n de ingreso pendiente al campo de batalla#
 Alguien#
  [%s] inflicts '%d' damage points on you.#
  [%s] attacked by [%s] with '%d' damage points.#
@@ -1609,7 +1609,7 @@ Alguien#
  [%s] attacks [%s] with '%d' damage points.#
 You dropped %s (%d).#
 [%s] quest - defeating [%s] progress (%d/%d).#
-La misiÛn [%s] ha sido cancelada.#
+La misi√≥n [%s] ha sido cancelada.#
 [%s] #
  %d Base exp points#
  %d Job exp points#
@@ -1620,19 +1620,19 @@ Mensaje de combate#
 Mensaje de combate del grupo#
 Mensaje de experiencia#
 Mensaje de experiencia del grupo#
-InformaciÛn de misiones#
+Informaci√≥n de misiones#
 Mensaje del campo de batalla#
 #
 casts [%s] skill.#
-FunciÛn de bloqueo activada#
-FunciÛn de bloqueo desactivada#
+Funci√≥n de bloqueo activada#
+Funci√≥n de bloqueo desactivada#
 %s ha abierto [%s] y obtenido [%s].#
-EspadachÌn#
+Espadach√≠n#
 Mago#
 Arquero#
-AcÛlito#
+Ac√≥lito#
 Comerciante#
-LadrÛn#
+Ladr√≥n#
 Caballero#
 Sacerdote#
 Hechicero#
@@ -1642,15 +1642,15 @@ Asesino#
 Cruzado#
 Monje#
 Sabio#
-PÌcaro#
+P√≠caro#
 Alquimista#
 Bardo#
 Danzarina#
-Caballero R˙nico#
+Caballero R√∫nico#
 Brujo#
 Montaraz#
 Arc Bishop#
-Mec·nico#
+Mec√°nico#
 Guillotine Cross#
 Guardia Real#
 Hechicero Sabio#
@@ -1659,20 +1659,20 @@ Vagabunda#
 Sura#
 Geneticist#
 Shadow Chaser#
-Alto EspadachÌn#
+Alto Espadach√≠n#
 Alto Mago#
 Alto Arquero#
-Alto AcÛlito#
+Alto Ac√≥lito#
 Alto Comerciante#
-Alto LadrÛn#
+Alto Ladr√≥n#
 Lord Knight#
 Sumo Sacerdote#
 Gran Hechicero#
 Maestro Herrero#
 Francotirador#
 Asesino Cruzado#
-PaladÌn#
-CampeÛn#
+Palad√≠n#
+Campe√≥n#
 Profesor#
 Acosador#
 Creador#
@@ -1717,23 +1717,23 @@ Soporte#
 Comando de reclutamiento de grupo#
 No es posible solicitar alianza de gremio.#
 No es posible declarar hostilidad de gremio.#
-No es posible aÒadir amigos en este mapa.#
+No es posible a√±adir amigos en este mapa.#
 Ventana de Tienda de Compra#
 Price: #
 Money: #
-LÌmite de Zeny para Compra#
+L√≠mite de Zeny para Compra#
 Por favor registra primero el objeto que deseas comprar.#
 Por favor introduce el precio para %s.#
 Introduce el precio de %s. Debe ser menor a 9999 million Zeny.#
 Por favor introduce la cantidad para %s.#
 The total quantity of %s in possession is more than 9999. Please enter value less than 9999.#
 Tienes objetos duplicados en tu lista de compra.#
-Introduce el precio lÌmite.#
+Introduce el precio l√≠mite.#
 Has introducido una cantidad de Zeny mayor a la que posees.#
 %s : %s  Zeny => %s unid.#
 Objetos disponibles:#
 Lista de compra:#
-Precio lÌmite: %s Zeny#
+Precio l√≠mite: %s Zeny#
 Buying %s for %s Zeny. Amount: %d.#
 Objetos solicitados#
 Objetos disponibles:#
@@ -1741,9 +1741,9 @@ The max. number of items you can sell is %d.#
 Buyer has insufficient zeny, lower the amount of items you're selling.#
 Error al abrir la tienda de compra.#
 Excedes la cantidad total de objetos permitida.#
-Has comprado todos los objetos dentro del lÌmite de precio.#
+Has comprado todos los objetos dentro del l√≠mite de precio.#
 Has comprado todos los objetos.#
-Error en la transacciÛn por Zeny insuficiente.#
+Error en la transacci√≥n por Zeny insuficiente.#
 You have sold %s. Amount: %d. Total Zeny: %dz#
 El objeto %s no pudo venderse porque no posees la cantidad solicitada.#
 You have not registered to sell the item.Please Register to sell item.#
@@ -2014,10 +2014,10 @@ MAPA#
 CLASE#
 Not Available#
 [Protection of Guardian Angel] You can't use it when you reach the highest level.#
-øRealmente deseas move?#
+¬øRealmente deseas move?#
 Failed to move Char slot.#
 Character name is invalid.#
-Show MisiÛn (Quest)#
+Show Misi√≥n (Quest)#
 Depending on the protection of youth, and 0:00 to 6:00 while under the age of 16 of your game use is limited.#
 Depending on the protection of youth, 0:00 to 6:00 ^ff0000 under the age of 16 ^000000 limit your use of the game and the game ends.#
 Para cambiar de nombre, primero debes abandonar tu gremio.#
@@ -2026,8 +2026,8 @@ Error al cambiar el nombre del personaje.#
 Ready to change character slot in.(%d)#
 Ready to change character name in.(%d)#
 Length exceeds the maximum size of the character name you want to change.#
-El nombre contiene caracteres inv·lidos. No se pudo cambiar.#
-El cambio de nombre est· restringido para este personaje.#
+El nombre contiene caracteres inv√°lidos. No se pudo cambiar.#
+El cambio de nombre est√° restringido para este personaje.#
 Completado#
 For %d minutes your Exp will increase by %d%%.#
 Quedan %02d segundos para summon.#
@@ -2125,7 +2125,7 @@ When the battle is finished your character will be returned to the current spot 
 5. You can view and choose rewards in the arena waiting room.#
 Request help battle position#
 %s battle begins.#
-øDeseas enter the arena?#
+¬øDeseas enter the arena?#
 [Note]#
 When the battle is finished your character will#
 be returned to the current spot or (if it's not#
@@ -2144,9 +2144,9 @@ Level:#
 Win:#
 Draw:#
 Loss:#
-øDeseas participate in the individuals battle?#
-øDeseas participate in the parties battle?#
-øDeseas participate in the guilds battle?#
+¬øDeseas participate in the individuals battle?#
+¬øDeseas participate in the parties battle?#
+¬øDeseas participate in the guilds battle?#
 Battleground List#
 %d VS %d#
 LV %d and lower#
@@ -2195,7 +2195,7 @@ Required Items#
 Time Limit#
 Deadline#
 Search#
-NavegaciÛn#
+Navegaci√≥n#
 Back to Navigation#
 View List#
 Alternar Mini-mapa#
@@ -2210,16 +2210,16 @@ NPC#
 Monstruo#
 Escribe texto a buscar... (Ej: palabra ...#
 Pergamino#
-øUsar Pergamino?#
+¬øUsar Pergamino?#
 Service#
 Use Kafra Warp?#
 Plane#
-øViajar en Dirigible?#
->> Error al leer la informaciÛn del objetivo.#
+¬øViajar en Dirigible?#
+>> Error al leer la informaci√≥n del objetivo.#
 >> Destino <<#
 << Objetivo... >>#
 -----------#
-NavegaciÛn#
+Navegaci√≥n#
 = search result (%d) ==#
 Npc)%s:%s#
 Mob)%s:%s#
@@ -2237,7 +2237,7 @@ Destino: (%d, %d)#
 %2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s(%d,%d)=>(%d,%d)#
 E%2d) %s#
-øDeseas cancelar la navegaciÛn?#
+¬øDeseas cancelar la navegaci√≥n?#
 How to Use Navigation#
 ------------------- Instruction --------------------#
 1) /Navigation or /navi#
@@ -2273,7 +2273,7 @@ Undead %d#
 Neutral %d#
 Mediano#
 Grande#
-PequeÒo#
+Peque√±o#
 Maldito#
 Brute#
 Plant#
@@ -2351,7 +2351,7 @@ Selected System Shutdown is activated in your account,Time Left: %1.2d hours %1.
 Replay#
 Macro#
 Webbrowser#
-NavegaciÛn#
+Navegaci√≥n#
 UAEURL#
 Clan Info#
 Clan Level#
@@ -2392,7 +2392,7 @@ Killer#
 RuneKnight#
 Brujo#
 Montaraz#
-Mec·nico#
+Mec√°nico#
 GuillotineCross#
 Archbishop#
 RoyalGuard#
@@ -2498,8 +2498,8 @@ Guild storage is not available.#
 You are not joining any guild. Please try again after joining a guild.#
 Other guild member is using it. Please try againt later.#
 Strg Permit#
-AlmacÈn del Gremio#
-No tienes permisos para acceder al almacÈn del gremio.#
+Almac√©n del Gremio#
+No tienes permisos para acceder al almac√©n del gremio.#
 Limited Sale Registration Window#
 Item DB Name#
 Item DB Number#
@@ -2515,8 +2515,8 @@ Item ID lookup failed. Please try again later#
 >> ItemName : %s / Price : %dc / Quantity : %d / TimeOfSale : %dMonth:%dDay:%dHour:%dMinute ~ %dMonth:%dDay:%dHour:%dMinute#
 Registration successful#
 Registration failure. Please try again later.#
-El objeto ya fue registrado. Intenta m·s tarde.#
-Error al retirar el objeto. Intenta m·s tarde.#
+El objeto ya fue registrado. Intenta m√°s tarde.#
+Error al retirar el objeto. Intenta m√°s tarde.#
 El objeto %s ha sido retirado.#
 Special#
 Update quantity of limited sale items#
@@ -2545,9 +2545,9 @@ Log does not exist.#
 Entire#
 Insert Symbol#
 Remaining Time#
-Registros de AlmacÈn de Clan (Guild)#
+Registros de Almac√©n de Clan (Guild)#
 100 entries are displayed.#
-El AlmacÈn de Clan permanece abierto solo 2 minutos y se cerrar· autom·ticamente.#
+El Almac√©n de Clan permanece abierto solo 2 minutos y se cerrar√° autom√°ticamente.#
 Incorrect GameSamba ID. Please Try Again.#
 %s [%d Option] : %d unid.#
 Requires a Coin.#
@@ -2568,34 +2568,34 @@ Please enter a password to login.#
 Pet Evolution#
 Evolution - %s#
 Evolution requires the following ingredients:#
-øDeseas evolve your pet?#
+¬øDeseas evolve your pet?#
 Unknown Error#
 No pet can be summoned.#
 It is not requested petal.#
 Evolution material is low.#
 Lack of required materials for evolution.#
 Pet can only be evolved when intimacy is Loyal.#
-AlimentaciÛn autom·tica#
+Alimentaci√≥n autom√°tica#
 Tu mascota ha sido alimentada. Restan %s (%d)#
-AlimentaciÛn autom·tica: ACTIVADA (Auto Feed ON)#
-AlimentaciÛn autom·tica: DESACTIVADA (Auto Feed OFF)#
+Alimentaci√≥n autom√°tica: ACTIVADA (Auto Feed ON)#
+Alimentaci√≥n autom√°tica: DESACTIVADA (Auto Feed OFF)#
 Actualizar#
 %d minutes ago#
 %d hours ago#
 %d days ago#
 %d%% ( Premium %d%% + %s Server )#
 Correo enviado#
-Tu correo ha sido enviado con Èxito.#
+Tu correo ha sido enviado con √©xito.#
 El objeto ha sido transferido a tu inventario.#
 Error al obtener los objetos.#
 Por favor libera espacio en tu inventario.#
 Zeny obtenido.#
 Error al obtener el Zeny.#
-Se ha excedido el lÌmite m·ximo de Zeny.#
+Se ha excedido el l√≠mite m√°ximo de Zeny.#
 Objeto adjuntado correctamente.#
 Debes ingresar el nombre del destinatario.#
-El tÌtulo debe tener entre 4 y 50 caracteres.#
-Error en el envÌo del correo.#
+El t√≠tulo debe tener entre 4 y 50 caracteres.#
+Error en el env√≠o del correo.#
 Transmission has failed to inappropriate items.#
 Information of the recipient does not exist.#
 %s [%d option]#
@@ -2725,14 +2725,14 @@ Please fill out %s item price less than 1 billion Crackers.#
 Limited price : %s Crackers#
 %s %s Crackers %d#
 %s %d are sold. In total %d Crackers . 3%% charge will be imposed.#
-RODEX (BuzÛn)#
+RODEX (Buz√≥n)#
 ENVIAR#
 RECIBIR#
-Por favor cierra la ventana de redacciÛn de correo.#
+Por favor cierra la ventana de redacci√≥n de correo.#
 Acceso denegado al servidor (A)#
 Acceso denegado al servidor (B)#
 Debes desequipar Flechas y Municiones.#
-Consumir un objeto cerrar· la ventana de redacciÛn.#
+Consumir un objeto cerrar√° la ventana de redacci√≥n.#
 No posees ninguna Lupa.#
 Cierra la ventana de correo si deseas descartar el objeto.#
 Este jugador ya te ha enviado una solicitud de amistad.#
@@ -2740,8 +2740,8 @@ SCRIPT ERROR AID#
 \nErrorfile : %s\nErrorLine : %d line\nErrorContent: \n*before line : %s \n*Errorline : %s \n*next line:\n %s#
 ^ff0000Do you want to purchase the item? after confirmation will consume %d point and %d crackers.#
 Cerrar#
-MisiÛn (Quest)#
-Mostrar icono de MisiÛn (Quest)#
+Misi√≥n (Quest)#
+Mostrar icono de Misi√≥n (Quest)#
 Instalaciones#
 Mostrar iconos de instalaciones#
 Gremio/Grupo#
@@ -2749,7 +2749,7 @@ Mostrar Gremio/Grupo#
 Memorize location#
 Monstruo Jefe (MVP)#
 Me#
-øDeseas delete it?#
+¬øDeseas delete it?#
 Quest NPC#
 Input location name#
 Save location#
@@ -2852,7 +2852,7 @@ Refresh#
 %d hour#
 %d day#
 Returned#
-øDeseas delete the message?#
+¬øDeseas delete the message?#
 Show information#
 Zoom in#
 Zoom out#
@@ -2874,7 +2874,7 @@ Enter 4 english words and 2 chinese words#
 Your entered answer is [%s]. Is it right?#
 Icon is unchecked#
 Incorrect input (Remaining chance: %d)#
-øDeseas announce %d to player?#
+¬øDeseas announce %d to player?#
 Message has been sent to player#
 Needed Data for Query illegal software are not signed.#
 The player is being monitored.#
@@ -2898,7 +2898,7 @@ Synthesis of the required materials#
 Insufficient synthesis materials#
 Required material %d unid.#
 Refine value is to low for synthesis#
-øDeseas sign in to the adventurers?#
+¬øDeseas sign in to the adventurers?#
 Please leave a message#
 Please enter the text on the graph#
 %d second left#
@@ -2924,7 +2924,7 @@ Wear costume#
 Assign Guild Leader#
 Are sure want to assign %s as guild leader? After assigned your position will become %s#
 Cancelar#
-øDeseas close the shop?#
+¬øDeseas close the shop?#
 %02d day %02d hour %02d min %02d sec#
 Unable to sign in#
 Unable to sign in because the maximum number of sign-in is exceeded#
@@ -2977,8 +2977,8 @@ Return#
 With Mr/Miss#
 The Homunculus's name will be changed to^0000ff^0000ff %s^000000^000000, Are you sure?#
 Call function is ON#
-FunciÛn de llamada: ACTIVADA (Call ON)#
-FunciÛn de llamada: DESACTIVADA (Call OFF)#
+Funci√≥n de llamada: ACTIVADA (Call ON)#
+Funci√≥n de llamada: DESACTIVADA (Call OFF)#
 This character is currently opening a shop and can't be deleted#
 The same vend shop NPC has been set up#
 Opening shop is not allowed on this location#
@@ -2996,18 +2996,18 @@ Aura effect is ON#
 Aura effect is OFF#
 Aura effect is OFF. Please turn it ON and try again#
 You need %d bullet(s) to use the skill.#
-øDeseas swap the equipment?#
+¬øDeseas swap the equipment?#
 You can not do it while KO'ed.#
-No puedes realizar esta acciÛn mientras lanzas una habilidad.#
-No puedes realizar esta acciÛn durante un intercambio.#
-No puedes realizar esta acciÛn con la tienda abierta.#
-No puedes realizar esta acciÛn mientras hablas con un NPC.#
-No puedes realizar esta acciÛn en una sala de chat.#
-Los miembros del grupo no est·n conectados.#
+No puedes realizar esta acci√≥n mientras lanzas una habilidad.#
+No puedes realizar esta acci√≥n durante un intercambio.#
+No puedes realizar esta acci√≥n con la tienda abierta.#
+No puedes realizar esta acci√≥n mientras hablas con un NPC.#
+No puedes realizar esta acci√≥n en una sala de chat.#
+Los miembros del grupo no est√°n conectados.#
 You need %d arrow(s) to use the skill.#
 Ordenar objetos#
 To discard item, please close equipment swap window.#
-No hay ning˙n objeto para reemplazar.#
+No hay ning√∫n objeto para reemplazar.#
 Personaje eliminado#
 %y.%m.%d#
 Access date: %s#
@@ -3130,7 +3130,7 @@ Shortcut Description#
 Effect#
 Skill shortcut (F1 ~ F9)#
 Screenshot#
-Alejar c·mara (Zoom Out)#
+Alejar c√°mara (Zoom Out)#
 Zoom In#
 Clan (Guild)#
 Bank#
@@ -3205,15 +3205,15 @@ Navigation guide icon set#
 navigation UI#
 Navigation information#
 Share current location#
-Resultados de b˙squeda [0]#
-B˙squeda y descripciÛn#
-Error de ubicaciÛn#
+Resultados de b√∫squeda [0]#
+B√∫squeda y descripci√≥n#
+Error de ubicaci√≥n#
 Search result[%d]#
 Show navigation icon setting#
 Ruta que utiliza Zeny#
-Abrir ventana de navegaciÛn#
+Abrir ventana de navegaci√≥n#
 La cuenta no se encuentra activa#
-Haz clic en la ubicaciÛn para compartirla en el chat#
+Haz clic en la ubicaci√≥n para compartirla en el chat#
 4. Select Service project, Contains use of zeny and airship#
 5. [<-]ID : navigation mode<->swap search mode#
 Share mode -> use it when searching#
@@ -3227,7 +3227,7 @@ Abrir sala de chat#
 Un personaje con este nivel no puede unirse al grupo#
 '%lld' Experiencia de Clase#
 Has obtenido %lld de Experiencia de Clase.#
-No es posible abrir una tienda en la ubicaciÛn actual#
+No es posible abrir una tienda en la ubicaci√≥n actual#
  seconds left before it become usable#
 Cap#
 SNS Failed to send(%d)#
@@ -3246,14 +3246,14 @@ Cerrado por falta de Zeny suficiente. Por favor verifica.#
 Cerrado por falta de Blacksmith's Blessing. Por favor verifica.#
 Este objeto ha sido destruido.#
 Todos los atributos han sido reducidos.#
-La reducciÛn de atributos ha finalizado.#
+La reducci√≥n de atributos ha finalizado.#
 OTP Password is 8 digits.#
 Integrated account#
 Ragnarok Online#
 El servicio se encuentra actualmente en mantenimiento.#
-Por favor introduce un tÈrmino de b˙squeda#
+Por favor introduce un t√©rmino de b√∫squeda#
 MOTP#
-N˙mero de CertificaciÛn#
+N√∫mero de Certificaci√≥n#
 GNJOY MOTP downloaded to your phone, Please enter your verification number.#
 There is no party member that can be delegated. Do you want to disband the party instead?#
  - Age 18+#
@@ -3281,8 +3281,8 @@ Feed \nyourself#
 You can't feed Homunculus while the RODEX window is open.#
 Homunculus has been fed. '%s' - %d remaining#
 Homunculus automatic feeding is ON#
-AlimentaciÛn autom·tica de Hom˙nculo: ACTIVADA (Auto Feed ON)#
-AlimentaciÛn autom·tica de Hom˙nculo: DESACTIVADA (Auto Feed OFF)#
+Alimentaci√≥n autom√°tica de Hom√∫nculo: ACTIVADA (Auto Feed ON)#
+Alimentaci√≥n autom√°tica de Hom√∫nculo: DESACTIVADA (Auto Feed OFF)#
 Rate : %d%%#
 The target isn't in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
 There is no target in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
@@ -3430,7 +3430,7 @@ Failed to block all chats and whispers from all characters#
 Allowed all chats and whispers from all characters#
 Failed to allow all chats and whispers from all characters#
 Opening#
-øDeseas return to the login screen?#
+¬øDeseas return to the login screen?#
 STR and ATK increased.#
 STR, INT, DEX and HIT increased.#
 HP and DEF increased.#
@@ -3444,8 +3444,8 @@ The party leader is in the map that can't receive request.#
 No party can be found.#
 Party request.#
 http://rathena.org#
-°„#
-°Â#
+¬°√£#
+¬°√•#
 You're already friends#
 Can't find other party#
 You're already a friend with another character.#
@@ -3501,13 +3501,13 @@ Party number exceeded.#
 %s is already in the party.#
 %s has accepted party invitation.#
 %s refused party invitation.#
-Como no puedes recibir solicitudes, se rechazÛ la invitaciÛn de %s.#
+Como no puedes recibir solicitudes, se rechaz√≥ la invitaci√≥n de %s.#
 Adventurer's office list#
 Request to join the party#
 If you are not a party leader, you can not register party at the adventurer's office.#
 You can not stop the party recruitment.#
 This is party does not exist..#
-Alejar c·mara (Zoom Out)#
+Alejar c√°mara (Zoom Out)#
 %s : Zoom Out can be turned On Off#
 Zoom Out is turned (On)#
 Zoom Out is turned (Off)#
@@ -3613,38 +3613,38 @@ Free Movement#
 Using Free Pass#
 Atributos de Rasgo (Traits)#
 Poder: ^66cc33ATQ de Estado^ffffff y ^66cc33P.ATQ^ffffff#
-Aguante: ^66cc33Resistencia FÌsica^ffffff#
-SabidurÌa: ^66cc33Resistencia M·gica^ffffff#
+Aguante: ^66cc33Resistencia F√≠sica^ffffff#
+Sabidur√≠a: ^66cc33Resistencia M√°gica^ffffff#
 Hechizo: ^66cc33ATQ.M de Estado^ffffff y ^66cc33S.MATQ^ffffff#
-ConcentraciÛn: ^66cc33PREC, EVAS, P.ATQ^ffffff y ^66cc33S.MATQ^ffffff#
-Creatividad: ^66cc33Bono CuraciÛn^ffffff y ^66cc33TASA CRÕT^ffffff#
-DaÒo FÌsico Final#
-DaÒo M·gico Final#
-Resistencia FÌsica#
-Resistencia M·gica#
-Bono de CuraciÛn#
-Tasa de DaÒo CrÌtico#
+Concentraci√≥n: ^66cc33PREC, EVAS, P.ATQ^ffffff y ^66cc33S.MATQ^ffffff#
+Creatividad: ^66cc33Bono Curaci√≥n^ffffff y ^66cc33TASA CR√çT^ffffff#
+Da√±o F√≠sico Final#
+Da√±o M√°gico Final#
+Resistencia F√≠sica#
+Resistencia M√°gica#
+Bono de Curaci√≥n#
+Tasa de Da√±o Cr√≠tico#
 Puntos de Rasgo disponibles#
 J.Lv#
 AP#
 Ir al destino#
-InspecciÛn de Comercio/Defensa#
+Inspecci√≥n de Comercio/Defensa#
 Would you like to move to "%s" Management Territory?\n%d Zeny will be consumed with every move.\n(%d Zeny will be consumed during WoE times.)#
 \nManagement Territory: "%s"\n	\nDefense: %d / %d\nCommercial: %d / %d#
-Esta funciÛn no est· disponible en territorio de Guerra de Gremios (WoE).#
-Este personaje no ha aprendido las Habilidades B·sicas.#
+Esta funci√≥n no est√° disponible en territorio de Guerra de Gremios (WoE).#
+Este personaje no ha aprendido las Habilidades B√°sicas.#
 The connected IP cannot be used for Ragnarok:Zero.\nPlease contact the customer center or homepage.#
 Montar / Desmontar#
 Importar#
 Cargar los datos de los objetos registrados en la tienda anterior.#
-El acceso est· temporalmente restringido por mantenimiento.#
+El acceso est√° temporalmente restringido por mantenimiento.#
 Mensaje#
 You can play only with +18 or higher.#
 We don't recommend playing over 3 hours.#
 No posees suficientes puntos de AP.#
 No puede combinarse debido a su alto nivel de refinamiento.#
-El nivel de refinamiento supera el requerido para la combinaciÛn.#
-Tiene una carta incrustada o est· encantado.#
+El nivel de refinamiento supera el requerido para la combinaci√≥n.#
+Tiene una carta incrustada o est√° encantado.#
 ??A#
 Z#
 Total: %s Zeny#
@@ -3844,7 +3844,7 @@ RODEX cannot be used while enchanting. RODEX was forcibly closed.#
 RODEX cannot be used during enchantment.#
 Bank cannot be used while enchanting. The bank was forcibly closed.#
 Bank cannot be used while enchanted.#
-øDeseas enchant it?#
+¬øDeseas enchant it?#
 Reform#
 There are not enough materials for the Combination.#
 Equipped Cards and Enchantments will be lost.#
@@ -3905,7 +3905,7 @@ Sagrado#
 Sombra#
 Fantasma#
 Maldito#
-PequeÒo#
+Peque√±o#
 Mediano#
 Grande#
 DEF#
@@ -3918,7 +3918,7 @@ Rental Period#
 The rental period can be entered up to 14 days.#
 Trading impossible#
 View quick Quests#
-Hide Easy MisiÛn (Quest)#
+Hide Easy Misi√≥n (Quest)#
 Add to simple quest window#
 Deleted from simple quest window#
 Quest Help#
@@ -4009,15 +4009,15 @@ Quiz#
 En el campo inferior, escribe el mapa al que deseas enviar los verificadores.#
 En el campo inferior, introduce la pregunta de seguridad a mostrar.#
 El nombre del mapa no es correcto.#
-La combinaciÛn numÈrica no es correcta.#
+La combinaci√≥n num√©rica no es correcta.#
 Por favor escribe y presiona Enter para guardar.#
 You have sent checkers to %d blacklisted users.#
 Tiempo de espera del verificador de seguridad activo.#
 Existe un problema con los valores de mapa.#
-Existe un error con la pregunta o el n˙mero de respuestas correctas.#
+Existe un error con la pregunta o el n√∫mero de respuestas correctas.#
 Existe un problema con los valores de la prueba.#
 Existe un problema con el conteo de mapas.#
 Tiempo Restante %02d: %02d: %02d#
-El modo de verificaciÛn de seguridad ha sido activado. Enter the number displayed on the left of the screen with the keypad.#
+El modo de verificaci√≥n de seguridad ha sido activado. Enter the number displayed on the left of the screen with the keypad.#
 A penalty will be awarded when the remaining time expires or %d incorrect answers.#
-Introduce el cÛdigo de seguridad#
+Introduce el c√≥digo de seguridad#
